@@ -1,3 +1,5 @@
+페이지 링크 : https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
 이 프로젝트는 말 그대로 프론트엔드 개발자의 잡인터뷰를 위한 질문들을 모아놓은 프로젝트입니다.
 
 목차는 General Questions,HTML Questions,CSS Questions,JS Questions,jQuery Questions,Coding Questions,Fun Questions 순이구요. 여기 올라운 글들을 되짚어 보면 프론트엔드 개발자라면 알아야할 항목들에 대해서 잘 나와 있는 문서라고 보면 될 거 같습니다.

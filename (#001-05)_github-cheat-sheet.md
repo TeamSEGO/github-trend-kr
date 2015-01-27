@@ -1,3 +1,5 @@
+페이지 링크 : https://github.com/tiimgreen/github-cheat-sheet
+
 5번째 아이템은 github-cheatsheet 이네요.
 
 cheatsheet 이라고 하면 우리말로는 여러가지 표현법이 있겠으나 필살기 쯤으로 생각하시면 될 듯합니다.
