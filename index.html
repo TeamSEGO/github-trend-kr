@@ -1,0 +1,57 @@
+﻿<html ng-app="blog">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script type="text/javascript" src="js/angular-route.min.js"></script>
+<script type="text/javascript" src="js/angular-animate.min.js"></script>
+<script type="text/javascript" src="posting/00_list.js"></script>
+<script type="text/javascript" src="js/blog.js"></script>
+<script type="text/javascript" src="js/jquery-2.1.1.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/showdown.min.js"></script>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<style>
+pre {
+    background-color: #F8F8F8;
+border: 1px solid #DDD;
+font-size: 13px;
+line-height: 19px;
+overflow: auto;
+padding: 6px 10px;
+border-radius: 3px
+}
+code {
+    color:#000;
+}
+li {
+    list-style-type: disc;
+    list-style-position: inside;
+    padding: 0 12px;
+}
+</style>
+
+</head>
+<body ng-controller="blogC">
+<div class="container">
+	<div class="row col-md-12">
+		<blognavbar/>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-md-offset-1">
+			<div class="row">
+				<introduction/>
+			</div>
+			<div class="row hidden-xs">
+				<blogmenu/>
+			</div>
+			<div class="row visible-xs">
+				<a href="#menu/bloglist">mobile menu</a>
+			</div>
+		</div>
+		<div class="col-md-7">
+			<ng-view/>
+		</div>
+	</div>
+</div>
+</body>
+</html>
