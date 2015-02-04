@@ -1,5 +1,5 @@
 var app = angular.module('segoApp', ['ngRoute']);
-var contentapiurl = 'https://api.github.com/repos/TeamSEGO/github-trend-kr/contents/';
+var contentapiurl = 'https://api.github.com/repos/zeroxy/github-trend-kr/contents/';
 var vol = [];
 app.filter('nonamed', function(){
   return function(input){return (input == undefined || input == null)?'no-named':input;}
