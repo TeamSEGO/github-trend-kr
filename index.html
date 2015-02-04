@@ -1,40 +1,24 @@
-﻿<html ng-app="blog">
+﻿<html ng-app="segoApp">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<script type="text/javascript" src="js/angular.min.js"></script>
-<script type="text/javascript" src="js/angular-route.min.js"></script>
-<script type="text/javascript" src="js/angular-animate.min.js"></script>
-<script type="text/javascript" src="posting/00_list.js"></script>
-<script type="text/javascript" src="js/blog.js"></script>
-<script type="text/javascript" src="js/jquery-2.1.1.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/showdown.min.js"></script>
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<style>
-pre {
-    background-color: #F8F8F8;
-border: 1px solid #DDD;
-font-size: 13px;
-line-height: 19px;
-overflow: auto;
-padding: 6px 10px;
-border-radius: 3px
-}
-code {
-    color:#000;
-}
-li {
-    list-style-type: disc;
-    list-style-position: inside;
-    padding: 0 12px;
-}
-</style>
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+  <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.2.2/css/ripples.css" rel="stylesheet">
+  <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.2.2/css/material-wfont.css" rel="stylesheet">
+  <!--script type="text/javascript" src="posting/00_list.js"></script-->
+  <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular-route.js"></script>
+  <script src="js/Segobook.js"></script>
+  <script src="js/showdown.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.2.2/js/ripples.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.2.2/js/material.js"></script>
 
 </head>
-<body ng-controller="blogC">
+<body ng-controller="segoCtrl">
 <div class="container">
 	<div class="row col-md-12">
-		<blognavbar/>
+		<navbar/>
 	</div>
 	<div class="row">
 		<div class="col-md-2 col-md-offset-1">
@@ -42,10 +26,7 @@ li {
 				<introduction/>
 			</div>
 			<div class="row hidden-xs">
-				<blogmenu/>
-			</div>
-			<div class="row visible-xs">
-				<a href="#menu/bloglist">mobile menu</a>
+				<bookindex/>
 			</div>
 		</div>
 		<div class="col-md-7">
@@ -53,5 +34,10 @@ li {
 		</div>
 	</div>
 </div>
+<script>
+  $(document).ready(function() {
+    $.material.init();
+  });
+</script>
 </body>
 </html>
