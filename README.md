@@ -43,7 +43,7 @@
 
  ![이미지](../master/img/001-02.png)
 ##  3. bleessed-contrib
- 페이지 링크 : https://github.com/alex/what-happens-when
+ 페이지 링크 : https://github.com/yaronn/blessed-contrib
 
  ascii art를 아시나요?
 
