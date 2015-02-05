@@ -1,5 +1,6 @@
 var app = angular.module('segoApp', ['ngRoute']);
 var contentapiurl = 'https://api.github.com/repos/zeroxy/github-trend-kr/contents/';
+var postfix = "?ref=gh-pages&callback=JSON_CALLBACK";
 var vol = [];
 app.filter('nonamed', function(){
   return function(input){return (input == undefined || input == null)?'no-named':input;}
@@ -19,12 +20,12 @@ app.controller('articleCtrl', function ($scope, $routeParams){
 
 app.controller('segoCtrl', function($scope,$http){
   $scope.menus = [];
-  $http.jsonp(contentapiurl+'posting?callback=JSON_CALLBACK')
+  $http.jsonp(contentapiurl+'posting'+postfix)
   .success(function(data, status, headers, config){
     vollist = data.data;
     //vollist = vollist.filter(function(e){if(e.b==="dir") return {"name":e.name,"path":e.path};});
     for (vol in vollist){
-      $http.jsonp(contentapiurl+vol.path+'?callback=JSON_CALLBACK')
+      $http.jsonp(contentapiurl+vol.path+postfix)
       .success(function(data, status, headers, config){
         articles = data.data
         //articles = articles.filter(function(e){if(e.b==="file" && e.name.substring(e.name.length-2)==="md") return {"name":e.name,"path":e.path}; }); 
