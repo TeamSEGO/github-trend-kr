@@ -1,2 +1,11 @@
 <input type="text" ng-model="query"/>
-<a ng-repeat="menu in menus | filter:query" href="#{{menu.file.substring(0,menu.file.lastIndexOf('.'))}}">{{$index+1}}. {{menu.file.substring(0,menu.file.lastIndexOf('.'))|nonamed}}<br/></a>
+<div ng-repeat="menu in menus | filter:query" ng-click="menu.folding = !menu.folding">
+<a  href=""><!-- href="#{{menu.file.substring(0,menu.file.lastIndexOf('.'))}}">{{$index+1}}. {{menu.file.substring(0,menu.file.lastIndexOf('.'))|nonamed}}<br/> -->
+{{menu.volume.name}}
+</a>
+  <ul ng-show="menu.folding">
+  <li ng-repeat="article in menu.articles | filter:query">
+  <a href="#/{{menu.volume.name}}/{{article.name}}">{{article.name}}</a>
+  </li>
+</ul>
+</div>
