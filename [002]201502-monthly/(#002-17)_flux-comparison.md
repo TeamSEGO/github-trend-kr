@@ -5,3 +5,5 @@
 사용 언어: JavaScript
 
 Practical comparison of different Flux solutions
+
+![이미지1](../master/img/002-17.png)
