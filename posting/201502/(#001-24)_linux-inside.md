@@ -13,4 +13,4 @@ https://github.com/0xAX/asm
 
 어셈블리에 관련한 내용을 다루고 있습니다.
 
-![이미지1](../master/img/001-24.png)
+![이미지1](img/001-24.png)
