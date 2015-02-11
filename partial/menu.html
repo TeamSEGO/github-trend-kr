@@ -1,2 +1,0 @@
-<input type="text" ng-model="query"/>
-<a ng-repeat="menu in menu | filter:query" href="#{{menu.file.substring(0,menu.file.lastIndexOf('.'))}}">{{$index+1}}. {{menu.file.substring(0,menu.file.lastIndexOf('.'))|nonamed}}<br/></a>
