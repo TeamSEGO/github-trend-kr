@@ -12,4 +12,4 @@ wmctrl: http://tomas.styblo.name/wmctrl/
 
 byzanz-record: http://manpages.ubuntu.com/manpages/oneiric/man1/byzanz-record.1.html
 
-![이미지1](../img/002-02.gif)
+![이미지1](img/002-02.gif)

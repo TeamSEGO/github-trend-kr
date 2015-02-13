@@ -6,4 +6,4 @@
 
 Practical comparison of different Flux solutions
 
-![이미지1](../img/002-17.png)
+![이미지1](img/002-17.png)

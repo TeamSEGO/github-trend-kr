@@ -7,4 +7,4 @@
 The Prometheus monitoring system and time series database. 
 http://prometheus.io/
 
-![이미지1](../img/002-19.png)
+![이미지1](img/002-19.png)
