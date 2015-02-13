@@ -1,4 +1,4 @@
-# 3. coreclr
+# coreclr
 
 페이지 링크 : https://github.com/dotnet/coreclr
 
@@ -17,4 +17,4 @@ ASP.net 5의 한 부분이며 .net framework의 서브셋이네요.
 
 일단 컨트리뷰션하는 방법은 버그를 찾고 커뮤니케이션을 하자라고 적혀 있네요
 
-![이미지1](../img/002-03.png)
+![이미지1](img/002-03.png)
