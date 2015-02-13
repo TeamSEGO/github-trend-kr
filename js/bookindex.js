@@ -27,7 +27,8 @@ var menus = [
     ,{"name":"(#001-25)_trip-to-iOS.md"}
   ]}
   ,{"volume":{"name":"201502-2","path":"posting/[002]201502-monthly"} , "articles":[
-    {"name":"(#002-01)_Dshell.md"}
+    {"name":"(#002-00)_intro.md"}
+    ,{"name":"(#002-01)_Dshell.md"}
     ,{"name":"(#002-02)_mkcast.md"}
     ,{"name":"(#002-03)_coreclr.md"}
     ,{"name":"(#002-04)_is.js.md"}
@@ -53,4 +54,4 @@ var menus = [
     ,{"name":"(#002-24)_angular.js.md"}
     ,{"name":"(#002-25)_atom.md"}
   ]}
-]; 
+];
