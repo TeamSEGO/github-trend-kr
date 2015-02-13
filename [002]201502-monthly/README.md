@@ -8,109 +8,57 @@
 
 # 지난호 목차
 
-### 2월호, 1주차
-
-https://github.com/TeamSEGO/github-trend-kr/tree/master/%5B001%5D201502-monthly
+* [2월호, 1주차](https://github.com/TeamSEGO/github-trend-kr/tree/master/%5B001%5D201502-monthly)
 
 # 이번주 목차 
 
-### 1. Dshell
+* 1. [Dshell](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-01)_Dshell.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-01)_Dshell.md
+* 2. [mkcast](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-02)_mkcast.md)
 
-### 2. mkcast
+* 3. [coreclr](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-03)_coreclr.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-02)_mkcast.md
+* 4. [is.js](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-04)_is.js.md)
 
-### 3. coreclr
+* 5. [Spring](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-05)_Spring.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-03)_coreclr.md
+* 6. [Comcast](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-06)_Comcast.md)
 
-### 4. is.js
+* 7. [Comcast](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-07)_react.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-04)_is.js.md
+* 8. [Hound](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-08)_Hound.md)
 
-### 5. Spring
+* 9. [remote-desktop-clients](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-09)_remote-desktop-clients.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-05)_Spring.md
+* 10. [css-layout](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-10)_css-layout.md)
 
-### 6. Comcast
+* 11. [android-open-project-analysis](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-11)_android-open-project-analysis.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-06)_Comcast.md
+* 12. [webseclab](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-12)_webseclab.md)
 
-### 7. Comcast
+* 13. [linux-insides](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-13)_linux-insides.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-07)_react.md
+* 14. [passenger-docker](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-14)_passenger-docker.md)
 
-### 8. Hound
+* 15. [paperwork](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-15)_paperwork.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-08)_Hound.md
+* 16. [til](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-16)_til.md)
 
-### 9. remote-desktop-clients
+* 17. [flux-comparison](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-17)_flux-comparison.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-09)_remote-desktop-clients.md
+* 18. [µBlock](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-18)_uBlock.md)
 
-### 10. css-layout
+* 19. [prometheus](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-19)_prometheus.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-10)_css-layout.md
+* 20. [shipit](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-20)_shipit.md)
 
-### 11. android-open-project-analysis
+* 21. [FancyTabBar](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-21)_FancyTabBar.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-11)_android-open-project-analysis.md
+* 22. [what-happens-when](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-22)_what-happens-when.md)
 
-### 12. webseclab
+* 23. [react-hot-loader](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-23)_react-hot-loader.md)
 
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-12)_webseclab.md
+* 24. [angular.js](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-24)_angular.js.md)
 
-### 13. linux-insides
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-13)_linux-insides.md
-
-### 14. passenger-docker
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-14)_passenger-docker.md
-
-### 15. paperwork
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-15)_paperwork.md
-
-### 16. til
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-16)_til.md
-
-### 17. flux-comparison
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-17)_flux-comparison.md
-
-### 18. µBlock
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-18)_uBlock.md
-
-### 19. prometheus
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-19)_prometheus.md
-
-### 20. shipit
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-20)_shipit.md
-
-### 21. FancyTabBar
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-21)_FancyTabBar.md
-
-### 22. what-happens-when
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-22)_what-happens-when.md
-
-### 23. react-hot-loader
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-23)_react-hot-loader.md
-
-### 24. angular.js
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-24)_angular.js.md
-
-### 25. atom
-
-https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-25)_atom.md
+* 25. [atom](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23002-25)_atom.md)
 
