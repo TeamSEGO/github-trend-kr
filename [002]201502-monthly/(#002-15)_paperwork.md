@@ -10,4 +10,4 @@ Evernote, Microsoft OneNote, Google Keep와 유사한 노트 작성 서비스입
 
 데모: http://demo.paperwork.rocks/
 
-![이미지1](../master/img/002-21.png)
+![이미지1](../img/002-21.png)
