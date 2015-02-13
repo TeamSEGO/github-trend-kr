@@ -10,13 +10,15 @@
 
 https://github.com/trending?since=monthly
 
+https://github.com/trending?since=weekly
+
 를 토대로 작성합니다.월간 깃헙 트렌드, 주간 깃헙 트렌드 등으로 서비스를 할 거구요.
 
 지치면 그만하는걸로! 하겠습니다.
 
 깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
 
-## 2월
+## 2015년 2월
 
 1. 월간
 
