@@ -23,11 +23,13 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
         url = menus[menu].volume.path+"/"+menus[menu].articles[article].name;
         $http.get(escape(url))
         .success(function(data, status){
-          //var urlPattern = /\b(?:https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
-          //var result = data.replace(urlPattern, function(url){
-          //  return '<a href="'+url+'">'+url+'</a>';
-          //});
-          var result = converter.makeHtml(data);
+          var markup = converter.makeHtml(data);
+          /*show down does not convert http*/
+          var urlPattern = /\b(?:https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
+          var result = markup.replace(urlPattern, function(url){
+            return '<a href="'+url+'">'+url+'</a>';
+          });
+
           $scope.mddata.push(result);
         })
         .error(function(data,status){
