@@ -10,6 +10,7 @@ body {
 
 p {
     font-size: 20px;
+    word-wrap: break-word;
 }
 
 p.small {
