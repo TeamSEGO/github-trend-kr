@@ -10,4 +10,4 @@ Material design이 적용된 선형 진행 막대입니다. 자바스크립트�
 
 bower나 npm을 사용하여 쉽게 설치한 후 사용이 가능합니다.
 
-[온라인 데모](http://lightningtgc.github.io/MProgress.js/)
+* [온라인 데모](http://lightningtgc.github.io/MProgress.js/)
