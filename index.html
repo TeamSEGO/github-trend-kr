@@ -79,6 +79,7 @@
                         <span class="name">TEAM S!E!G!O!</span>
                         <hr class="star-light">
                         <span class="skills">Special TEAM</span>
+                        <div class="fb-like" data-share="true" data-width="450" data-show-faces="true"></div>
                     </div>
                 </div>
             </div>
@@ -541,6 +542,23 @@
     <script src="js/showdown.min.js"></script>
     <script src="js/bookindex.js"></script>
     <script src="js/Segobook.js"></script>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '348359068682841',
+          xfbml      : true,
+          version    : 'v2.2'
+        });
+      };
+     
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
 </body>
 
 </html>
