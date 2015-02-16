@@ -17,7 +17,7 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
   var converter = new Showdown.converter();
   $scope.mddata = [];
   for (menu in menus){
-    console.log(menus[menu].volume.name);
+    //console.log(menus[menu].volume.name);
     if(menus[menu].volume.name===$routeParams.vol){
       for(article in menus[menu].articles){
         url = menus[menu].volume.path+"/"+menus[menu].articles[article].name;
@@ -42,6 +42,7 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
 });
 
 app.controller('segoCtrl',function($scope, $route, $routeParams){
+  console.log($routeParams);
   $scope.menus = menus;
 });
 
