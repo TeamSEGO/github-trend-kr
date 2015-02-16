@@ -14,9 +14,9 @@ app.filter('nonamed', function(){
   return function(input){return (input == undefined || input == null)?'no-named':input;}
 });
 
-app.config(function($routeProvider) {
+app.config(function($routeProvider, $routeParams) {
     $routeProvider
-    .when('/:vol', {template:section_template()+footer_template(params.vol), controller:'articleCtrl'})
+    .when('/:vol', {template:section_template()+footer_template($routeParams.vol), controller:'articleCtrl'})
     //.when('/', {templateUrl:'/README.md', controller:'articleCtrl'})
     .otherwise({ redirectTo: '/'+menus[menus.length-1].volume.name});
 });
