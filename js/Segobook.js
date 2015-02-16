@@ -16,7 +16,7 @@ app.filter('nonamed', function(){
 
 app.config(function($routeProvider, $routeParams) {
     $routeProvider
-    .when('/:vol', {template:section_template()+footer_template($routeParams.vol), controller:'articleCtrl'})
+    .when('/:vol', {template:section_template(), controller:'articleCtrl'})
     //.when('/', {templateUrl:'/README.md', controller:'articleCtrl'})
     .otherwise({ redirectTo: '/'+menus[menus.length-1].volume.name});
 });
