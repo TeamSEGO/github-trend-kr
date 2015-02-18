@@ -10,14 +10,14 @@
 
 # 이번주 목차 
 
-1. [htaccess](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-01)_htaccess.md)
-2. [react-canvas](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-02)_react-canvas.md)
-3. [p2pvc](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-03)_p2pvc.md)
-4. [hubpress.io](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-04)_hubpress.io.md)
-5. [free-programming-books](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-05)_free-programming-books.md)
-6. [lets-chat](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-06)_lets-chat.md)
-7. [is.js](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-07)_is.js.md)
-8. [tinderbox](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23002-08)_tinderbox.md)
+1. [htaccess](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-01)_htaccess.md)
+2. [react-canvas](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-02)_react-canvas.md)
+3. [p2pvc](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-03)_p2pvc.md)
+4. [hubpress.io](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-04)_hubpress.io.md)
+5. [free-programming-books](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-05)_free-programming-books.md)
+6. [lets-chat](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-06)_lets-chat.md)
+7. [is.js](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-07)_is.js.md)
+8. [tinderbox](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B003%5D201502-monthly/(%23003-08)_tinderbox.md)
 9. [coreclr](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23003-09)_coreclr.md)
 10. [reapp](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23003-10)_reapp.md)
 11. [react](https://github.com/TeamSEGO/github-trend-kr/blob/master/%5B002%5D201502-monthly/(%23003-11)_react.md)
