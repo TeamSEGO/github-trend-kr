@@ -1,6 +1,6 @@
 # 월간 깃헙 트렌드(2월호, 3주차)
 
-안녕하세요. 2번째로 이어 받은 TeamSEGO 의 claire(twitter: @), depa(twitter: @depaHwang)입니다. 설날이지만 놀지 않았습니다. 
+안녕하세요. 2번째로 이어 받은 TeamSEGO 의 claire & depa(twitter: @depaHwang)입니다. 설날이지만 놀지 않았습니다.
 
 # 지난호 목차
 
