@@ -16,7 +16,7 @@ app.filter('nonamed', function(){
 
 app.config(function($routeProvider) {
     $routeProvider
-    .when('/:vol', {template:'<section ng-repeat="md in mddata track by $index" ng-class-even="\'success\'"><div class="container"><div class="row"><div class="col-lg-8 col-lg-offset-2"><h1>{{$index+1}}</h1><markdown renderdata = "md"></markdown></div></div></div></section>', controller:'articleCtrl'})
+    .when('/:vol', {template:'<section ng-repeat="md in mddata track by $index" ng-class-even="\'success\'"><div class="container"><div class="row"><div class="col-lg-8 col-lg-offset-2"><h1>{{$index}}</h1><markdown renderdata = "md"></markdown></div></div></div></section>', controller:'articleCtrl'})
     //.when('/', {templateUrl:'/README.md', controller:'articleCtrl'})
     .otherwise({ redirectTo: '/'+menus[menus.length-1].volume.name});
 });
