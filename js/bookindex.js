@@ -55,7 +55,8 @@ var menus = [
     ,{"name":"(#002-25)_atom.md"}
   ]}
   ,{"volume":{"name":"201502-3","path":"posting/[003]201502-monthly"} , "articles":[
-    {"name":"(#003-01)_htaccess.md"}
+    {"name":"README.md"}
+    ,{"name":"(#003-01)_htaccess.md"}
     ,{"name":"(#003-02)_react-canvas.md"}
     ,{"name":"(#003-03)_p2pvc.md"}
     ,{"name":"(#003-04)_hubpress.io.md"}
