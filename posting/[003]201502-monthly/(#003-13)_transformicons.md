@@ -1,10 +1,9 @@
-# 13. transformicons
 
 페이지 링크 : https://github.com/grayghostvisuals/transformicons
 
 사용언어 : CSS, HTML, SVG
 
-navicon-transformicons에서 fork된 프로젝트로 CSS, HTML, SVG를 이용해 symbol, button, icon에 에니메이션을 입혔습니다. 
+navicon-transformicons에서 fork된 프로젝트로 CSS, HTML, SVG를 이용해 symbol, button, icon에 에니메이션을 입혔습니다.
 
 특히 CSS와 SVG를 이용하기 때문에 별도의 라이브러리 없이 transformicons 요소들을 사용할 수 있습니다.
 

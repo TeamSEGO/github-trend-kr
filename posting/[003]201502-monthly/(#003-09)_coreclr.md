@@ -1,4 +1,3 @@
-# 9.coreclr
 
 페이지 링크 : https://github.com/dotnet/coreclr
 
@@ -15,9 +14,9 @@ http://www.dotnetfoundation.org 사이트를 방문해 보시면 이 닷넷 파�
 관련된 테크 크런치 기사는 http://techcrunch.com/2014/04/03/microsoft-launches-net-foundation-to-foster-the-net-open-source-ecosystem/ 와 같이 확인할 수 있는데요.
 
 닷넷 오픈소스 하위프로젝트로는 roslyn, corefx, orleans.. 등등이 있네요.
-coreclr의 contributor 들을 살펴보면 예상대로 대부분의 핵심 커미터들은 전부 MS 개발자네요. 
+coreclr의 contributor 들을 살펴보면 예상대로 대부분의 핵심 커미터들은 전부 MS 개발자네요.
 
-coreCLR은 닷넷 core runtime 의 줄임말로(?) Java Runtime 처럼 생각하시면 될 듯 합니다. 
+coreCLR은 닷넷 core runtime 의 줄임말로(?) Java Runtime 처럼 생각하시면 될 듯 합니다.
 
 ASP.net 5의 한 부분이며 .net framework의 서브셋이네요.
 

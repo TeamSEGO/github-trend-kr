@@ -1,4 +1,3 @@
-# 12. vim-hackernews
 
 페이지 링크 : https://github.com/ryanss/vim-hackernews
 

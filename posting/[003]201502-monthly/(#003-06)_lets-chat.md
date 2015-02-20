@@ -1,4 +1,3 @@
-# 6. lets-chat
 
 페이지 링크 : https://github.com/sdelements/lets-chat
 

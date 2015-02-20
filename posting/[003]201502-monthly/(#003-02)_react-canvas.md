@@ -1,4 +1,3 @@
-# 2. react-canvas
 
 페이지 링크 : https://github.com/Flipboard/react-canvas
 
@@ -6,9 +5,9 @@
 
 [Introductory blog post](http://engineering.flipboard.com/2015/02/mobile-web/)
 
-Flipboard는 모바일 웹 앱이 갖는 성능적 한계의 이유가 DOM 때문이며, 
+Flipboard는 모바일 웹 앱이 갖는 성능적 한계의 이유가 DOM 때문이며,
 이를 극복하기 위한 방법으 canvas를 이용하는 것을 제안하였습니다.
-대부분의 modern mobile devices는 hardware-accelerated canvas를 가지고 있기 때문에 
+대부분의 modern mobile devices는 hardware-accelerated canvas를 가지고 있기 때문에
 이를 이용해 보다 높은 성능의 모바일 웹 앱을 구현 할 수 있는 것입니다.
 
 이러한 아이디어를 바탕으로 나온 결과물이 react-canvas입니다.

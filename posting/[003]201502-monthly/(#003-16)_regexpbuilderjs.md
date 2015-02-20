@@ -1,4 +1,3 @@
-# 16. RegExpBuilder.js
 
 페이지 링크: https://github.com/thebinarysearchtree/regexpbuilderjs
 
@@ -10,7 +9,7 @@ Java 버전도 제공하고 있습니다. ([RegExpBuilder java](https://github.c
 굉장히 직관적이고 쉽게 사용할수 있도록 짜여진 것 같습니다. wiki로 정리된 문서를 보면 사용하시는데 더 좋을 것 같습니다.
 * [RegExpBuilder 문서](https://github.com/thebinarysearchtree/regexpbuilderjs/wiki)
 * 사용 예시
-* 
+*
     var regex = new RegExpBuilder()
     .startOfLine()
     .then("Team SEGO is ")
