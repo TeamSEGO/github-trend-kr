@@ -11,4 +11,4 @@ tinder box는 [Eigenface](https://en.wikipedia.org/wiki/Eigenface)을 이용해 
 
 tinder 사용자라면 한번 사용해보시기 바랍니다.
 
-![이미지1](../img/003-08.png)
+![이미지1](img/003-08.png)
