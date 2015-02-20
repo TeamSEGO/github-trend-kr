@@ -22,16 +22,15 @@ app.config(function($routeProvider) {
 });
 
 app.controller('articleCtrl',function ($scope,$http, $routeParams){
-  var converter = new Showdown.converter();
+
   $scope.mddata = [];
   for (menu in menus){
-    //console.log(menus[menu].volume.name);
     if(menus[menu].volume.name===$routeParams.vol){
-      for(article in menus[menu].articles){
-        url = menus[menu].volume.path+"/"+menus[menu].articles[article].name;
+      var mPath = menus[menu].volume.path;
+      async.eachSeries(menus[menu].articles, function(article, callback){
+        url = mPath + "/"+article.name;
         $http.get(escape(url))
         .success(function(data, status){
-          //var markup = converter.makeHtml(data);
           /*show down does not convert http*/
           var urlPattern = /\b(?:https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
           var result = data.replace(urlPattern, function(url){
@@ -39,11 +38,14 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
           });
 
           $scope.mddata.push(result);
+          callback();
         })
         .error(function(data,status){
           $scope.mddata.push('# '+status+'\n ## **Sorry!!**');
+          callback();
         });
-      }
+      },function(){ console.log('done');});
+
     }
   }
 
