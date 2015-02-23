@@ -44,7 +44,9 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
           $scope.mddata.push('# '+status+'\n ## **Sorry!!**');
           callback();
         });
-      },function(){ console.log('done');});
+      },function(){
+        //console.log('done');
+      });
 
     }
   }
@@ -70,6 +72,12 @@ app.directive('introduction', function(){
 app.directive('navbar', function(){
   return {
     templateUrl:'partial/blognavbar.html'
+    , restrict:'E'
+  }
+});
+app.directive('logo', function(){
+  return {
+    templateUrl:'logo.xml'
     , restrict:'E'
   }
 });
