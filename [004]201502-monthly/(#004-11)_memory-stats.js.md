@@ -1,7 +1,7 @@
 
 ## memory-stats.js
 
-[stats.js](https://github.com/mrdoob/stats.js/)와 비슷하 JS Memory monitoring
+[stats.js](https://github.com/mrdoob/stats.js/)와 비슷한 JS Memory monitoring
 
 * stats.js는 javascript Perfomance Monitor 이다. FPS, MS등을 표기할 수 있다.
 
@@ -35,7 +35,7 @@
     });
 ```
 
-flag('--enable-precise-memory-info')와 함께 Chrome을 실행시키고 demo폴더의 'index.html'을 실행시키면 동작하는 모습을 확인 할 수 있다.
+flag(`--enable-precise-memory-info`)와 함께 Chrome을 실행시키고 demo폴더의 `index.html`을 실행시키면 동작하는 모습을 확인 할 수 있다.
 
 # Framework adaptors
 
