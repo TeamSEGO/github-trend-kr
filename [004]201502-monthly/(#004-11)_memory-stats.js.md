@@ -55,7 +55,8 @@ Bookmarklet Code : 북마크 하고 싶으신 분들은 아래 코드를 페이�
 javascript:(function(){var script=document.createElement('script');script.src='https://rawgit.com/paulirish/memory-stats.js/master/bookmarklet.js';document.head.appendChild(script);})()
 ```
 
-Test결과 Chrome만 동작하는 단점이 있다. 브라우져 평가시에 FPS, MS등과 함께 이용하면 좋겠지만... 아직은.. 보완해야 할 점들이 만이 보인다. 
+Test결과 Chrome이외에 Explorer, firefox에서는 동작하지 않는 단점이 있다. 
+FPS, MS등과 함께 이용하면 사이트평가, 브라우져 평가등에 이용할 수 있겠지만.... 아직은... 
 
 * FPS : 초당 rendering 된 Frame 수. 높을수록 좋음
 * MS  : Frame Rendering시 필요한 milliseconds. 낮을 수록 좋음
