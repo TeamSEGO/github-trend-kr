@@ -18,7 +18,7 @@ HTML attribute와 JavaScript property를 이용하여 사용하시는 목적에 
 
  * [demo](http://leaverou.github.io/awesomplete/)
 
-### 기본 사용범
+### 기본 사용법
 
 head태그 내부에 아래와 같이 css와 js를 포함시켜주신 후,
 
