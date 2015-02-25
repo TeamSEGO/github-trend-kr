@@ -9,7 +9,6 @@
 웹브라우져에서 결과를 볼수 있는 예제가 있구요.
 
 ![이미지](http://snag.gy/iVS3C.jpg)
-
 프로젝트 README 파일에 보면 vmstat 정보(시스템 사용량)를 웹브라우저를 통해서 이쁘게 볼수 있는 예제가 나와있습니다.
 
 ![이미지](https://github.com/joewalnes/web-vmstats/raw/master/screenshot.png)
