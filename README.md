@@ -25,6 +25,10 @@ https://github.com/trending?since=weekly
   2호 : http://teamsego.github.io/github-trend-kr/#/201502-2
 
   (작성 : @krazyeom,@iam_keen)
+  
+  3호 : http://teamsego.github.io/github-trend-kr/#/201502-3
+
+  (작성 : depa,clair)
 
 
   깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
