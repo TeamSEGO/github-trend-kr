@@ -2,6 +2,8 @@
 
 페이지 링크: https://highlightjs.org/, https://github.com/isagalaev/highlight.js
 
+![이미지](../img/004-21.png)
+
 코드의 가독성을 높이기 위해 하이라이트를 위한 스타일을 제공해 주는 라이브러리 입니다. 
 
 기본적으로 브라우저에서도 효과적인 비주얼을 보여주지만 마크업에도 훌륭하게 적용할 수 있고,
@@ -16,8 +18,6 @@
 
 통해 제공 받으실 수 있습니다. [데모](https://highlightjs.org/static/demo/)를 통해 먼저 확인해보세요.
 
- 
-![이미지](../img/004-06.png)
 
 
 ### 기본 사용법
