@@ -1,4 +1,4 @@
-# 8. js-must-watch
+# 9. js-must-watch
 
 페이지 링크: [https://github.com/bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
