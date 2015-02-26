@@ -1,4 +1,4 @@
-# 6. awesomplete
+# awesomplete
 
 페이지 링크: https://github.com/LeaVerou/awesomplete
 

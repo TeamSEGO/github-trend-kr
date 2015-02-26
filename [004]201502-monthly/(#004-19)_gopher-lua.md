@@ -1,4 +1,4 @@
-# 19. gopher-lua
+# gopher-lua
 
 페이지 링크 : https://github.com/yuin/gopher-lua  
 
@@ -19,7 +19,7 @@ Lua가 가지고 있는 확장 언어적 특성을 Go에서 십분 발휘할 수
 go get github.com/yuin/gopher-lua
 ```  
 
-사용처에서 import만 해주시면 
+사용처에서 import만 해주시면
 ```javascript
 import (
     "github.com/yuin/gopher-lua"

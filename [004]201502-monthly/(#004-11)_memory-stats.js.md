@@ -1,5 +1,4 @@
-
-## memory-stats.js
+# memory-stats.js
 
 [stats.js](https://github.com/mrdoob/stats.js/)와 비슷한 JS Memory monitoring
 
@@ -11,9 +10,9 @@
 ### 사용법:
 
 1. Chrome을 실행시킨다. [with](http://www.chromium.org/developers/how-tos/run-chromium-with-flags) `--enable-precise-memory-info`
-    - `--enable-precise-memory-info` 옵션을 꼭 주란다. 
+    - `--enable-precise-memory-info` 옵션을 꼭 주란다.
     - 그렇지 않으면, 메모리 Perfomance가 별로 유용하지 않은 것들이 담길것이라고 하는데... 잘 모르겠다.
-1. memory.stats.js 파일을 html에 include 시키고, 
+1. memory.stats.js 파일을 html에 include 시키고,
 1. 객체화 한다. (`stats = new MemoryStats()`)
 1. `stats.element`를 DOM에 추가한 다음,  
 1.  주기적으로 `stats.update()` 를 실행한다.
@@ -26,7 +25,7 @@
     stats.domElement.style.position = 'fixed';
     stats.domElement.style.right        = '0px';
     stats.domElement.style.bottom       = '0px';
-    
+
     document.body.appendChild( stats.domElement );
 
     requestAnimationFrame(function rAFloop(){
@@ -49,14 +48,14 @@ https://github.com/jurre/memory-stats-js-rails
 
 # 북마크(Bookmarklet)
 
-Bookmarklet Code : 북마크 하고 싶으신 분들은 아래 코드를 페이지에 넣으시면 됩니다. 
+Bookmarklet Code : 북마크 하고 싶으신 분들은 아래 코드를 페이지에 넣으시면 됩니다.
 
 ```js
 javascript:(function(){var script=document.createElement('script');script.src='https://rawgit.com/paulirish/memory-stats.js/master/bookmarklet.js';document.head.appendChild(script);})()
 ```
 
-Test결과 Chrome이외에 Explorer, firefox에서는 동작하지 않는 단점이 있다. 
-FPS, MS등과 함께 이용하면 사이트평가, 브라우져 평가등에 이용할 수 있겠지만.... 아직은... 
+Test결과 Chrome이외에 Explorer, firefox에서는 동작하지 않는 단점이 있다.
+FPS, MS등과 함께 이용하면 사이트평가, 브라우져 평가등에 이용할 수 있겠지만.... 아직은...
 
 * FPS : 초당 rendering 된 Frame 수. 높을수록 좋음
 * MS  : Frame Rendering시 필요한 milliseconds. 낮을 수록 좋음

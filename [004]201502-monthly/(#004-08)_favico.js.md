@@ -1,4 +1,4 @@
-# 8. favico.js
+# favico.js
 
 페이지 링크: [https://github.com/ejci/favico.js](https://github.com/ejci/favico.js)
 
@@ -27,4 +27,3 @@ favico.js 는 웹페이지 디자인에 날개를 달아줍니다
 [demo 페이지 링크](http://lab.ejci.net/favico.js/)
 
 [Angular.js demo 페이지 링크](http://lab.ejci.net/favico.js/example-angular/#/)
-

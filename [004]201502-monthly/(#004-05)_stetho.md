@@ -1,4 +1,4 @@
-# 5. stetho
+# stetho
 
 ![이미지](../img/004-05-01.PNG)
 

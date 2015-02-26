@@ -1,4 +1,4 @@
-# 2. You-Dont-Know-JS
+# You-Dont-Know-JS
 
 페이지 링크 : https://github.com/getify/You-Dont-Know-JS
 
