@@ -11,7 +11,7 @@
 
 **1. 설치**
 
-With [bpkg](https://github.com/bpkg/bpkg):
+bpkg로 간단히 설치해봅시다. 
 
 ```
 $ bpkg install rauchg/wifi-password
@@ -23,12 +23,16 @@ $ bpkg install rauchg/wifi-password
 curl -L https://raw.github.com/rauchg/wifi-password/master/wifi-password.sh -o ~/bin/wifi-password && chmod +x ~/bin/wifi-password
 ```
 
-If you don't have `~/bin` in your `$PATH`, replace it with `/usr/local/bin` or
-similar.
+`$PATH`에 `~/bin`가 없다면 아래 처럼 `/usr/local/bin`로 바꿔서 쓰면 됩니다.
 
-**2. Use it:**
+```
+curl -L https://raw.github.com/rauchg/wifi-password/master/wifi-password.sh -o /usr/local/bin/wifi-password && chmod +x /usr/local/bin/wifi-password
+```
 
-To get the password for the WiFi you're currently logged onto:
+
+**2. 사용법**
+
+현재 로그인되어 있는 터미널에서 명령어 한줄만 치면 됩니다.(로그인 계정의 id와 password가 필요)
 
 ```
 $ wifi-password
