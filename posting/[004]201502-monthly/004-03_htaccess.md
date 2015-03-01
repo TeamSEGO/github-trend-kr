@@ -17,4 +17,4 @@
 .htaccess 설정을 위해 더이상 구글링으로 힘빼지 마시고,
 2월 3주 github trend 인 phanan/htaccess 부터 찾아보시는건 어떨까요?
 
-![이미지](../img/003-01.png)
+![이미지](img/003-01.png)

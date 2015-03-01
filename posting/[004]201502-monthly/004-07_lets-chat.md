@@ -18,4 +18,4 @@ Self-hosted chat app for small teams, lets-chat입니다.
 clone을 받아 실행하거나 docker 등으로 간단하게 설치해 사용할 수 있어 내부에서 쓸 채팅 프로그램이 필요하다면
 lets-chat을 이용해보면 어떨까요?
 
-![이미지](../img/003-06.png)
+![이미지](img/003-06.png)
