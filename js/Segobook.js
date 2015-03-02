@@ -32,12 +32,12 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
         $http.get(escape(url))
         .success(function(data, status){
           /*show down does not convert http*/
-          var urlPattern = /\b(?:https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
-          var result = data.replace(urlPattern, function(url){
-            return '<a href="'+url+'">'+url+'</a>';
-          });
+          // var urlPattern = /\b(?: https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
+          // var result = data.replace(urlPattern, function(url){
+          //   return '<a href="'+url+'">'+url+'</a>';
+          // });
 
-          $scope.mddata.push(result);
+          $scope.mddata.push(data);
           callback();
         })
         .error(function(data,status){
@@ -83,13 +83,20 @@ app.directive('logo', function(){
 });
 app.directive('markdown', function(){
   var converter = new Showdown.converter();
+  /*show down does not convert http*/
+  var urlPattern = /\s(?:https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
+
   return {
     restrict:'E',
     scope: { renderdata: '=renderdata'},
     link: function (scope, element, attrs){
-      element.html(converter.makeHtml(scope.renderdata));
+      var data = converter.makeHtml(scope.renderdata);
+      var result = data.replace(urlPattern, function(url){
+        return '<a href="'+url+'">'+url+'</a>';
+      });
+      element.html(result);
       scope.$watch('renderdata', function(){
-        element.html(converter.makeHtml(scope.renderdata));
+        element.html(result);
       });
     }
   };
