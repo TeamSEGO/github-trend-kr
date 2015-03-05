@@ -10,4 +10,4 @@ https://github.com/layerhq/Atlas-Messenger-iOS 에는 Atlas로 구현한 예제�
 
 안드로이드 관련 자료는 https://github.com/layerhq/quick-start-android 여길 참조하면 됩니다. 
 
-![이미지](../img/005$04.gif)
+![이미지](../img/005$05.gif)
