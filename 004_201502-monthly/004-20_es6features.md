@@ -47,7 +47,7 @@ es6features 를 알기 위해서는 ECMAScript 에 대해서 알아야 하고, E
 
   혹은 ES6 Harmony 라고도 불리는 차세대 ECMAScript 버전은 2015년 6월 release를 목표로 하고 있습니다. 기존의 개념과 문법에서 큰 변화가 있습니다. 클래스의 개념이라던지, generator, promises 등등의 급격한 변화를 포함하고 있어서 필자로써는 이번 draft가 웹 전체에 끼칠 영향에 상당한 촉각을 세우고 있습니다. 일찍 이런 것들을 적용하는데 관심이 있으신 분들은 꼭 살펴 보셔야할 내용입니다.
 
-  특별이 github의 이 프로젝트는 ES6의 feature들을 설명하는데 공간들을 할애하고 있습니다.
+  특별히 github의 이 프로젝트는 ES6의 feature들을 설명하는데 공간들을 할애하고 있습니다.
   Javascript에 관심이 많으신 분들은 필히! 읽어보셔야 할 부분이고, HTML5, CSS3와 함께 2015,2016년 web application분야를 뜨겁게 달굴 것이 확실시 되고 있습니다.
 
   아래와 같은 feature들을 담고 있습니다.
@@ -74,7 +74,7 @@ es6features 를 알기 위해서는 ECMAScript 에 대해서 알아야 하고, E
   * reflect api
   * tail calls
 
-  특벽히 promises와 reflect api같은 부분은 이해하기 쉽지 않으니, 미리 미리 살펴보시는게 도움이 될 거 같습니다.
+  특별히 promises와 reflect api같은 부분은 이해하기 쉽지 않으니, 미리 미리 살펴보시는게 도움이 될 거 같습니다.
   6월이 오기 전에 심층 분석해 보도록 하겠습니다.(약속!)
 
   ![이미지](../img/004-20.png)
