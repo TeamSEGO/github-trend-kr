@@ -1,4 +1,4 @@
-# 월간 주간 깃헙 트렌드(2월호)
+# 주간 깃헙 트렌드(2월호)
 
 이 프로젝트는 누군가가 깃헙 트렌드는 파악해서 공유하고 있겠지!! 하고 찾아보니 없어서
 
@@ -8,19 +8,20 @@ https://github.com/trending?since=monthly
 
 https://github.com/trending?since=weekly
 
-를 토대로 작성합니다.월간 깃헙 트렌드, 주간 깃헙 트렌드 등으로 서비스를 할 예정입니다.
+를 토대로 작성합니다.
 
+special 심층분석 내용들도 업데이트 하고 있습니다.
+
+혹시 심층 분석을 원하시는 내용이 있으시면 issue에 남겨주세요.
 
 
 ## 2015년 2월
 
-1. 월간
 
   1호 : http://teamsego.github.io/github-trend-kr/#/201502-1
 
   (작성 : @iam_keen)
 
-2. 주간
 
   2호 : http://teamsego.github.io/github-trend-kr/#/201502-2
 
@@ -34,4 +35,10 @@ https://github.com/trending?since=weekly
 
   (master : gray,lea)
 
-  깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
+
+
+## 심층분석
+[ React Deep dive ](https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-01.md)
+
+
+### 깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
