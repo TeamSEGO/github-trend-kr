@@ -17,7 +17,7 @@
 HTML 에 Time sheet를 포함시킬 위치에 위 코드를 삽입하고,
 javascript로 아래와 같이 작성하면 됩니다. 
 
-```html
+```javascript
 new Timesheet('timesheet', 2002, 2013, [
   ['2002', '09/2002', 'A freaking awesome time', 'lorem'],
   ['06/2002', '09/2003', 'Some great memories', 'ipsum'],
