@@ -4,6 +4,8 @@
 
 이번에 소개해드릴 것은 Timesheet.js라는 자바스크립트 라이브러리 입니다. 간단한 자바스크립트 작성을 통해 HTML Time sheets를 생성할 수 있습니다. 
 
+![이미지](../img/005$04$01.png)
+
 사용법은 간단합니다. 
 ```html
  dist/timesheet.js  
@@ -34,4 +36,4 @@ new Timesheet('timesheet', 2002, 2013, [
 ```
 간단하죠? 라이선스는 MIT 라이선스랍니다.  
 
-![이미지](../img/005$04$01.gif)
+
