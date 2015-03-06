@@ -27,7 +27,7 @@ var menus = [
     ,{"name":"001-25_trip-to-iOS.md"}
   ]}
   ,{"volume":{"name":"201502-2","path":"002_201502-monthly"} , "articles":[
-    {"name":"README.md"},
+    {"name":"README.md"}
     ,{"name":"002-01_Dshell.md"}
     ,{"name":"002-02_mkcast.md"}
     ,{"name":"002-03_coreclr.md"}

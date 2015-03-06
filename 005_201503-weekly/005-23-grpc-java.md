@@ -1,4 +1,4 @@
-#gRPC
+#gRPC-java
 
 페이지 링크 : https://github.com/grpc/grpc-java
 
