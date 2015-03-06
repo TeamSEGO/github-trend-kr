@@ -1,4 +1,4 @@
-# 22. what-happens-when
+# what-happens-when
 
 페이지 링크: https://github.com/alex/what-happens-when
 

@@ -1,4 +1,4 @@
-# 23. react-hot-loader
+# react-hot-loader
 
 페이지 링크: https://github.com/gaearon/react-hot-loader
 

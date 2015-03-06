@@ -1,4 +1,4 @@
-# 5. Spring
+# Spring
 
 페이지 링크: https://github.com/MengTo/Spring
 

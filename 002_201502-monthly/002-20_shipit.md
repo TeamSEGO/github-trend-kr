@@ -1,4 +1,4 @@
-# 20. shipit
+# shipit
 
 페이지 링크: https://github.com/shipitjs/shipit
 

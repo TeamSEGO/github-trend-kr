@@ -1,4 +1,4 @@
-# 19. prometheus
+# prometheus
 
 페이지 링크: https://github.com/prometheus/prometheus
 

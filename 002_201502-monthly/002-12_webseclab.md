@@ -1,4 +1,4 @@
-# 12. webseclab
+# webseclab
 
 페이지 링크: https://github.com/yahoo/webseclab
 

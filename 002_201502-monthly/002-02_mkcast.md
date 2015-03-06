@@ -1,4 +1,4 @@
-# 2. mkcast
+# mkcast
 
 페이지 링크:  https://github.com/KeyboardFire/mkcast
 

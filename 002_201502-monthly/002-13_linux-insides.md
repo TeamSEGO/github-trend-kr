@@ -1,4 +1,4 @@
-# 13. linux-insides
+# linux-insides
 
 페이지 링크: https://github.com/0xAX/linux-insides
 

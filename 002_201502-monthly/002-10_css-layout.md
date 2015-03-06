@@ -1,4 +1,4 @@
-# 10. css-layout
+# css-layout
 
 페이지 링크: https://github.com/facebook/css-layout
 

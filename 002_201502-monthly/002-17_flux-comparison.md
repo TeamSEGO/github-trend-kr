@@ -1,4 +1,4 @@
-# 17. flux-comparison
+# flux-comparison
 
 페이지 링크: https://github.com/voronianski/flux-comparison
 

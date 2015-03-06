@@ -1,4 +1,4 @@
-# 14. passenger-docker
+# passenger-docker
 
 페이지 링크: https://github.com/phusion/passenger-docker
 
