@@ -6,4 +6,4 @@
 
 http://blog.outsider.ne.kr/975
 
-![이미지1](../img/001$23.png)
+![이미지1](img/001$23.png)

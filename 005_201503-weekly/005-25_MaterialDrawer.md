@@ -1,4 +1,4 @@
-#MaterialDrawer  [![Maven Central](../img/005$25$03.png)](https://maven-badges.herokuapp.com/maven-central/com.mikepenz.materialdrawer/library) [![Android Arsenal](../img/005$25$04.png)](https://android-arsenal.com/details/1/1526)
+#MaterialDrawer  [![Maven Central](img/005$25$03.png)](https://maven-badges.herokuapp.com/maven-central/com.mikepenz.materialdrawer/library) [![Android Arsenal](img/005$25$04.png)](https://android-arsenal.com/details/1/1526)
 
 페이지 링크 : https://github.com/mikepenz/MaterialDrawer
 
@@ -24,7 +24,7 @@
 
 
 ##스크린샷
-![Image](../img/005$25$01.png)  ![Image](../img/005$25$02.png)
+![Image](img/005$25$01.png)  ![Image](img/005$25$02.png)
 
 
 #프로젝트에 Material Drawer 적용하기

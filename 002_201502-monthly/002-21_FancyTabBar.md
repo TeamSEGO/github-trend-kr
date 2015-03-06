@@ -12,4 +12,4 @@ AwesomeMenu https://github.com/levey/AwesomeMenu
 
 DCPathButton https://github.com/Tangdixi/DCPathButton
 
-![이미지1](../img/002$21.gif)
+![이미지1](img/002$21.gif)

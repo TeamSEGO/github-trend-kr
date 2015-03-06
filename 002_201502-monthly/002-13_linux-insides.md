@@ -8,4 +8,4 @@
 
 gitbooks: http://0xax.gitbooks.io/linux-insides/content/index.html
 
-![이미지1](../img/002$13.png)
+![이미지1](img/002$13.png)

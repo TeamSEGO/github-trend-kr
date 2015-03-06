@@ -20,4 +20,4 @@ UI관련해 react와 더불어 앞으로 주목해 볼 프로젝트라 생각합
 
 ![이미지](http://engineering.flipboard.com/assets/mobileweb/flip_ui.gif)
 
-![이미지](../img/003$02.png)
+![이미지](img/003$02.png)

@@ -66,7 +66,7 @@
   javascript 영역이 HTML로 변환되어 들어갔네요.
 
   흥미로운 이미지 하나 보고 들어가실까요?
-  [!이미지 01](../img/special-deep-dive-reactjs-01-001.png)
+  [!이미지 01](img/special-deep-dive-reactjs-01-001.png)
 
   1. 네트워크 탭을 확인해 보면 teamSEGO.js가 두번 호출됩니다.
   2. JSXTransformer가 initiator 가 되어서 Content 다운로드 시간 이후에 두번째 TeamSEGO.js 가 호출 되는 걸로 봐서는 js를 렌더링하는 시간(혹은 컴파일) 이후에 일련의 일들이 일어나게 됩니다.
