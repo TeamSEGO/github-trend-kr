@@ -1,5 +1,5 @@
-#React.js Deep Dive!
------
+# React.js Deep Dive!
+
 참조 링크 : http://facebook.github.io/react/
 
 예전에 말씀드린데로 특집기획으로 React.js에 대해서 다뤄보겠습니다.
@@ -44,7 +44,7 @@
 
 앞으로 살펴볼 순서는 다음과 같습니다.
 
-1. 초간단 ReactJs application 만들어 보기
+1. [초간단 ReactJs application 만들어 보기](deep-dive-reactjs-01.md)
 2. JSX Transformation 분석
   * JSX 가 어떻게 작동하는지
   * 선택! 서버사이트 Transformation, 클라이언트 Transformation
