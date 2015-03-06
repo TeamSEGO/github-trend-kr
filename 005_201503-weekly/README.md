@@ -34,7 +34,7 @@
 14. [paz](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/)
 15. [htaccess](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-15_htaccess.md)
 16. [react](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-16_react.md)
-17. [grpc-go](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-17-grpc.md)
+17. [grpc-go](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-17-grpc-go.md)
 18. [lets-chat](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-18_lets-chat.md)
 19. [FastttCamera](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-19_FastttCamera.md)
 20. [You-Dont-Know-JS](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-20_You-Dont-Know-JS.md)
