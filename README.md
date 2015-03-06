@@ -38,7 +38,7 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
 
 
 ## 심층분석
-[ React Deep dive ](https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-01.md)
+[ React Deep dive ](https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-00.md)
 
 
 ### 깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
