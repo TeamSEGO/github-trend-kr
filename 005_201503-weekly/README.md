@@ -29,7 +29,7 @@
 9. [vim-as-an-ide](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-09-VimAsAnIDE.md)
 10. [8cc](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-10_8cc.md)
 11. [os](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/)
-12. [awesome-swift](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/)
+12. [awesome-swift](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-12_AwesomeSwift.md)
 13. [plyr](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-13_plyr.md)
 14. [paz](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/)
 15. [htaccess](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-15_htaccess.md)
