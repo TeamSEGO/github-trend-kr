@@ -1,4 +1,4 @@
-# 16. RegExpBuilder.js
+#  RegExpBuilder.js
 
 페이지 링크: https://github.com/thebinarysearchtree/regexpbuilderjs
 

@@ -1,4 +1,4 @@
-# 4. hubpress.io
+# hubpress.io
 
 페이지 링크 : https://github.com/HubPress/hubpress.io
 

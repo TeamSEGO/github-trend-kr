@@ -1,4 +1,4 @@
-# 14. µBlock
+# µBlock
 
 페이지 링크: https://github.com/gorhill/uBlock
 

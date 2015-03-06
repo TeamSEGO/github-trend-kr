@@ -1,4 +1,4 @@
-# 13. transformicons
+# transformicons
 
 페이지 링크 : https://github.com/grayghostvisuals/transformicons
 

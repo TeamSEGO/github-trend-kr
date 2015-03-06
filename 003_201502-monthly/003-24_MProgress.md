@@ -1,4 +1,4 @@
-# 24. MProgress
+# MProgress
 
 페이지 링크: https://github.com/lightningtgc/MProgress.js
 

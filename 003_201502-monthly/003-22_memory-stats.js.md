@@ -1,4 +1,4 @@
-#22. memory-stats.js
+# memory-stats.js
 
 페이지 링크: https://github.com/paulirish/memory-stats.js
 
