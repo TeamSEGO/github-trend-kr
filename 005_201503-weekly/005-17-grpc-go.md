@@ -2,7 +2,9 @@
 
 페이지 링크: https://github.com/grpc/grpc-go
 
-[![Build Status](https://travis-ci.org/grpc/grpc-go.svg)](https://travis-ci.org/grpc/grpc-go) [![GoDoc](https://godoc.org/google.golang.org/grpc?status.svg)](https://godoc.org/google.golang.org/grpc)
+[![Build Status](https://travis-ci.org/grpc/grpc-go.svg)](https://travis-ci.org/grpc/grpc-go) 
+
+[![GoDoc](https://godoc.org/google.golang.org/grpc?status.svg)](https://godoc.org/google.golang.org/grpc)
 
 The Go implementation of [gRPC](https://github.com/grpc/grpc)
 
@@ -35,5 +37,7 @@ Alpha Version - ready for early adopters.
 참고 사이트 
 ------
 GOlang - https://code.google.com/p/golang-korea/wiki/GoInstall
+
 Golang 잘사용하는 방법 - https://code.google.com/p/golang-korea/wiki/EffectiveGo
+
 Golang 처음 따라하기 - https://golang.org/
