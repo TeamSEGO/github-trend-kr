@@ -1,4 +1,7 @@
-#Vim as an IDE(https://github.com/jez/vim-as-an-ide)
+#Vim as an IDE
+
+페이지 링크 : https://github.com/jez/vim-as-an-ide
+
 이 프로젝트는 2015년 2월 25일 카네기 멜론대에서 있었던 테크 토크를 통해서 시작되었다고 합니다.
 한 학생이 과제를 하기 위해 vim을 사용했는데 아무래도 사용하기 쉬운 툴은 아니니 익히는데 몇가지 어려움들이 있었나 봅니다.
 

@@ -1,4 +1,8 @@
-# 시작하기
+#grpc-common
+
+페이지 링크 : https://github.com/grpc/grpc-common
+
+## 시작하기
 
 Google이 만든 language 중립적이고, platform 중립적인, 원격 프로시저 호출([RPC](http://ko.wikipedia.org/wiki/%EC%9B%90%EA%B2%A9_%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80_%ED%98%B8%EC%B6%9C))프로그램인 gRPC의 개발자 문서에 오신것을 환영합니다.
 
@@ -38,3 +42,5 @@ client side의 경우, 서버와 완전히 동일한 method를 제공하는 [stu
 gRPC client들과 server들은 다양한 환경에서 실행하도 서로 talk(?) 할 수 있다. - 구글내의 서버들에서 여러분의 PC로 - 그리고  
  gRPC가 [지원하는 여러가지 언어](#quickstart)로 작성할 수 있다 
 예를 들면, 여러분은 쉽게 java로 gRPC 서버를 만들고 GO, Python, Ruby등으로 client들을 만들 수 있다.게다가 최신 Google API들은 gRPC Version들로 그 인터페이스를 가지고 있으며, 여러분은 쉽게 여러분들의 application안에 Google의 기능을 구축할 수 있습니다.
+
+
