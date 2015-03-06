@@ -25,7 +25,7 @@
 5. [Atlas-iOS](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-05_Atlas-iOS.md)
 6. [awesomplete](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-06_awesomplete.md)
 7. [vivus](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/)
-8. [mal](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-8._kanaka-mal.md)
+8. [mal](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-08._kanaka-mal.md)
 9. [vim-as-an-ide](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-09-VimAsAnIDE.md)
 10. [8cc](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-10_8cc.md)
 11. [os](https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/)
