@@ -24,4 +24,4 @@ $ comcast --device=eth0 --latency=250 --target-bw=1000 --default-bw=1000000 --pa
 약간의 문제가 있는지 CentOS6.5 기반에서는 제대로 작동하지 않아 보입니다.
 
 
-![이미지1](../img/001-21.png)
+![이미지1](../img/001$21.png)

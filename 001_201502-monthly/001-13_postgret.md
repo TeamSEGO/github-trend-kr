@@ -12,4 +12,4 @@ https://begriffs.com/posts/2014-12-30-intro-to-postgrest.html
 
 바이너리는 OSX 와 우분투 기준으로 배포하는 군요.
 
-![이미지1](../master/img/001-13.png)
+![이미지1](../img/001$13.png)

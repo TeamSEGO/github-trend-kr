@@ -16,4 +16,4 @@ navicon-transformicons에서 fork된 프로젝트로 CSS, HTML, SVG를 이용해
 
 IE10+ 부터 모바일까지 지원이 되기 때문에 화면 구성 할 때 유용하게 쓰일 수 있는 요소로 기대됩니다.
 
-![이미지1](../img/003-13.png)
+![이미지1](../img/003$13.png)
