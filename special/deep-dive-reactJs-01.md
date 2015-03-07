@@ -148,7 +148,7 @@
 
   물론 있습니다. 코드를 약간 바꿔봅시다.
 
-  '''
+  ```
 
   var SegoDiv = React.createClass({
     render : function() {
@@ -170,7 +170,7 @@
   });
   React.render(<SegoDiv member={segoMember}/>, document.body);
 
-  '''
+  ```
 
   그냥 this.props.member 를 출력하도록 맡기던 거를
 
