@@ -18,7 +18,7 @@
       2. HHVM ( PHP 엔진 수정)
       3. HACK, XHP ( 새로운 언어 for PHP)
     * 이 중 주목할 내용은 XHP
-  2. XHP -> ReactJS
+  2. XHP -> ReactJSbw
     * 언어 상으로는 상관이 없음
     * DOM을 다루는 방법
     * PHP 내에서 DOM 작성에 따옴표등을 전부 제거하던 방법이 그대로 ReactJS에 반영됨
@@ -45,7 +45,7 @@
 앞으로 살펴볼 순서는 다음과 같습니다.
 
 1. [초간단 ReactJs application 만들어 보기](deep-dive-reactjs-01.md)
-2. JSX Transformation 분석
+2. [JSX Transformation 분석](deep-dive-reactjs-02.md)
   * JSX 가 어떻게 작동하는지
   * 선택! 서버사이트 Transformation, 클라이언트 Transformation
   * 성능 이슈

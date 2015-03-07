@@ -146,7 +146,53 @@
 
   Iteration을 돌면서 사용자 별로 구분을 짓는 방법은 없을까요?
 
-  물론 있습니다. 코드를 약간 바꿔봅시다.( 작성중 )
+  물론 있습니다. 코드를 약간 바꿔봅시다.
 
   '''
+  var SegoDiv = React.createClass({
+    render : function() {
+      var members=[];
+      this.props.member.forEach(function( member ){
+        members.push( <div>
+                      <span> 이름 : {member.name} </span>
+                      <span> 담당 : {member.inChargeOf} </span>
+                      <span> 세대 : {member.generation} </span>
+                      </div>
+                    );
+      }.bind(this));
+      return (
+          <div>
+            {members}
+          </div>
+      );
+    }
+  });
+  React.render(<SegoDiv member={segoMember}/>, document.body);
   '''
+
+  그냥 this.props.member 를 출력하도록 맡기던 거를
+
+  ``` this.props.member.forEach ```
+  배열을 forEach 함수를 통해 members 배열에 새롭게 조직해서 작성해 줍니다.
+
+  그랬더니 제가 원했던 결과가 나왔네요.
+
+  ![이미지 02](../img/special-deep-dive-reactjs-01-002.png)
+
+  브라우저에서 결과를 한번 확인해 볼까요?
+
+  ![이미지 03](../img/special-deep-dive-reactjs-01-003.png)
+
+  재밌는 거는 각 어휘가 끝나는 단계 별로 잘라서 <span/> 태그를 넣어주네요.
+
+  ```
+  members.push( <div>
+                    이름 : {member.name}
+                    , 담당 : {member.inChargeOf}
+                    , 세대 : {member.generation}
+                    </div>
+                  );
+  ```
+  로 바꿔주는게 제가 원하는 거에 더 가까운 결과를 가져다 주겠네요.
+
+2. 입력
