@@ -149,6 +149,7 @@
   물론 있습니다. 코드를 약간 바꿔봅시다.
 
   '''
+
   var SegoDiv = React.createClass({
     render : function() {
       var members=[];
@@ -168,6 +169,7 @@
     }
   });
   React.render(<SegoDiv member={segoMember}/>, document.body);
+
   '''
 
   그냥 this.props.member 를 출력하도록 맡기던 거를
@@ -196,3 +198,169 @@
   로 바꿔주는게 제가 원하는 거에 더 가까운 결과를 가져다 주겠네요.
 
 2. 입력
+
+  입력을 위해서는 두가지의 저장 공간을 더 알아야 합니다. 먼저 언급했던 중요한 저장 공간은 this.props라는 공간입니다. 이 공간이 하는 역할은 javascript 가 DOM의 scope 내에 값을 할당하고 다시 쓸 수 있는 공간이라면, 지금 언급할 공간은 refs 와 state라는 공간입니다. 이름만으로 대강 감이 오실 수 있다고 생각하는데요.
+  ### form 작성
+
+  먼저 form 을 만들어봅시다.
+
+  ```
+  var SegoForm = React.createClass({
+    render : function(){
+      return(
+        <div>
+          <form>
+            <input type="text" placeholder="이름" ref="name" />
+            <input type="text" placeholder="담당" ref="inChargeOf" />
+            <input type="text" placeholder="세대" ref="generation" />
+            <input type="submit" value="Post" />
+          </form>
+        </div>
+      );
+    }  
+  });
+
+  ```
+
+  form 쪽에는 일반적인 input text들을 나열했습니다. 여기서 표준 HTML이 아닌 녀석은 ref 가 되겠네요.
+  네, 지금은 그 얘기를 하고 싶습니다.
+
+  저렇게 ref="" 하고 영역의 이름을 지정해 주면, form으로 만들어 준 HTML과 javascript 의 scope 간에 데이타를 서로 공유하겠다는 이야기이구요.
+  scope 내의 공간은 refs 가 됩니다. ( 여러분들이 저 영역을 사용할 때는  ```this.refs.someName``` 의 형태로 사용되어 지겠네요).
+
+  ### refs 영역 소개
+
+  그럼 이제, form 을 제출 할 때에 대한 event를 생각해 봅시다.
+
+  당연히 onSubmit 이벤트를 이용할 생각이구요. 그럴 경우에 함수를 지정해 줍니다.
+  함수 이름은 handleSubmit 으로 하겠습니다.
+
+  그럼 코드는 다음과 같이 변경되겠네요.
+
+  ```
+
+  var SegoForm = React.createClass({
+    handleSubmit: function(e) {
+      e.preventDefault();
+      var name = this.refs.name.getDOMNode().value.trim();
+      var inChargeOf = this.refs.inChargeOf.getDOMNode().value.trim();
+      var generation = this.refs.generation.getDOMNode().value.trim();
+      console.log(name, inChargeOf, generation);
+    },
+    render : function(){
+      return(
+        <div>
+          <form onSubmit={this.handleSubmit}>
+            <input type="text" placeholder="이름" ref="name" />
+            <input type="text" placeholder="담당" ref="inChargeOf" />
+            <input type="text" placeholder="세대" ref="generation" />
+            <input type="submit" value="Post" />
+          </form>
+        </div>
+      );
+    }
+  });
+
+  ```
+
+  저장을 하고 실행해 보면 form에 작성하시는 글이 자연스럽게 여러분 브라우저의 콘솔에 출력이 되는 걸 확인할 수 있습니다.
+
+  자, 그러면 정말 중요한 부분인데, form -> div로 data가 자연스레 변경되어야 하지 않을까요?
+
+  그럼 SegoDiv 클래스와 SegoForm 클래스가 어떤 식으로든 데이타를 주고 받아야 할 텐데, 그건 어떻게 이루어 지나요?
+
+  그것에 대해서 지금부터 설명하겠습니다.
+
+  ### 클래스간 인터페이스 설계
+
+  이 부분을 설명하는 게 참 흥미진진하고 재밌는 부분인데요, javascript를 잘 아시는 분들은 잘 따라오시리라 생각하고 그냥 죽 적겠습니다.
+  모르셔도, 패턴이라 이해하시고 그냥 사용하시다 보면 이해가 되리라 생각됩니다.
+
+  Javascrpt는 기본적으로 callback 함수를 함수의 매개변수로 던질 수 있습니다. 그래서 이벤트가 실행 될때 그 callback 함수를 호출하는 패턴을 참으로 많이 이용합니다.
+  그 패턴을 기억하시면서 아래의 코드를 봐 주세요.
+
+  ```
+
+  var SegoDiv = React.createClass({
+    formChanged : function(members){
+      console.log(members);
+    },
+    render : function() {
+      var members=[];
+      this.props.member.forEach(function( member ){
+        members.push( <div>
+                      이름 : {member.name}
+                      , 담당 : {member.inChargeOf}
+                      , 세대 : {member.generation}
+                      </div>
+                    );
+      }.bind(this));
+      return (
+        <div>
+          <SegoForm onFormChange={this.formChanged} memebers = {this.props.member}/>
+          <div>
+            {members}
+          </div>
+        </div>
+      );
+    }
+  });
+
+  ```
+
+  아까 작성한 함수에서 formChanged 가 추가가 되었네요. 그리고 SegoForm을 콜 할때 onFormChange 와 members를 지정해 주죠.
+
+  이 의미는
+    1. SegoForm 클래스의 props 변수에 onFormChange 라는 변수 공간을 할당하고 SegoDiv의 formChanged 함수를 콜백함수로 넘긴다.
+    2. SegoForm 클래스의 props 변수에 memebers 라는 변수 공간을SegoDiv의 member 를 넘긴다
+  로 이해하시면 되겠습니다.
+
+  그러면, 당연히 받는 SegoForm 클래스에서 확인해 봐야겠네요.
+
+  ```
+  var SegoForm = React.createClass({
+    handleSubmit: function(e) {
+      e.preventDefault();
+      var name = this.refs.name.getDOMNode().value.trim();
+      var inChargeOf = this.refs.inChargeOf.getDOMNode().value.trim();
+      var generation = this.refs.generation.getDOMNode().value.trim();
+      if (!name || !inChargeOf|| !generation) {
+        console.log("fill the blank");
+        return;
+      }
+      this.props.memebers.push({name:name,inChargeOf :inChargeOf, generation:generation});
+      this.props.onFormChange(this.props.memebers);
+      this.refs.name.getDOMNode().value = '';
+      this.refs.inChargeOf.getDOMNode().value = '';
+      this.refs.generation.getDOMNode().value = '';
+    },
+    render : function(){
+      return(
+        <div>
+          <form onSubmit={this.handleSubmit}>
+            <input type="text" placeholder="이름" ref="name" />
+            <input type="text" placeholder="담당" ref="inChargeOf" />
+            <input type="text" placeholder="세대" ref="generation" />
+            <input type="submit" value="Post" />
+          </form>
+        </div>
+      );
+    }
+  });
+
+  ```
+  위와 같이 클래스를 변경하고
+
+  이름에 a,담당에 b, 세대에 c 값을 입력하면
+
+  ![이미지 04](../img/special-deep-dive-reactjs-01-004.png)
+
+  콘솔에서 SegoDiv의 변경된 값이 훌륭하게 찍혀서 반영이 되는 것을 확인할 수 있습니다.
+
+  ![이미지 05](../img/special-deep-dive-reactjs-01-005.png)
+
+  하지만 정작 DOM은 바뀌지 않죠.
+
+  이제 DOM의 변경을 위해 state 영역을 살펴볼 차례 입니다.
+
+  ### state 영역(작성중)
