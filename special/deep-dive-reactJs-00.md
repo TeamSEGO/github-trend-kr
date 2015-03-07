@@ -44,8 +44,8 @@
 
 앞으로 살펴볼 순서는 다음과 같습니다.
 
-1. [초간단 ReactJs application 만들어 보기](deep-dive-reactjs-01.md)
-2. [JSX Transformation 분석](deep-dive-reactjs-02.md)
+1. [초간단 ReactJs application 만들어 보기](deep-dive-reactJs-01.md)
+2. [JSX Transformation 분석](deep-dive-reactJs-02.md)
   * JSX 가 어떻게 작동하는지
   * 선택! 서버사이트 Transformation, 클라이언트 Transformation
   * 성능 이슈
