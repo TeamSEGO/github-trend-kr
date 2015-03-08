@@ -36,7 +36,7 @@
 
   일단은 dummy 파일을 한번 찍어 볼까요? 그래도 처음 배워보는 리액트인데, 헬로월드 정도는 찍어줘야.( 작성자 대강 개발 연차가 나오는 발언인가요? )
 
-  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/6/)
+  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/8/)
   ```
   var Dummy = React.createClass({
       render: function() {
@@ -103,7 +103,11 @@
   JSX 변환에 대해서는 차차 2화에서 더 다루도록 하겠습니다.
 
   ### 그냥 뿌려보기
+
   일단 segoMember를 뿌려봅시다. 그 이후에 감이 올 듯합니다.
+
+  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/9/)
+
   ```
   teamSego.js
 
@@ -150,6 +154,8 @@
   Iteration을 돌면서 사용자 별로 구분을 짓는 방법은 없을까요?
 
   물론 있습니다. 코드를 약간 바꿔봅시다.
+
+  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/10/)
 
   ```
 
@@ -206,6 +212,8 @@
   ### form 작성
 
   먼저 form 을 만들어봅시다.
+
+  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/11/)  
 
   ```
   var SegoForm = React.createClass({
@@ -319,6 +327,8 @@
   로 이해하시면 되겠습니다.
 
   그러면, 당연히 받는 SegoForm 클래스에서 확인해 봐야겠네요.
+
+  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/12/)  
 
   ```
   var SegoForm = React.createClass({
