@@ -32,9 +32,11 @@
   </html>
   ```
 
-  ### Dummy [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/6/)
+  ### Dummy
 
   일단은 dummy 파일을 한번 찍어 볼까요? 그래도 처음 배워보는 리액트인데, 헬로월드 정도는 찍어줘야.( 작성자 대강 개발 연차가 나오는 발언인가요? )
+
+  [jsfiddle 소스 확인](https://jsfiddle.net/ehrudxo/kcx4pbr1/6/)
   ```
   var Dummy = React.createClass({
       render: function() {
