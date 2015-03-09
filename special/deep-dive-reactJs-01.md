@@ -376,4 +376,16 @@
 
   이제 DOM의 변경을 위해 state 영역을 살펴볼 차례 입니다.
 
-  ### state 영역(작성중)
+  ### state 영역
+
+  사실 DOM을 추가하기 위해서는 하나의 메쏘드만 더 호출해 주면 됩니다.
+
+  SegoDiv 클래스의 formChanged 함수에
+
+  ``` this.setState({}); ```
+
+  한 줄만 추가 하면 실제 데이타의 값이 반영된 DOM을 다시 rendering 하게 해 줍니다.
+
+  여기서 우리가 주목할 부분이 setState! 그렇죠. state가 바뀌면! DOM을 rendering 한다.
+
+  (작성중)
