@@ -1,3 +1,5 @@
+# Comcast
+
 링크 : https://github.com/tylertreat/Comcast
 
 Comcast 는 일반적으로 네트워크단에서 발생하는 지연, 대역제한, 패킷 손실같은 문제들을 시뮬레이션 해 볼 수 있게 디자인한 툴입니다.
@@ -16,4 +18,4 @@ $ comcast --device=eth0 --latency=250 --target-bw=1000 --default-bw=1000000 --pa
 약간의 문제가 있는지 CentOS6.5 기반에서는 제대로 작동하지 않아 보입니다.
 
 
-![이미지1](img/001$21.png)
+![이미지1](img/001-21.png)

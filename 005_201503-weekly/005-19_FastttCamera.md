@@ -10,4 +10,4 @@ Do Camera https://ifttt.com/products/do/camera 가 FastttCamera 라이브러를 
 
 Do Camera를 만들면서 나온 부산물 라이브러리 같습니다. 사용하기 편리하네요! 
 
-![이미지](img/005$19.gif)
+![이미지](img/005-19.gif)

@@ -2,7 +2,7 @@
 
 페이지 링크: https://highlightjs.org/, https://github.com/isagalaev/highlight.js
 
-![이미지](img/004$21.png)
+![이미지](img/004-21.png)
 
 코드의 가독성을 높이기 위해 하이라이트를 위한 스타일을 제공해 주는 라이브러리 입니다. 
 

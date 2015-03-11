@@ -1,3 +1,5 @@
+# blessed contrib
+
 페이지 링크 : https://github.com/yaronn/blessed-contrib
 
 ascii art를 아시나요?
@@ -21,4 +23,4 @@ npm install
 node ./examples/dashboard.js
 
 
-![이미지](img/001$03.png)
+![이미지](img/001-03.png)
