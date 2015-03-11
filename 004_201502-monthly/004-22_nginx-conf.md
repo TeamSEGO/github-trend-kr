@@ -18,4 +18,4 @@ Nginx를 보다 잘 사용하기 위하여 간단한 Nginx 명령어 및 각종 
 
 Nginx를 사용하신다면 구글링 전에 2월 4주 github trend인 lebinh/nginx-conf 부터 찾아시는 것이 좋을 것 같습니다.
 
-![이미지](../img/022$01.PNG)
+![이미지](../img/022-01.PNG)

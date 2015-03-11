@@ -14,7 +14,7 @@ HTML attribute와 JavaScript property를 이용하여 사용하시는 목적에 
 
 데모 사이트에 들어가시면 몇가지 기본적인 예제와 가이드를 볼 수 있습니다.
 
-![이미지](../img/004$06.png)
+![이미지](../img/004-06.png)
 
  * [demo](http://leaverou.github.io/awesomplete/)
 
