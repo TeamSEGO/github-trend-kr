@@ -1,3 +1,5 @@
+# awesome-courses
+
 페이지 링크 : https://github.com/prakhar1989/awesome-courses
 
 말 그대로 엄청나게 좋은 강의들을 모아 놓은 md 파일 프로젝트.
