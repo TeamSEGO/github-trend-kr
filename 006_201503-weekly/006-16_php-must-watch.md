@@ -11,7 +11,7 @@ php-must-watch는 PHP의 공부하기 위해 꼭 필요한!!! 자료들을 모�
 * [**생활코딩**](https://opentutorials.org/course/62) - egoing
 
 
-![이미지](../img/006-16-01.png)
+![이미지](../img/006-16-01.PNG)
 
 아래는 php-must-watch의 READ-ME 파일입니다.
 
