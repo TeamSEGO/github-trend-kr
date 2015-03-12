@@ -85,7 +85,7 @@ php-must-watch는 PHP의 공부하기 위해 꼭 필요한!!! 자료들을 모�
 
 [Back to top](#php-must-watch)
 
-###성능과 규묘(Performance and Scalability)
+###성능과 규모(Performance and Scalability)
 * [**High Performance PHP** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=qjYyC47rdVs) `[44:38]`
 * [**Caching Best Practices** - Eli White at PHP UK 2014](https://www.youtube.com/watch?v=bsZQcbBcXuQ) `[1:03:29]`
 * [**Scaling PHP in the Real World** - Dustin Whittle at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=fXzWo2xpGS0) `[33:35]`
