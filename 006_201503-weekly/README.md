@@ -26,35 +26,21 @@
 7. [awesome-swift](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-07_awesome-swift.md)
 8. [smile](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-08_smile.md)
 9. [8cc](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-09_8cc.md)
-10.[Atlas-iOS](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-10_Atlas-iOS.md)
-11.[Swiper](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-11_Swiper.md)
-12.[paz](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-12_paz.md)
-13.[vivus](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-13_vivus.md)
-14.[awesomplete](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-14_awesomplete.md)
-15.[c](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-15_c.md)
-16.[php-must-watch](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-16_php-must-watch.md)
-17.[react](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-17_react.md)
-18.[grpc-go](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-18_grpc-go.md)
-19.[rlite](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-19_rlite.md)
-20.[WBWebViewConsole](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-20_WBWebViewConsole.md)
-21.[lets-chat](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-21_lets-chat.md)
-22.[slideout](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-22_slideout.md)
-23.[ArcAnimator](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-23_ArcAnimator.md)
-24.[grpc-java](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-24_grpc-java.md)
-25.[vim-as-an-ide](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-25_vim-as-an-ide.md)
+10. [Atlas-iOS](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-10_Atlas-iOS.md)
+11. [Swiper](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-11_Swiper.md)
+12. [paz](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-12_paz.md)
+13. [vivus](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-13_vivus.md)
+14. [awesomplete](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-14_awesomplete.md)
+15. [c](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-15_c.md)
+16. [php-must-watch](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-16_php-must-watch.md)
+17. [react](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-17_react.md)
+18. [grpc-go](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-18_grpc-go.md)
+19. [rlite](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-19_rlite.md)
+20. [WBWebViewConsole](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-20_WBWebViewConsole.md)
+21. [lets-chat](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-21_lets-chat.md)
+22. [slideout](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-22_slideout.md)
+23. [ArcAnimator](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-23_ArcAnimator.md)
+24. [grpc-java](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-24_grpc-java.md)
+25. [vim-as-an-ide](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-25_vim-as-an-ide.md)
 
-금주 깃헙 트렌드 추가분 FIX!
 
-https://github.com/haifengl/smile
-
-https://github.com/nolimits4web/Swiper
-
-https://github.com/ryanmjacobs/c
-
-https://github.com/phptodayorg/php-must-watch
-
-https://github.com/seppo0010/rlite
-
-https://github.com/Mango/slideout
-
-https://github.com/asyl/ArcAnimator
