@@ -2,7 +2,9 @@
 
 페이지 링크: https://github.com/bendc/frontend-guidelines
 
-
+HTML, CSS, JAVASCRIPT를 위한 완벽!보다는 간단! 가이드입니다.
+예쁜 코드를 위한 팁으로, 한번 읽어 보시는 걸 추천합니다.
+(지난 주에 읽으셨다면 패스!)
 
 ------ 지난 주 ------
 
