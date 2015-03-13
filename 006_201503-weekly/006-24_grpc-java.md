@@ -2,6 +2,8 @@
 
 페이지 링크 : https://github.com/grpc/grpc-java
 
+금주 깃헙 트랜드 05번을 참고해 주세요!!!
+
 ------ 지난 주 ------
 
 The JAVA implementation of [gRPC](https://github.com/grpc/grpc)
