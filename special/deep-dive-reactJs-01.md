@@ -388,4 +388,108 @@
 
   여기서 우리가 주목할 부분이 setState! 그렇죠. state가 바뀌면! DOM을 rendering 한다.
 
-  (작성중)
+
+3. 검색
+
+  간단하게만 살펴보고 가려고 했는데, 상당히 길어졌네요. state 영역을 잠깐 언급을 했습니다.
+  props와 state 의 차이점을 처음에는 이해가 안되었는데, 문서를 조금 뒤져보니
+  props 는 immutable 이라고 하는 문구들이 나오네요.
+
+  그런데! 제가 위에 만든 예제로는 props 에 값을 add 했을 때에 값이 변하는 걸로 봐서는 정확하게는 이해는 안되는데
+  어쨌든 state 는 refs 와 연동해 값이 변경되는 영역, props는 고유한 메모리 영역으로 판단하시면 될 듯합니다.
+
+  일단 검색을 달아보겠습니다.
+
+  ```
+  SegoDiv 의 redering 영역
+  <div>
+    <SegoForm
+    onFormChange={this.formChanged}
+    members={this.props.members}
+    />
+    <div>
+      {members}
+    </div>
+    <SegoSearch onSearch={this.onSearch}/>
+  </div>
+  ```
+
+  SegoSearch라는 클래스를 지정하고 onSearch 라는 메쏘드를 바인딩 해 두었습니다.
+
+  당연히 메쏘드도 추가해 두어야겠죠
+
+  ```
+
+  onSearch: function( name ){
+    if(!name) name="";
+    this.setState({
+      nameFilter: name
+    });
+  },
+
+  ```
+
+  자, 이제 SegoSearch라는 클래스를 작성해야죠.
+
+  ```
+  var SegoSearch = React.createClass({
+    handleChange: function(e) {
+      this.props.onSearch( this.refs.name.getDOMNode().value );
+    },
+    render : function(){
+      return(
+        <div>
+          <form>
+            이름으로 찾기 : <input
+            type="text"
+            placeholder="이름"
+            onChange = {this.handleChange}
+            value={this.props.name}
+            ref="name" />
+          </form>
+        </div>
+      );
+    }
+  });
+  ```
+  onChange를 주목하시면 타이핑을 할 때마다 그 값을 읽어서 콜백함수로 들어온 onSearch 를 동작 시키는데
+  그 매개변수로 인풋의 value값을 집어넣는 역할을 하고 있습니다.
+
+  자 그려면 아래와 같은 그림이 나옵니다.
+
+  ![이미지 06](../img/special-deep-dive-reactjs-01-006.png)
+
+  하지만 정작 이름으로 찾기를 눌러봐도 아무런 변화가 안 일어 날 겁니다.
+
+  왜냐하면 이전 소스에서 props 에 배열로 셋팅해 두었기 때문이죠.
+
+  자 그러면 reder 소스를 다음과 같이 바꿔보죠
+
+  ```
+  SegoDiv 의 render 부분
+
+  if(this.state.member && this.state.member.length > 0){
+    this.state.member.forEach(function( member ){
+      if ( member.name.indexOf(this.state.nameFilter) === -1 ) {
+          return;
+      }
+      members.push( <div>
+                    이름 : {member.name}
+                    , 담당 : {member.inChargeOf}
+                    , 세대 : {member.generation}
+                    </div>
+                  );
+    }.bind(this));
+  }
+  ```
+  아래와 같이 render 부분을 바꾸고 나면 다음과 같이 훌륭하게 검색이 됩니다.
+
+  ![이미지 07](../img/special-deep-dive-reactjs-01-007.png)
+
+  [소스보기 :js ](https://github.com/TeamSEGO/react-sample-project/blob/master/scripts/teamSego.js)
+
+  [소스보기 :html ](https://github.com/TeamSEGO/react-sample-project/blob/master/teamSego.html)
+
+  일단 초간단 만들기는 이렇게 마무리하고 JSX 트랜스폼을 다음에 다뤄보도록 하겠습니다.
+  
+  [다음](deep-dive-reactJs-02.md)
