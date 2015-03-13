@@ -10,13 +10,13 @@
 - Demo 예시
 	- thumbs-gallery
 	
-	![Swiper_1](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-01.png)
+		![Swiper_1](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-01.png)
     
 	 - effect-cube
 	 
-	 ![Swiper_2](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-02.png)
+		 ![Swiper_2](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-02.png)
     
 	 - effect-coverflow
 	 
-	 ![Swiper_3](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-03.png)
+		 ![Swiper_3](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-03.png)
 
