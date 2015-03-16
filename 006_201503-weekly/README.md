@@ -46,4 +46,4 @@
 
 # 특집기사
 
-1. [readt 전격 분석](http://teamsego.github.io/github-trend-kr/#/reactjs1)
+1. [react 전격 분석](https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-00.md)
