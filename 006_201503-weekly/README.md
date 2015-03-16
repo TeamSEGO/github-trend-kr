@@ -44,3 +44,6 @@
 25. [vim-as-an-ide](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-25_vim-as-an-ide.md)
 
 
+# 특집기사
+
+1. [readt 전격 분석](http://teamsego.github.io/github-trend-kr/#/reactjs1)
