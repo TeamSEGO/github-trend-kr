@@ -2,6 +2,8 @@
 
 페이지 링크: https://github.com/grpc/grpc-go
 
+금주 깃헙 트랜드 05번을 참고해 주세요!!!
+
 ------ 지난 주 ------
 
 [![Build Status](https://travis-ci.org/grpc/grpc-go.svg)](https://travis-ci.org/grpc/grpc-go) [![GoDoc](https://godoc.org/google.golang.org/grpc?status.svg)](https://godoc.org/google.golang.org/grpc)
