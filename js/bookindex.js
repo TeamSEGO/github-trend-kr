@@ -138,4 +138,37 @@ var menus = [
   ,{"name":"005-24-grpc-common.md"}
   ,{"name":"005-25_MaterialDrawer.md"}
   ]}
+  ,{"volume":{"name":"201503-2","path":"006_201503-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"006-01_frontend-guidelines.md"}
+  ,{"name":"006-02_frontend-stuff.md"}
+  ,{"name":"006-03_timesheetjs.md"}
+  ,{"name":"006-04_plyr.md"}
+  ,{"name":"006-05_grpc.md"}
+  ,{"name":"006-06_mal.md"}
+  ,{"name":"006-07_awesome-swift.md"}
+  ,{"name":"006-08_smile.md"}
+  ,{"name":"006-09_8cc.md"}
+  ,{"name":"006-10_Atlas-iOS.md"}
+  ,{"name":"006-11_Swiper.md"}
+  ,{"name":"006-12_paz.md"}
+  ,{"name":"006-13_vivus.md"}
+  ,{"name":"006-14_awesomplete.md"}
+  ,{"name":"006-15_c.md"}
+  ,{"name":"006-16_php-must-watch.md"}
+  ,{"name":"006-17_react.md"}
+  ,{"name":"006-18_grpc-go.md"}
+  ,{"name":"006-19_rlite.md"}
+  ,{"name":"006-20_WBWebViewConsole.md"}
+  ,{"name":"006-21_lets-chat.md"}
+  ,{"name":"006-22_slideout.md"}
+  ,{"name":"006-23_ArcAnimator.md"}
+  ,{"name":"006-24_grpc-java.md"}
+  ,{"name":"006-25_vim-as-an-ide.md"}
+  ]}
+  ,{"volume":{"name":"reactjs1","path":"special"} , "articles":[
+   {"name":"deep-dive-reactJs-00.md"}
+  ,{"name":"deep-dive-reactJs-01.md"}
+  ,{"name":"deep-dive-reactJs-02.md"}
+  ]}
 ];
