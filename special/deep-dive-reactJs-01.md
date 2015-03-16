@@ -51,6 +51,7 @@
   ```Hello Wordl! I'm keen of TeamSEGO```
 
   훌륭하게 잘 찍히는 군요. (Word l 은 다분히 의도적입니다.)
+  
   작은 따옴표(\') 를 집어 넣어도 잘 표시되는게 흥미롭네요.(당연한가요?)
 
   ### DOM의 변화
@@ -120,7 +121,9 @@
   ``` <SegoDiv member={segoMember}/> ```
   라고 해 놓고 reder 메쏘드를 통해 실행이 되면
   SegoDiv 클래스의 props 공간에 member 라는 변수로 할당이 되는구나.
+  
   라고 이해하시면 됩니다.
+  
   props는 나중에 event를 다룰 때 state와 그 사용법을 잘 이해하셔서 사용하셔야 합니다.
 
   그리고 이 결과를 DOM으로 확인해 보면 크롬에서는 다음과 같이 만들어 집니다.

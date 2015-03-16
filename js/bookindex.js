@@ -138,10 +138,14 @@ var menus = [
   ,{"name":"005-24-grpc-common.md"}
   ,{"name":"005-25_MaterialDrawer.md"}
   ]}
-  ,{"volume":{"name":"reactjs1","path":"special"} , "articles":[
+  ,{"volume":{"name":"deep-dive-reactJs-00","path":"special"} , "articles":[
    {"name":"deep-dive-reactJs-00.md"}
-  ,{"name":"deep-dive-reactJs-01.md"}
-  ,{"name":"deep-dive-reactJs-02.md"}
+  ]}
+  ,{"volume":{"name":"deep-dive-reactJs-01","path":"special"} , "articles":[
+   {"name":"deep-dive-reactJs-01.md"}
+  ]}
+  ,{"volume":{"name":"deep-dive-reactJs-02","path":"special"} , "articles":[
+   {"name":"deep-dive-reactJs-02.md"}
   ]}
   ,{"volume":{"name":"201503-2","path":"006_201503-weekly"} , "articles":[
    {"name":"README.md"}
