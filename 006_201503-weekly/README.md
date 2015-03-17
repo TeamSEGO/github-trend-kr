@@ -1,9 +1,14 @@
-# 월간 깃헙 트렌드(3월호, 2주차)
+# 월간 깃헙 트렌드(3월호, 3주차)
 
 안녕하세요.
-3월의 첫주를 시작하는 깃헙 트렌드 발간을 맡은 TeamSEGO의 Alex & Tiffany 입니다. 지난달 발렌타인데이때 초콜렛을 주고 받은지가 엊그제 같은데 벌써 또 화이트데이라는 제과업계의 상술에 휘둘려야 하는 상황을 또 맞이하게 되었습니다. 참으로 비통하기 짝이 없지만, 서로 부담가지 않은 캔디 교환은 인간관계를 돈독하게 해주는데 큰 도움이 될것 같습니다. 뭐..사탕은 알아서 주고 받으시고...
-이번 주 깃헙 트렌드는 지난주와 겹치는 내용이 많습니다. 그래도 저희는 분량에 상관없이 작업은 하니까요.(쿨럭..)
-3월 2주차 주간 깃헙트렌드 시작합니다.
+3월의 세번째주 트렌드 발간을 맡은 TeamSEGO의 Jenny & Olaf 입니다. 
+
+날씨가 제법 따뜻해졌네요~
+도시락 싸가지고 한강에 소풍 가고 싶은 날씨에요!~
+한강 벤치에 앉아 따뜻한 봄을 만끽하며 깃헙 트렌드를 즐겨봅시다~ 
+다행히 이번에는 중복 되는것이 몇개 없어 더욱 더 다양하게 즐기실 수 있습니다. 후훗
+
+3월 3주차 주간 깃헙트렌드 시작합니다.
 
 
 # 지난호 목차
@@ -13,34 +18,34 @@
 * [2월호, 3주차](http://teamsego.github.io/github-trend-kr/#/201502-3)
 * [2월호, 4주차](http://teamsego.github.io/github-trend-kr/#/201502-4)
 * [3월호, 1주차](http://teamsego.github.io/github-trend-kr/#/201503-1)
-
+* [3월호, 2주차](http://teamsego.github.io/github-trend-kr/#/201503-2)
 
 # 이번주 목차
 
-1. [frontend-guidelines](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-01_frontend-guidelines.md)
-2. [frontend-stuff](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-02_frontend-stuff.md)
-3. [timesheet.js](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-03_timesheetjs.md)
-4. [plyr](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-04_plyr.md)
-5. [grpc](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-05_grpc.md)
-6. [mal](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-06_mal.md)
-7. [awesome-swift](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-07_awesome-swift.md)
-8. [smile](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-08_smile.md)
-9. [8cc](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-09_8cc.md)
-10. [Atlas-iOS](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-10_Atlas-iOS.md)
-11. [Swiper](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-11_Swiper.md)
-12. [paz](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-12_paz.md)
-13. [vivus](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-13_vivus.md)
-14. [awesomplete](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-14_awesomplete.md)
-15. [c](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-15_c.md)
-16. [php-must-watch](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-16_php-must-watch.md)
-17. [react](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-17_react.md)
-18. [grpc-go](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-18_grpc-go.md)
-19. [rlite](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-19_rlite.md)
-20. [WBWebViewConsole](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-20_WBWebViewConsole.md)
-21. [lets-chat](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-21_lets-chat.md)
-22. [slideout](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-22_slideout.md)
-23. [ArcAnimator](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-23_ArcAnimator.md)
-24. [grpc-java](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-24_grpc-java.md)
-25. [vim-as-an-ide](https://github.com/TeamSEGO/github-trend-kr/blob/master/006_201503-weekly/006-25_vim-as-an-ide.md)
+1. [android-UniversalMusicPlayer](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-01_android-UniversalMusicPlayer.md)
+2. [gogs](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-02_gogs.md)
+3. [sirius](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-03_sirius.md)
+4. [fonts](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-04_fonts.md)
+5. [slideout](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-05_slideout.md)
+6. [AstroBuild](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-06_AstroBuild.md)
+7. [facebook-tunnel](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-07_facebook-tunnel.md)
+8. [Swiper](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-08_Swiper.md)
+9. [jvm.go](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-09_jvm.go.md)
+10. [open-source-ios-apps](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-10_open-source-ios-apps.md)
+11. [xonsh](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-11_xonsh.md)
+12. [NativeScript](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-12_NativeScript.md)
+13. [flinux](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-13_flinux.md)
+14. [doppler](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-14_doppler.md)
+15. [Droppy](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-15_Droppy.md)
+16. [markdown-plus](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-16_markdown-plus.md)
+17. [Form](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-17_Form.md)
+18. [mlp-character-recognition](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-18_mlp-character-recognition.md)
+19. [PersistentSearch](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-19_PersistentSearch.md)
+20. [BLKFlexibleHeightBar](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-20_BLKFlexibleHeightBar.md)
+21. [Clean-Contacts](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-21_Clean-Contacts.md)
+22. [java-design-patterns](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-22_java-design-patterns.md)
+23. [DesignerNewsApp](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-23_DesignerNewsApp.md)
+24. [react](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-24_react.md)
+25. [cmder](https://github.com/TeamSEGO/github-trend-kr/blob/master/007_201503-weekly/007-25_cmder.md)
 
 
