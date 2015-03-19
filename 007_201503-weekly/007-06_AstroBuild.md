@@ -13,7 +13,8 @@
 사용법은 아래와 같습니다.
 
 
- capistrano  를 미리 설치해야합니다.(https://github.com/capistrano/capistrano)
+
+-  capistrano  를 미리 설치해야합니다.(https://github.com/capistrano/capistrano)
 
 
 		 > cap production deploy
@@ -36,7 +37,7 @@
 
 살짝 코드를 보면 아래와 같습니다.
 
-
+![이미지](../img/007-06_AstroBuild.png)
 
 
 사용법
