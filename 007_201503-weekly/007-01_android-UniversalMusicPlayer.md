@@ -2,7 +2,7 @@ Universal Android Music Player Sample
 =====================================
 
 왜 Universal ? 거창하게 쓰긴 했는데...이 Sample은 Android phones, tablets, [Android Auto](http://www.android.com/auto/), [Android Wear](http://www.android.com/wear/)이나  [Cast devices](http://www.google.com/cast/)에서도 동일한 사용자 경험을 제공해 주는 오디오 미디어 앱을 어떻게 구현하는지를 
-보여주는 샘플이다.  
+보여주는 샘플이다. 아마도 다 기종에서 동일하게 사용한다는 의미로 Universal이 아닌가...
 
 잠깐 설명을 더하자면...
 
@@ -28,7 +28,10 @@ library 참조에서 뭔가 오류가 있는데 어찌되었건 요즘 Google은
 그래서 빌드를 하려면 Android studio를 이용하시는 분의 경우 자체적으로 Gradle Build기능을 제공하고 있으니
 Import Project만 하시면 되며.. Gradle을 command하고 싶으신분은 "gradlew build" command 하시면 된다.  	
 
-혹시 Proxy 문제가 있다면 ...
+Proxy 문제가 있다면?!
+---------------
+
+#  [Android Studio] #
 
 Windows의 경우 
 
@@ -47,10 +50,32 @@ Android studio 설치 폴더 하위의 bin 폴더에 아래 파일에
 
 Proxy Setting 값을 넣어 준다 !!
 
--Dhttps.proxyPort=your-value-here﻿
--Dhttps.proxyHost=your-value-here﻿﻿
--Dhttps.proxyUser=your-value-here
--Dhttps.proxyPassword=your-value-here
+    -Dhttps.proxyPort=your-value-here
+    -Dhttps.proxyHost=your-value-here
+    -Dhttps.proxyUser=your-value-here
+    -Dhttps.proxyPassword=your-value-here
+
+# [Gradle](https://gradle.org/docs/current/userguide/build_environment.html) #
+
+HTTP Proxy라면?
+
+gradle.properties file을 찾아서 아래 내용을 넣어주시면 된다.
+
+    systemProp.http.proxyHost=www.somehost.org
+    systemProp.http.proxyPort=8080
+    systemProp.http.proxyUser=userid
+    systemProp.http.proxyPassword=password
+    systemProp.http.nonProxyHosts=*.nonproxyrepos.com|localhost
+
+HTTPS Proxy라면?
+
+gradle.properties file을 찾아서 아래 내용을 넣어주시면 된다.
+
+	systemProp.https.proxyHost=www.somehost.org
+	systemProp.https.proxyPort=8080
+	systemProp.https.proxyUser=userid
+	systemProp.https.proxyPassword=password
+	systemProp.https.nonProxyHosts=*.nonproxyrepos.com|localhost
 
 Screenshots
 -----------
@@ -64,7 +89,7 @@ Screenshots
 ![Android Wear watch face](screenshots/android_wear_1.png "MediaStyle notifications on an Android Wear watch")
 ![Android Wear controls](screenshots/android_wear_2.png "Media playback controls on an Android Wear watch")
 
-Support
+관심이 있으신분이나... 참여를 원하신다면!
 -------
 
 - Google+ Community: https://plus.google.com/communities/105153134372062985968
@@ -76,7 +101,7 @@ https://github.com/googlesamples/android-UniversalMusicPlayer
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-License
+License는 있다 !
 -------
 
 Copyright 2014 The Android Open Source Project, Inc.
