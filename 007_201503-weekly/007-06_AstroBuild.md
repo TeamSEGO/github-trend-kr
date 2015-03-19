@@ -10,8 +10,7 @@
 
 
 
-사용법은 아래와 같습니다.
-
+예제 
 
 
 -  capistrano  를 미리 설치해야합니다.(https://github.com/capistrano/capistrano)
@@ -41,4 +40,5 @@
 
 
 사용법
+
 AstroBuild 은 간단한 python 스크립트로 되어있습니다.
