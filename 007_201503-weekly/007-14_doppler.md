@@ -9,7 +9,8 @@
 백마디 말보다는 이 동영상을 보면 바로 아실겁니다!
 http://danielrapp.github.io/doppler/example.ogv
 
+위의 영상은 http://danielrapp.github.io/doppler/ 이 주소로 들어가면 테스트 해볼수 있습니다.
+
 제 노트북으로 테스트 해봤을때는 잘 동작 안했는데요.
 다른 사람은 또 잘 된다고 하네요.
 노트북 설정 문제 인것 같습니다.
-
