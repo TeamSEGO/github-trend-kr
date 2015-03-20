@@ -175,5 +175,33 @@ var menus = [
   ,{"name":"006-24_grpc-java.md"}
   ,{"name":"006-25_vim-as-an-ide.md"}
   ]}
+  ,{"volume":{"name":"201503-3","path":"007_201503-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"007-01_android-UniversalMusicPlayer.md"}
+  ,{"name":"007-02_gogs.md"}
+  ,{"name":"007-03_sirius.md"}
+  ,{"name":"007-04_fonts.md"}
+  ,{"name":"007-05_slideout.md"}
+  ,{"name":"007-06_AstroBuild.md"}
+  ,{"name":"007-07_facebook-tunnel.md"}
+  ,{"name":"007-08_Swiper.md"}
+  ,{"name":"007-09_jvm.go.md"}
+  ,{"name":"007-10_open-source-ios-apps.md"}
+  ,{"name":"007-11_xonsh.md"}
+  ,{"name":"007-12_NativeScript.md"}
+  ,{"name":"007-13_flinux.md"}
+  ,{"name":"007-14_doppler.md"}
+  ,{"name":"007-15_Droppy.md"}
+  ,{"name":"007-16_markdown-plus.md"}
+  ,{"name":"007-17_Form.md"}
+  ,{"name":"007-18_mlp-character-recognition.md"}
+  ,{"name":"007-19_PersistentSearch.md"}
+  ,{"name":"007-20_BLKFlexibleHeightBar.md"}
+  ,{"name":"007-21_Clean-Contacts.md"}
+  ,{"name":"007-22_java-design-patterns.md"}
+  ,{"name":"007-23_DesignerNewsApp.md"}
+  ,{"name":"007-24_react.md"}
+  ,{"name":"007-25_cmder.md"}
+  ]}
   
 ];
