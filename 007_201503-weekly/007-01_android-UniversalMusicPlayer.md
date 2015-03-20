@@ -1,4 +1,4 @@
-Universal Android Music Player Sample
+# Universal Android Music Player Sample
 =====================================
 
 왜 Universal ? 거창하게 쓰긴 했는데...이 Sample은 Android phones, tablets, [Android Auto](http://www.android.com/auto/), [Android Wear](http://www.android.com/wear/)이나  [Cast devices](http://www.google.com/cast/)에서도 동일한 사용자 경험을 제공해 주는 오디오 미디어 앱을 어떻게 구현하는지를 
