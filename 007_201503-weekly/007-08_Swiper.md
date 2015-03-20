@@ -1,5 +1,12 @@
 # Swiper
 
+- 페이지 링크: https://github.com/nolimits4web/Swiper
+
+터치 슬라이딩 기법은 모두 있는듯한 Swiper. 
+지난주와 같이 이번주도 인기네요~ 
+
+------ 지난 주 ------
+
 페이지 링크 : https://github.com/nolimits4web/Swiper
 
 - Swiper란 Mobile 터치 슬라이딩 기법으로 모바일 하드웨어의 가속 이동기법이었지만 지금은 하이브리드 앱, 모바일 웹사이트 등에서 사용되고 있다. 
@@ -19,4 +26,3 @@
 	 - effect-coverflow
 	 
 		 ![Swiper_3](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/006-11-03.png)
-
