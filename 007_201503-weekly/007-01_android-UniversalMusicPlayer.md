@@ -57,25 +57,21 @@ HTTP Proxy라면?
 
 gradle.properties file을 찾아서 아래 내용을 넣어주시면 된다.
 
-'''
     systemProp.http.proxyHost=www.somehost.org
     systemProp.http.proxyPort=8080
     systemProp.http.proxyUser=userid
     systemProp.http.proxyPassword=password
     systemProp.http.nonProxyHosts=*.nonproxyrepos.com|localhost
-'''
 
 HTTPS Proxy라면?
 
 gradle.properties file을 찾아서 아래 내용을 넣어주시면 된다.
 
-'''
 	systemProp.https.proxyHost=www.somehost.org
 	systemProp.https.proxyPort=8080
 	systemProp.https.proxyUser=userid
 	systemProp.https.proxyPassword=password
 	systemProp.https.nonProxyHosts=*.nonproxyrepos.com|localhost
-'''
 
 ### Screenshots
 
