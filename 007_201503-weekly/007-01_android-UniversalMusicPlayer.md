@@ -80,14 +80,14 @@ gradle.properties file을 찾아서 아래 내용을 넣어주시면 된다.
 Screenshots
 -----------
 
-![Phone](screenshots/phone.png "On a phone")
-![Lock screen](screenshots/phone_lockscreen.png "Lockscreen background and controls")
-![Full screen player](screenshots/phone_fullscreen_player.png "A basic full screen activity")
-![Cast dialog](screenshots/phone_cast_dialog.png "Casting to Google Cast devices")
-![Android Auto](screenshots/android_auto.png "Running on an Android Auto car")
+![Phone](../img/007-01-phone.png "On a phone")
+![Lock screen](../img/007-01-phone_lockscreen.png "Lockscreen background and controls")
+![Full screen player](../img/007-01-phone_fullscreen_player.png "A basic full screen activity")
+![Cast dialog](../img/007-01-phone_cast_dialog.png "Casting to Google Cast devices")
+![Android Auto](../img/007-01-android_auto.png "Running on an Android Auto car")
 
-![Android Wear watch face](screenshots/android_wear_1.png "MediaStyle notifications on an Android Wear watch")
-![Android Wear controls](screenshots/android_wear_2.png "Media playback controls on an Android Wear watch")
+![Android Wear watch face](../img/007-01-android_wear_1.png "MediaStyle notifications on an Android Wear watch")
+![Android Wear controls](../img/007-01-android_wear_2.png "Media playback controls on an Android Wear watch")
 
 관심이 있으신분이나... 참여를 원하신다면!
 -------
