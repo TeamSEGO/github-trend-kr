@@ -1,3 +1,5 @@
+# what-happens-when
+
 페이지 링크 : https://github.com/alex/what-happens-when
 
 [직역]아주 오래된 인터뷰 질문인 “웹브라우저 주소창에 www.google.com을 치고 엔터를 치면 어떤 일이 발생하나요?"를 자세하게 풀어 쓴 readme 파일이네요.
@@ -10,4 +12,4 @@
 
 하지만 매우유익!한 자료임에는 틀림없네요
 
-![이미지](../img/001$02.png)
+![이미지](../img/001-02.png)

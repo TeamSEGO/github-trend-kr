@@ -1,3 +1,5 @@
+# github-cheat-sheet
+
 페이지 링크 : https://github.com/tiimgreen/github-cheat-sheet
 
 5번째 아이템은 github-cheatsheet 이네요.
@@ -14,4 +16,4 @@ cheatsheet 이라고 하면 우리말로는 여러가지 표현법이 있겠으�
 
 Task List를 다음과 같이 쓰는 것도 재미있네요.
 
-![이미지](../img/001$05.png)
+![이미지](../img/001-05.png)

@@ -1,3 +1,5 @@
+# libreboard
+
 링크 : https://github.com/libreboard/libreboard
 
 opensource chanson board 라고 이름지어져 있는 libreboard 입니다.
@@ -12,4 +14,4 @@ http://git.libreboard.com/libreboard/libreboard/tree/master
 
 그리고 docker image를 소스내에서 제공을 하니까, 내부 서비스만을 위한 것이라면 docker 이미지를 이용하는 것도 괜찮을 거 같습니다. 점점 실행환경 distribution 방법으로 docker 가 많이 이용되고 있네요
 
-![이미지1](../img/001$08.png)
+![이미지1](../img/001-08.png)

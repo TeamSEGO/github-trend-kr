@@ -1,3 +1,5 @@
+# awesome-android-ui
+
 페이지 링크 : https://github.com/wasabeef/awesome-android-ui
 
 Awesome-android-ui 는 괜찮은 안드로이드 UI/UX 라이브러리를 일목요연하게 정리해 놓은 프로젝트입니다.
@@ -9,7 +11,7 @@ Awesome-android-ui 는 괜찮은 안드로이드 UI/UX 라이브러리를 일목
 라이센스가 상당히 중요한 요즘 일목요연하게 UI/UX 라이브러리를 확인하기에 좋은 프로젝트인거 같습니다.
 
 
-![이미지1](../img/001$06.png)
+![이미지1](../img/001-06.png)
 
 중에 animated-gif
 
