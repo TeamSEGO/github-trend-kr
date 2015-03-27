@@ -1,4 +1,4 @@
-#Vim as an IDE
+# Vim as an IDE
 
 페이지 링크 : https://github.com/jez/vim-as-an-ide
 

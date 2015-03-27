@@ -203,5 +203,32 @@ var menus = [
   ,{"name":"007-24_react.md"}
   ,{"name":"007-25_cmder.md"}
   ]}
-  
+  ,{"volume":{"name":"201503-4","path":"008_201503-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"008-01_sirius.md"}
+  ,{"name":"008-02_android-UniversalMusicPlayer.md"}
+  ,{"name":"008-03_gxui.md"}
+  ,{"name":"008-04_fonts.md"}
+  ,{"name":"008-05_textures.md"}
+  ,{"name":"008-06_msbuild.md"}
+  ,{"name":"008-07_jvm.go.md"}
+  ,{"name":"008-08_gogs.md"}
+  ,{"name":"008-09_datasharing.md"}
+  ,{"name":"008-10_flinux.md"}
+  ,{"name":"008-11_ProgrammingAssignment2.md"}
+  ,{"name":"008-12_slideout.md"}
+  ,{"name":"008-13_facebook-tunnel.md"}
+  ,{"name":"008-14_fuck12306.md"}
+  ,{"name":"008-15_doppler.md"}
+  ,{"name":"008-16_java-design-patterns.md"}
+  ,{"name":"008-17_ASCIImage.md"}
+  ,{"name":"008-18_bootstrap.md"}
+  ,{"name":"008-19_Form.md"}
+  ,{"name":"008-20_open-source-ios-apps.md"}
+  ,{"name":"008-21_electrum.md"}
+  ,{"name":"008-22_pdf.js.md"}
+  ,{"name":"008-23_GraphpostgresQL.md"}
+  ,{"name":"008-24_react.md"}
+  ,{"name":"008-25_Material-Animations.md"}
+  ]}
 ];
