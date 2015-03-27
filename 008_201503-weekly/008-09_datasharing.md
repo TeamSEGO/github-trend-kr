@@ -21,7 +21,7 @@
 
 
 
-## 통계학자에게 전달해야 할것.
+### 통계학자에게 전달해야 할것.
 
 
 For maximum speed in the analysis this is the information you should pass to a statistician:
