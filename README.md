@@ -25,11 +25,11 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
   (작성: alex,tiffany)
 
   3호 : http://teamsego.github.io/github-trend-kr/#/201503-3
-  
+
   (작성: jenny,olaf)
-  
+
   4호 : http://teamsego.github.io/github-trend-kr/#/201503-4
-  
+
   (작성: chris,mickey)
 
 
@@ -57,6 +57,8 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
 
 ## 심층분석
 [ React Deep dive ](https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-00.md)
+
+[![React study 1-1](http://img.youtube.com/vi/_XvKAhxuJ4s/0.jpg)](http://www.youtube.com/watch?v=_XvKAhxuJ4s)
 
 
 ### 깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
