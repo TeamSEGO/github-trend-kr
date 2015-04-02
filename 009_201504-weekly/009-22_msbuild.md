@@ -1,6 +1,14 @@
 Microsoft.Build (MSBuild)
 ========================= 
 - 페이지 링크 : https://github.com/Microsoft/msbuild
+- 사용언어: C#
+
+MSBuild 소스 자체가 standalone하게 사용할 수는 없다보니, 여전히 Visual Studio 2015 preview 이상의 버전을 사용해야 한다는 불편한 점이 있지만 지속적으로 Visual Studio 버전에 대한 dependency를 줄여 나갈 예정이라고 합니다.
+
+향후 .NET 팀에서는 Linux와 Mac 사용자들을 지원할 계획도 있다고 하니, 관련 소식에 정말 눈을 뗄 수 없게 만드네요. : )
+
+- - -
+지난호
 
 폐쇠적이기만 했던 MS가 CEO가 바뀌고 난 뒤의 행보가 무섭습니다. 
 
