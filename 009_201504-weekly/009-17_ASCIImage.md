@@ -4,6 +4,18 @@ ASCIImage
 
 - 사용언어 : Objective-c
 
+코드로 모든것을 표현할 수 있는 ascii art 관련 repository가 또 다시 등장했습니다!
+
+역시 이미지를 바로 코드에 넣을 수 있다는 것과, 코드 작성하면서 한땀 한땀 짜여진 그림을 살펴 볼 수 있다는게 최대 장점이 아닐까 싶습니다.
+
+킁킁
+
+![rilakkuma](http://lh5.ggpht.com/-mJH8eNK51Es/U3df0FktGSI/AAAAAAAAdrY/s7kmz-QhPXo/w700/rilakkuma_21.png)
+
+- - -
+지난호
+
+
 이번에 소개해드릴 깃헙 트랜드는 ASCIImage입니다. 코드만으로 아주 손쉽게 UIImage, NSImage를 만들어 사용 할 수 있는데요.
 
 ![이미지](../img/008-17-01.png)
