@@ -58,7 +58,20 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
 ## 심층분석
 [ React Deep dive ](https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-00.md)
 
+React Js 강좌 1-1
 [![React study 1-1](http://img.youtube.com/vi/_XvKAhxuJ4s/0.jpg)](http://www.youtube.com/watch?v=_XvKAhxuJ4s)
+
+React Js 강좌 1-2
+[![React study 1-2](http://img.youtube.com/vi/UUUwbQcV0s4/0.jpg)](http://www.youtube.com/watch?v=UUUwbQcV0s4)
+
+React Js 강좌 1-3
+[![React study 1-3](http://img.youtube.com/vi/tvKY9xAg8as/0.jpg)](http://www.youtube.com/watch?v=tvKY9xAg8as)
+
+React Js 강좌 1-4
+[![React study 1-4](http://img.youtube.com/vi/9ym-IIxL2GM/0.jpg)](http://www.youtube.com/watch?v=9ym-IIxL2GM)
+
+React Js 강좌 1-5
+[![React study 1-5](http://img.youtube.com/vi/LAJ0XlD4ATw/0.jpg)](http://www.youtube.com/watch?v=LAJ0XlD4ATw)
 
 
 ### 깃헙 페이지 제작은 jump(@zeroxy)님이 수고해 주셨습니다.
