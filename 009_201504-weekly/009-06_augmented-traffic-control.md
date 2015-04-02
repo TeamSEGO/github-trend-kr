@@ -10,6 +10,8 @@ ATC (Augmented Traffic Control)는 페이스북 사내 해커톤!을 통해 만�
 
 ATC를 이용하여 다양한 네트워크 환경에서 앱을 테스트할 수 있기 때문에, 전세계에 서비스를 원활하게 제공하고자 하는 facebook의 서비스 개선에 도움이 될 것 같습니다.
 
-- ![이미지](http://facebook.github.io/augmented-traffic-control/images/atc_overview.png)
+![이미지](http://facebook.github.io/augmented-traffic-control/images/atc_overview.png)
 
-- ![demo](http://www.bloter.net/wp-content/uploads/2015/03/Facebook_ATC_02-800x843.jpg)
+데모 페이지
+
+![demo](http://www.bloter.net/wp-content/uploads/2015/03/Facebook_ATC_02-800x843.jpg)
