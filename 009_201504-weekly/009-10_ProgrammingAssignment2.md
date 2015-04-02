@@ -2,6 +2,20 @@ ProgrammingAssignment2
 ==================================================
 - 페이지 링크: https://github.com/rdpeng/ProgrammingAssignment2
 
+처음에 R 파일을 열어보고 음 뭐 이래? 하고 봤더니,
+
+Coursera의 R programming 강의 (Johns Hopkins Univ.): https://www.coursera.org/course/rprog
+
+의 과제 repository 입니다. 
+
+많이들 수강하시는건지, R에 관심이 뜨거운 것인지 다시 한번 github trend에 올라왔습니다!
+
+새로운 학기는 4월 6일부터 시작한다 하니, coursera 강의 수강하시면서 이 repository의 과제를 풀어보시는 것도 좋을 것 같네요 : )
+
+- - -
+
+지난주
+
 - ProgrammingAssignment2 는 잠재적으로 시간이 많이 소요되는 계산을 캐시할 수 있는 R함수를 작성하는 것입니다. 예를 들어 숫자벡터의 평균을 구하는 것은 빠른작업입니다. 그러나 매우 긴 벡터면(예: 루프인 경우) 반복해서 계산해야 합니다. 특히 평균을 계산하는 것은 시간이 오래걸릴 수 있습니다. 
 
 - 벡터의 내용이 변경되지 않는 경우라고 가정한다면 다시 평균작업을 할 때 필요할 때마다 다시 계산 하는 것보다는 캐시에서 룩업하는 것이 더 빠를 수 있습니다. 
