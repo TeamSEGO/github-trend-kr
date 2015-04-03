@@ -2,7 +2,7 @@ sanitize.css
 ==================================================
 - 페이지 링크: https://github.com/jonathantneal/sanitize.css
 
-sanitize.css 소개 페이지: http://jonathantneal.github.io/sanitize.css
+sanitize.css 소개 페이지: [http://jonathantneal.github.io/sanitize.css](http://jonathantneal.github.io/sanitize.css)
 
 sanitize. 불쾌한 부분을 삭제하다 라는 동사인데요. 정말 단어 그대로 literally 인 css 입니다.
 
