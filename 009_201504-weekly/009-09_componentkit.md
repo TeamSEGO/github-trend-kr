@@ -7,7 +7,7 @@ ComponentKit
 
 이 프로젝트는 react에서 영감을 받아 개발하게된 ios 용 UI framework이라고 합니다.
 
-![이미지](../img/009-09-02.png)
+![이미지](../img/009-09-02.PNG)
 
 ComponentKit는 immutable models에서 단방향 데이터 흐름에 초점을 맞춰 UI를 구축하는 기능적이고 선언적인 접근 방식을 사용한다고 하는데요. 말이 조금 어렵네요.
 

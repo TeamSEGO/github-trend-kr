@@ -4,7 +4,7 @@ ProgrammingAssignment2
 
 처음에 R 파일을 열어보고 음 뭐 이래? 하고 봤더니,
 
-Coursera의 R programming 강의 (Johns Hopkins Univ.): https://www.coursera.org/course/rprog
+Coursera의 R programming 강의 (Johns Hopkins Univ.): [https://www.coursera.org/course/rprog](https://www.coursera.org/course/rprog)
 
 의 과제 repository 입니다. 
 
