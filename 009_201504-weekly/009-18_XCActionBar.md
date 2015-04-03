@@ -8,4 +8,4 @@ Hotkey를 이용해서 쉽게 Xcode 사용시 액션을 수행할 수 있습니�
 
 line 이동, snippet 추가, 코드 수정 등 hotkey와 해당 action을 지정하여 사용할 수 있어 편리할 것 같습니다.
 
-- ![demo](https://raw.githubusercontent.com/pdcgomes/XCActionBar/master/Documentation/Demos/demo-column-selection-and-prefix.gif)
+![demo](https://raw.githubusercontent.com/pdcgomes/XCActionBar/master/Documentation/Demos/demo-column-selection-and-prefix.gif)
