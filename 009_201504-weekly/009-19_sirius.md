@@ -24,4 +24,4 @@ University of Michigan에서 개발중인 Sirius가 다시 github trend에 올�
 Speech and Vision Based IPA 라는 말을 봤을 때에 말로 쿼리를 하는 기본 기능 외에 이미지나 동영상을 통한 검색 쿼리도 제공할
 것으로 보여집니다.
 
-![이미지](../img/007-03_sirius.png)
+![이미지](img//007-03_sirius.png)

@@ -17,7 +17,7 @@ BitTorrent의 클라이언트 패키지와 유틸리티를 제공해주는 토�
 
 ```torrent 'magnet:?xt=urn:btih:KRWPCX3SJUM4IMM4YF5RPHL6ANPYTQPU'```
 
-![이미지](../img/009-15.png)
+![이미지](img//009-15.png)
 
 ```torrent``` 명령 외에도 FUSE filesystem을 구성할 수 있는 ```torrentfs```, 마그넷 링크를 생성할 수 있는 ```torrent-magnet```, DHT 노드의 핑을 확인 할 수 있는 ```dht-ping``` 명령어을 사용할 수 있습니다. 
 

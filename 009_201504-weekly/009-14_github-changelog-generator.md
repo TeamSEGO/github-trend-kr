@@ -11,4 +11,4 @@ issue의 상태 변화, merge request, tag 정보 변경에 대한 정보가 CHA
 
 기본적인 log 기록의 규칙은 다음 내용을 따라 작성되었다고 하네요. [참조](http://keepachangelog.com)
 
-![이미지](../img/009-14.png)
+![이미지](img//009-14.png)
