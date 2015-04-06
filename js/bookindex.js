@@ -231,4 +231,32 @@ var menus = [
   ,{"name":"008-24_react.md"}
   ,{"name":"008-25_Material-Animations.md"}
   ]}
+  ,{"volume":{"name":"201504-1","path":"009_201504-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"009-01_react-native.md"}
+  ,{"name":"009-02_react-primer-draft.md"}
+  ,{"name":"009-03_primer.md"}
+  ,{"name":"009-04_vim.md"}
+  ,{"name":"009-05_bazel.md"}
+  ,{"name":"009-06_augmented-traffic-control.md"}
+  ,{"name":"009-07_datasharing.md"}
+  ,{"name":"009-08_loaders.css.md"}
+  ,{"name":"009-09_componentkit.md"}
+  ,{"name":"009-10_ProgrammingAssignment2.md"}
+  ,{"name":"009-11_httpdiff.md"}
+  ,{"name":"009-12_open-source-android-apps.md"}
+  ,{"name":"009-13_textures.md"}
+  ,{"name":"009-14_github-changelog-generator.md"}
+  ,{"name":"009-15_torrent.md"}
+  ,{"name":"009-16_nes.md"}
+  ,{"name":"009-17_ASCIImage.md"}
+  ,{"name":"009-18_XCActionBar.md"}
+  ,{"name":"009-19_sirius.md"}
+  ,{"name":"009-20_android_design_patterns_analysis.md"}
+  ,{"name":"009-21_is.js.md"}
+  ,{"name":"009-22_msbuild.md"}
+  ,{"name":"009-23_sanitize.css.md"}
+  ,{"name":"009-24_logger.md"}
+  ,{"name":"009-25_react.md"}
+  ]}
 ];
