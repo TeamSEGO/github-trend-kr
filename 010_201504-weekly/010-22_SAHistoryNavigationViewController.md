@@ -1,4 +1,4 @@
- # SAHistoryNavigationViewController
+# SAHistoryNavigationViewController
 
 IOS 앱의 네비게이션 뷰를 이쁘게 꾸며주는 모듈 입니다.
 

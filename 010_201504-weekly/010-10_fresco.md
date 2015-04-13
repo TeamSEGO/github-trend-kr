@@ -1,4 +1,4 @@
- # fresco
+# fresco
 
 facebook 에서 내 놓은 안드로이드 어플 안에서의 이미지 출력 시스템 입니다.
 

@@ -1,4 +1,4 @@
- # awesome-sysadmin
+# awesome-sysadmin
 
 Free-for-dev와 같은 프로젝트 입니다.
 

@@ -1,4 +1,4 @@
- # node-osmosis
+# node-osmosis
 
 이번 주 첫 노드 프로젝트네요..
 
