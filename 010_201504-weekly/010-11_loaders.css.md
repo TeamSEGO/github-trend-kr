@@ -12,4 +12,5 @@
 
 [데모 페이지](http://connoratherton.com/loaders) 에서 해당 에니메이션을 보실 수 있습니다.
 
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/010-11-01.PNG)
  - 페이지 링크: [loaders.css](https://github.com/ConnorAtherton/loaders.css)
