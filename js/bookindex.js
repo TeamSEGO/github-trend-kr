@@ -259,4 +259,32 @@ var menus = [
   ,{"name":"009-24_logger.md"}
   ,{"name":"009-25_react.md"}
   ]}
+  ,{"volume":{"name":"201504-2","path":"010_201504-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"010-01_free-for-dev.md"}
+  ,{"name":"010-02_javascript.md"}
+  ,{"name":"010-03_HTML-GL.md"}
+  ,{"name":"010-04_git-style-guide.md"}
+  ,{"name":"010-05_ios-charts.md"}
+  ,{"name":"010-06_awesome-sysadmin.md"}
+  ,{"name":"010-07_node-osmosis.md"}
+  ,{"name":"010-08_react-native.md"}
+  ,{"name":"010-09_yapf.md"}
+  ,{"name":"010-10_fresco.md"}
+  ,{"name":"010-11_loaders.css.md"}
+  ,{"name":"010-12_france.code-civil.md"}
+  ,{"name":"010-13_space.js.md"}
+  ,{"name":"010-14_virtual-dom.md"}
+  ,{"name":"010-15_nes.md"}
+  ,{"name":"010-16_echo.md"}
+  ,{"name":"010-17_orbit.md"}
+  ,{"name":"010-18_FoldingTabBar.iOS.md"}
+  ,{"name":"010-19_richeditor-android.md"}
+  ,{"name":"010-20_IGInterfaceDataTable.md"}
+  ,{"name":"010-21_mojs.md"}
+  ,{"name":"010-22_SAHistoryNavigationViewController.md"}
+  ,{"name":"010-23_react.md"}
+  ,{"name":"010-24_xto6.md"}
+  ,{"name":"010-25_react-demos.md"}
+  ]}
 ];
