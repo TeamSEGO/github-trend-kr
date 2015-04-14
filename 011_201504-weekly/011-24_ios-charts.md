@@ -24,4 +24,3 @@ swift로 작성된 iOS 차트 모듈입니다. 안드로이드의 [MPAndroidChar
 - ScatterChart (with squares, triangles, circles, ... and more)
 - CandleStickChart (for financial data)
 - RadarChart (spider web chart)
-
