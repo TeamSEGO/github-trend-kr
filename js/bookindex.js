@@ -287,4 +287,31 @@ var menus = [
   ,{"name":"010-24_xto6.md"}
   ,{"name":"010-25_react-demos.md"}
   ]}
-];
+  ,{"volume":{"name":"201504-3","path":"011_201504-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"011-01_free-for-dev.md"}
+  ,{"name":"011-02_git-style-guide.md"}
+  ,{"name":"011-03_awesome-ios-ui.md"}
+  ,{"name":"011-04_boltons.md"}
+  ,{"name":"011-05_awesome-sysadmin.md"}
+  ,{"name":"011-06_git-lfs.md"}
+  ,{"name":"011-07_illacceptanything.md"}
+  ,{"name":"011-08_javascript.md"}
+  ,{"name":"011-09_datasharing.md"}
+  ,{"name":"011-10_node-osmosis.md"}
+  ,{"name":"011-11_react-native.md"}
+  ,{"name":"011-12_fb-mac-messenger.md"}
+  ,{"name":"011-13_awesome-courses.md"}
+  ,{"name":"011-14_WobbleView.md"}
+  ,{"name":"011-15_botwillacceptanything.md"}
+  ,{"name":"011-16_vector.md"}
+  ,{"name":"011-17_kaiwa.md"}
+  ,{"name":"011-18_beep.js.md"}
+  ,{"name":"011-19_FoldingTabBar.iOS.md"}
+  ,{"name":"011-20_markdownify.md"}
+  ,{"name":"011-21_flat-color-icons.md"}
+  ,{"name":"011-22_athame.md"}
+  ,{"name":"011-23_AnyBar.md"}
+  ,{"name":"011-24_ios-charts.md"}
+  ,{"name":"011-25_mesh.js.md"}  
+  ]}];
