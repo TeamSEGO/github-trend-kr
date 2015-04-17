@@ -26,7 +26,7 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
   
   3호 : http://teamsego.github.io/github-trend-kr/#/201504-2
   
-  (작성 : steve,tiffany)
+  (작성 : @krazyeom,tiffany)
 
 ## 2015년 3월
 
