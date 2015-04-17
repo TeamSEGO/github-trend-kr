@@ -19,7 +19,7 @@
 * [4월호, 2주차](http://teamsego.github.io/github-trend-kr/#/201504-2)
 * [4월호, 3주차](http://teamsego.github.io/github-trend-kr/#/201504-3)
 
-# 이번주 목차(Update 중 - 아래 내용 아님 )
+# 이번주 목차
 
 1. [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) 
 2. [ResearchKit](https://github.com/ResearchKit/ResearchKit) 
