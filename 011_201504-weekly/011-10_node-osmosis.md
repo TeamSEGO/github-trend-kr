@@ -19,17 +19,9 @@
  아직 follow, set, get 같은 문법은 손에 익숙치 않아서 버벅이는데 예제의 링크를 그대로 따라해 보면 craiglist
  의 게시물들을 아주 손쉽게 크롤링해서 뿌려주는걸 확인할 수 있습니다.
 
- '''
- (상략)
- category: 'computer',
-title: 'Earn big-bucks per hour (Tuscaloosa)',
-description: 'That is the most generous part-time job ever created. We want someone to work a few hours a day taking calls from our uber active call center. We pay a whopping 400 Dollars per sale.\n\nIf you want extra money, this can be the best opportunity you\'ll ever fined. Work evenings, during your lunch break, or whenever You\'ve time.\n\n\n show contact info',
-subcategory: undefined,
-date: '2015-04-06T13:14:29-0500',
-latitude: undefined,
-longitude: undefined,
-images: [] }
-{ location: 'birmingham',
+ ```
+ (중간 부분 발췌 )
+ { location: 'birmingham',
 category: 'computer',
 title: 'Appointment Setters (Work From Home)',
 description: 'Work from home setting appointments. Leads given, $125 per closed appointment.\n\nYou set the appointment, I close the sale. Easy job, great product - good phone leads.\n\nSet 1 closed appointment per day and make $625 per week.',
@@ -66,4 +58,4 @@ latitude: undefined,
 longitude: undefined,
 images: [] }
 (후략)
- '''
+ ```
