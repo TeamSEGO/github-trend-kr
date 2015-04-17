@@ -24,7 +24,7 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
   
   (작성 : jump)
   
-  3호 : http://teamsego.github.io/github-trend-kr/#/201504-2
+  3호 : http://teamsego.github.io/github-trend-kr/#/201504-3
   
   (작성 : @krazyeom,tiffany)
 
