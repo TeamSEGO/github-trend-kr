@@ -1,5 +1,7 @@
 ![samurai-native-logo](https://cloud.githubusercontent.com/assets/876707/7134843/77ebf2d0-e2d3-11e4-8977-e609139b1a92.png)
 
+LABEL :  IOS, Hybrid App, Standard web, Native App
+
  이름부터 관심이 가는 프로젝트인데요. 실행도 해보고 테스트도 해봤지만 이게 왜 사무라이일까? 하는 느낌이 듭니다. 
 하지만 결국 요즘 트렌드인 [하이브리드 앱](http://rctown.tistory.com/57)을 지원하기 위한 도구라고 생각되는 프로젝트입니다. 
 
@@ -221,6 +223,10 @@ Readme를 통해서 더 많은 내용들이 작성되어 있습니다. 꼭 방�
 
  또한 꽤 오랜시간을 준비하여 왔다는 흔적과 그에 대한 output 품질이 높아 보였습니다.  감사합니다. 
 
+
+##License 
+
+  samurai-native is licensed under the MIT License.
 
 <div style="text-align:right">
  Written by: 강성동(Russell.Kang)
