@@ -1,10 +1,4 @@
-<div>
-  <p align="center" >
-    <img src="https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png" alt="Kingfisher" title="Kingfisher">
-  </p>
-</div>
-
-![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-09.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-04.png)
 
 
 
