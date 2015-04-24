@@ -63,7 +63,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 
   Samurai-native는 Common Web에서 지원하는 UI Layout과 관련된 stacked,margin,padding 등을 지원할 수 있으며, style기능인 font-weight, border-radius 등의 기능을 지원한다고 합니다. 물론 React처럼 Build는 꼭! 필요한 과정이라고 할 수 있죠. 그외의 기능에 대해서는 ``SamuraiHtmlRenderStyle`` 를 통해서 추가적으로 확장이 가능하다고 합니다.
 
-  1. CSS 적용한 사례
+1. CSS 적용한 사례
 ```html
 <html>
     <head>
@@ -72,7 +72,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
     </head>
 </html>
 ```
-  2. Style 적용 사례
+2. Style 적용 사례
 ```html
 <html>
 	<body>
@@ -82,7 +82,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 	</body>
 </html>
 ```
-  3. class를 이용해 ui layout을 적용한 사례
+3. class를 이용해 ui layout을 적용한 사례
 ```html
 <html>
     <body>
