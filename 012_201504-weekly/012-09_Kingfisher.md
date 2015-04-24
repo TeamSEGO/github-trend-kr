@@ -4,7 +4,7 @@
 
 
 <a href="https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat">
-  <img class="img-responsive img-centered" src="https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat" alt="Carthage  Compatibility</a>" title="">
+  <img class="img-responsive img-centered" src="https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat" alt="Carthage  Compatibility" title="" />
 </a>
 
 [![Carthage Compatibility](https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat)][carthage]
