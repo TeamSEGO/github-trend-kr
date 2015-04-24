@@ -314,7 +314,7 @@ var menus = [
   ,{"name":"011-23_AnyBar.md"}
   ,{"name":"011-24_ios-charts.md"}
   ,{"name":"011-25_mesh.js.md"}
-  ]}]
+  ]}
   ,{"volume":{"name":"201504-4","path":"012_201504-weekly"} , "articles":[
    {"name":"README.md"}
   ,{"name":"012-01_awesome-ios-ui.md"}
@@ -342,4 +342,4 @@ var menus = [
   ,{"name":"012-23_awesome-sysadmin.md"}
   ,{"name":"012-24_fontmin.md"}
   ,{"name":"012-25_llilc.js.md"}
-  ]}];;
+  ];
