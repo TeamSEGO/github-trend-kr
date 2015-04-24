@@ -313,5 +313,33 @@ var menus = [
   ,{"name":"011-22_athame.md"}
   ,{"name":"011-23_AnyBar.md"}
   ,{"name":"011-24_ios-charts.md"}
-  ,{"name":"011-25_mesh.js.md"}  
-  ]}];
+  ,{"name":"011-25_mesh.js.md"}
+  ]}]
+  ,{"volume":{"name":"201504-3","path":"012_201504-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"012-01_awesome-ios-ui.md"}
+  ,{"name":"012-02_researchKit.md"}
+  ,{"name":"012-03_boltons.md"}
+  ,{"name":"012-04_lumen.md"}
+  ,{"name":"012-05_free-for-dev.md"}
+  ,{"name":"012-06_WobbleView.md"}
+  ,{"name":"012-07_angular2-educationtimjacobi.md"}
+  ,{"name":"012-08_datasharing.md"}
+  ,{"name":"012-09_Kingfisher.md"}
+  ,{"name":"012-10_shireframe.md"}
+  ,{"name":"012-11_dragula.md"}
+  ,{"name":"012-12_git-style-guide.md"}
+  ,{"name":"012-13_markdownify.md"}
+  ,{"name":"012-14_samurai-native.md"}
+  ,{"name":"012-15_Helium.md"}
+  ,{"name":"012-16_react-native.md"}
+  ,{"name":"012-17_git-lfs.md"}
+  ,{"name":"012-18_awesome-android-ui.md"}
+  ,{"name":"012-19_FlipViewPager.Draco.md"}
+  ,{"name":"012-20_javascript.md"}
+  ,{"name":"012-21_Sync.md"}
+  ,{"name":"012-22_botwillacceptanything.md"}
+  ,{"name":"012-23_awesome-sysadmin.md"}
+  ,{"name":"012-24_fontmin.md"}
+  ,{"name":"012-25_llilc.js.md"}
+  ]}];;
