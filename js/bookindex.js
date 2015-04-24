@@ -341,6 +341,6 @@ var menus = [
   ,{"name":"012-22_botwillacceptanything.md"}
   ,{"name":"012-23_awesome-sysadmin.md"}
   ,{"name":"012-24_fontmin.md"}
-  ,{"name":"012-25_llilc.js.md"}
+  ,{"name":"012-25_llilc.md"}
 ]}
 ];
