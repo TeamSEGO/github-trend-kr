@@ -10,4 +10,4 @@
 
 일하면서 딴짓하기 좋은 프로그램같네요.
 
-![이미지](../img/012-15.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-15.png)
