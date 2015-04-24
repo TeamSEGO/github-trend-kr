@@ -2,7 +2,7 @@
 
  Lable : Android 4.0+, Wrapper
 
- ![이미지](../img/012-19.gif)
+ ![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-19.gif)
 
 * Check this [project on Dribbble](https://dribbble.com/shots/1758298-Find-Friends-Interaction?list=users&offset=35)
 

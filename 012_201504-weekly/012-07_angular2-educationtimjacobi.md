@@ -2,7 +2,7 @@
 
 - 페이지 링크: [angular2-education](https://github.com/timjacobi/angular2-education)
 
-![이미지](../img/012-07.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-07.png)
 
 이번에 소개해 드릴 깃헙트랜드는 angular2-education 입니다. 이름에서도 추측하실 수 있 듯, Angularjs 2에 대한 유용한 학습자료 모음 프로젝트입니다. 
 

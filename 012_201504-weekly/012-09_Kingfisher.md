@@ -1,4 +1,4 @@
-![이미지](../img/012-09.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-09.png)
 
 [carthage]: https://github.com/Carthage/Carthage/
 [cocoadocs]: http://cocoadocs.org/docsets/Kingfisher

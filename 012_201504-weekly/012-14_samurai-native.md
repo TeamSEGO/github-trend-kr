@@ -1,4 +1,4 @@
-![이미지](../img/012-14.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-14.png)
 
 LABEL :  IOS, Hybrid App, Standard web, Native App
 
@@ -9,7 +9,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 
 ## Quick preview
 
-![이미지](../img/012-14.gif)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-14.gif)
 
 이것만 봐서는 모르겠습니다. 뭐지 이건??
 
