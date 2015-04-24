@@ -315,7 +315,7 @@ var menus = [
   ,{"name":"011-24_ios-charts.md"}
   ,{"name":"011-25_mesh.js.md"}
   ]}]
-  ,{"volume":{"name":"201504-3","path":"012_201504-weekly"} , "articles":[
+  ,{"volume":{"name":"201504-4","path":"012_201504-weekly"} , "articles":[
    {"name":"README.md"}
   ,{"name":"012-01_awesome-ios-ui.md"}
   ,{"name":"012-02_researchKit.md"}
