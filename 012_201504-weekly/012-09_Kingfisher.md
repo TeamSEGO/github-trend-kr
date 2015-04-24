@@ -1,19 +1,12 @@
-<p align="center" >
-  <img src="https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png" alt="Kingfisher" title="Kingfisher">
-</p>
+<div>
+  <p align="center" >
+    <img src="https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png" alt="Kingfisher" title="Kingfisher">
+  </p>
+</div>
+
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-09.png)
 
 
-<a href="https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat">
-  <img class="img-responsive img-centered" src="https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat" alt="Carthage  Compatibility" title="" />
-</a>
-
-[![Carthage Compatibility](https://img.shields.io/badge/Carthage-✔-f2a77e.svg?style=flat)][carthage]
-[![CocoaPods Version](https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat)][cocoadocs]
-[![License](https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat)][cocoadocs]
-[![Platform](https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat)][cocoadocs]
-![love](https://img.shields.io/badge/made%20with-%3C3-orange.svg)
-[carthage]: https://github.com/Carthage/Carthage/
-[cocoadocs]: http://cocoadocs.org/docsets/Kingfisher
 
  환경 : IOS8.0 이상, Xcode 6.3
 
