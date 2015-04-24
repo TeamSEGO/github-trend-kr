@@ -4,6 +4,8 @@
 
 지난주에도 소개되었던 git style guide 입니다.
 
-[How to Get Your Change Into the Linux Kernel](https://www.kernel.org/doc/Documentation/SubmittingPatches) 에 영감을 얻으신 분이 작성한 문서 입니다.
+커뮤니티 또는 사용자들이 git을 이용하면서 바람직하다고 생각하는 
+branch 명명규칙, 커밋 메세지 작성법 등을 말하고 있습니다. 
 
-아직은 작성된 내용이 많지 않지만, git을 이용할 때 branch 이름 전략이나 커밋 메세지 규정 등의 이야기는 팀 작업을 많이 하는 사람들에게 유용할 내용인듯 합니다.
+아!! 그리고 이제는 한글 번역도 되어 있습니다. 
+Git을 사용하신다면 한번 쯤 읽어볼 가치가 있을거 같습니다.
