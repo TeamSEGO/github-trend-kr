@@ -9,7 +9,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 
 ## Quick preview
 
-![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-14.gif)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/012-14-01.gif)
 
 이것만 봐서는 모르겠습니다. 뭐지 이건??
 
@@ -18,7 +18,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 ### IOS에서 Native Component ?
 
   아래와 같이 작성됩니다.
-
+```
 		<html>
 			<body>
 				<UICollectionView class="list" is-vertical>
@@ -28,9 +28,11 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 				</UICollectionView>
 			</body>
 		</html>
+```
 
   만약에 HTML Component들을 이용하려면??? Samurai라면 아래와 같이 작성이 가능하다는 겁니다.
-
+  
+```
 		<html>
 		    <body>
 		        <UICollectionViewCell is-static is-row>
@@ -53,7 +55,7 @@ Readme를 통해서 밝힌 이 프로젝트의 SubTitle은 <b>Bring web Standard
 		        </UICollectionViewCell>
 		    </body>
 		</html>
-
+```
 
 ### CSS Fluid Layout
 
