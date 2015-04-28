@@ -66,7 +66,7 @@
   javascript 영역이 HTML로 변환되어 들어갔네요.
 
   흥미로운 이미지 하나 보고 들어가실까요?
-  ![이미지 01](../img/special-deep-dive-reactjs-01-001.png)
+  ![이미지 01](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-001.png)
 
   1. 네트워크 탭을 확인해 보면 teamSEGO.js가 두번 호출됩니다.
   2. JSXTransformer가 initiator 가 되어서 Content 다운로드 시간 이후에 두번째 TeamSEGO.js 가 호출 되는 걸로 봐서는 js를 렌더링하는 시간(혹은 컴파일) 이후에 일련의 일들이 일어나게 됩니다.
@@ -188,11 +188,11 @@
 
   그랬더니 제가 원했던 결과가 나왔네요.
 
-  ![이미지 02](../img/special-deep-dive-reactjs-01-002.png)
+  ![이미지 02](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-002.png)
 
   브라우저에서 결과를 한번 확인해 볼까요?
 
-  ![이미지 03](../img/special-deep-dive-reactjs-01-003.png)
+  ![이미지 03](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-003.png)
 
   재밌는 거는 각 어휘가 끝나는 단계 별로 잘라서 <span/> 태그를 넣어주네요.
 
@@ -366,11 +366,11 @@
 
   이름에 a,담당에 b, 세대에 c 값을 입력하면
 
-  ![이미지 04](../img/special-deep-dive-reactjs-01-004.png)
+  ![이미지 04](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-004.png)
 
   콘솔에서 SegoDiv의 변경된 값이 훌륭하게 찍혀서 반영이 되는 것을 확인할 수 있습니다.
 
-  ![이미지 05](../img/special-deep-dive-reactjs-01-005.png)
+  ![이미지 05](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-005.png)
 
   하지만 정작 DOM은 바뀌지 않죠.
 
@@ -457,7 +457,7 @@
 
   자 그려면 아래와 같은 그림이 나옵니다.
 
-  ![이미지 06](../img/special-deep-dive-reactjs-01-006.png)
+  ![이미지 06](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-006.png)
 
   하지만 정작 이름으로 찾기를 눌러봐도 아무런 변화가 안 일어 날 겁니다.
 
@@ -484,7 +484,7 @@
   ```
   아래와 같이 render 부분을 바꾸고 나면 다음과 같이 훌륭하게 검색이 됩니다.
 
-  ![이미지 07](../img/special-deep-dive-reactjs-01-007.png)
+  ![이미지 07](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/special-deep-dive-reactjs-01-007.png)
 
   [소스보기 :js ](https://github.com/TeamSEGO/react-sample-project/blob/master/scripts/teamSego.js)
 
