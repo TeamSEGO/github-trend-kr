@@ -22,7 +22,6 @@ app.config(function($routeProvider) {
 });
 
 app.controller('articleCtrl',function ($scope,$http, $routeParams){
-
   $scope.mddata = [];
   for (menu in menus){
     if(menus[menu].volume.name===$routeParams.vol){
@@ -31,12 +30,6 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
         url = mPath + "/"+article.name;
         $http.get(escape(url))
         .success(function(data, status){
-          /*show down does not convert http*/
-          // var urlPattern = /\b(?: https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
-          // var result = data.replace(urlPattern, function(url){
-          //   return '<a href="'+url+'">'+url+'</a>';
-          // });
-
           $scope.mddata.push(data);
           callback();
         })
@@ -45,7 +38,7 @@ app.controller('articleCtrl',function ($scope,$http, $routeParams){
           callback();
         });
       },function(){
-        //console.log('done');
+
       });
 
     }
@@ -82,21 +75,14 @@ app.directive('logo', function(){
   }
 });
 app.directive('markdown', function(){
-  var converter = new Showdown.converter();
-  /*show down does not convert http*/
-  var urlPattern = /\s(?:https?):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*/gim;
-
   return {
     restrict:'E',
     scope: { renderdata: '=renderdata'},
     link: function (scope, element, attrs){
-      var data = converter.makeHtml(scope.renderdata);
-      var result = data.replace(urlPattern, function(url){
-        return '<a href="'+url+'">'+url+'</a>';
-      });
-      element.html(result);
+      var data = marked(scope.renderdata);
+      element.html(data);
       scope.$watch('renderdata', function(){
-        element.html(result);
+        element.html(data);
       });
     }
   };
