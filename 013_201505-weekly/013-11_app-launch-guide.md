@@ -1,4 +1,4 @@
-# An App Launch Guide
+# [An App Launch Guide](https://github.com/adamwulf/app-launch-guide)
 
 ## 목적
 
@@ -34,6 +34,26 @@ step 순으로 한번 살펴 보겠습니다.
   - 이때 문제 정의가 잘 안되는 아이디어는 문제가 있는 겁니다.
 3. 각 아이디어에 대해 대상 고객을 정의 해본다.(not everyone)
 4. 이미 존재하고 있는 앱을 리서치 해본다.
+
+### step 2: Validating the App Idea
+
+고객을 먼저 찾는 일이 중요하다고 합니다.
+심지어 앱을 만들기도 전에 이 앱을 사용할 고객을 먼저 찾으라고 하네요.
+동기부여 측면에서 중요한 얘기인 것 같습니다.
+
+* Finde Your Communuty
+
+내가 만든 제품을 지원해줄 커뮤니티는 중요하다고 합니다.
+
+* Define Your MVP
+
+사용자에게 최소한의 가치라도 제공해줄 수 있는 제품을 만들라는 얘기입니다.
+
+* Build a Landing Page
+
+내가 만들 앱을 소개할 랜딩 페이지를 먼저 만들라고 하네요.
+그 페이지를 통해서 미래의 고객을 대상으로
+이메일 구독을 시작하라고 합니다.
 
 ## 정리
 
