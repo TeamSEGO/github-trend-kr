@@ -35,7 +35,8 @@ layzr.js 는 작고 빠르고, 타 라이브러러리와 디펜던스가 없는 
 		  
 		  
 2. 페이지를 한번 호출해보도록하겠습니다.
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/013-03-09-layzr)
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/013-03-09-layzr.png)
+
 
 모가 달라진걸까요? 저도 처음에 찾는데 꽤 걸렸습니다.
 1의 코드의 layzr 부분 코드를 제거하고 이미지 태그만 넣어 비교해 본다면 약간 좀 더 쉽게 캐치할 수 있을 것 같습니다.
