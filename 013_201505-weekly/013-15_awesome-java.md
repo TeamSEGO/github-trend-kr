@@ -9,7 +9,7 @@
 
 사이트를 보시면 좀 더 자세히 보실 수 있습니다.
 
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/013-03-15-awesome-java.png)
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/013-15-awesome-java.png)
 
 
 그럼 전 이만^^
