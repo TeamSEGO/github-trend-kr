@@ -3,7 +3,7 @@
 - 페이지 링크: [Materialize](https://github.com/Dogfalo/materialize)
 - 사용 언어: css, javascript
 
-이번에 소개해드릴 깃헙 트랜드는 Materialize 입니다.
+이번에 소개해드릴 깃헙 트랜드는 [Materialize](http://materializecss.com/) 입니다.
 
 ![이미지](../img/013-12.png)
 
