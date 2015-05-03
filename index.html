@@ -21,7 +21,7 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-
+    <script type="text/javascript" src="https://cdn.rawgit.com/mikeflynn/egg.js/master/egg.min.js"></script>
     <!--[if lte IE 7]>
       <script src="http://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
     <![endif]-->
@@ -37,10 +37,21 @@
     <meta property="og:url" content="http://teamsego.github.io/github-trend-kr/" />
     <meta property="og:description" content="Sego team 의 깃헙 트렌드 한글판"/>
     <meta property="article:publisher" content="https://www.facebook.com/teamsego" />
+    <script type="text/javascript">
+        var egg = new Egg("b,e,a,t", function() {
+           document.getElementById('egggif').setAttribute("style", "display: block;");
+           window.setTimeout(function() { document.getElementById('egggif').setAttribute("style", "display: none;"); }, 6300);
+        }).listen();
+    </script>
+    <style>
+       #egggif{ 
+        z-index:10000;position: fixed;top: 264px;left: 60px; display:none;
+       }
+    </style>
 </head>
 
 <body id="page-top" class="index" ng-controller="segoCtrl">
-
+    <embed id="egggif" allowscriptaccess="never" type="application/x-shockwave-flash" width="270" height="180" src="http://player.bgmstore.net/ieSSr" allowfullscreen="true" allownetworking="internal" style="">
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
