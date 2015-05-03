@@ -22,6 +22,7 @@
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="https://cdn.rawgit.com/mikeflynn/egg.js/master/egg.min.js"></script>
+    <script type="text/javascript" src="js/elevator.js"></script>
     <!--[if lte IE 7]>
       <script src="http://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
     <![endif]-->
@@ -42,8 +43,15 @@
            document.getElementById('egggif').setAttribute("style", "display: block;");
            window.setTimeout(function() { document.getElementById('egggif').setAttribute("style", "display: none;"); }, 6300);
         }).listen();
+        window.onload = function() {
+          var elevator = new Elevator({
+            element: document.querySelector('.elevator'),
+            endAudio:  './music/ding.mp3',
+            duration: 3000 // milliseconds
+          });
+        }
     </script>
-    <style>
+    <style type="text/css">
        #egggif{ 
         z-index:10000;position: fixed;top: 264px;left: 60px; display:none;
        }
@@ -155,9 +163,10 @@
       </div>
     </footer>
 
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visble-sm">
-        <a class="btn btn-primary" href="#page-top">
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) 
+    <div class="scroll-top page-scroll visible-xs visble-sm">-->
+    <div class="scroll-top ">    
+        <a class="btn btn-primary elevator">
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
