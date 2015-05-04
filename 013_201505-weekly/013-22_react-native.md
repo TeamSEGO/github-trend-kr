@@ -19,4 +19,4 @@ React Native는 React와 Javascript로 아직까지는 iOS만 지원하긴 하�
 
 ![이미지](https://camo.githubusercontent.com/a61716d5f737fb3085d1b3354cbdc19c4e97b45e/687474703a2f2f66616365626f6f6b2e6769746875622e696f2f72656163742d6e61746976652f696d672f6368726f6d655f627265616b706f696e742e706e67)
 
- - 페이지 링크: [react-native](https://github.com/facebook/react-native)
+ 
