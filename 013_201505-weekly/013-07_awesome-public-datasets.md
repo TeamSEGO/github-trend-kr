@@ -1,5 +1,5 @@
 # Awesome Public Datasets
-================================================================================
+
 - 페이지 링크: [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 공개되어 있는 데이터들의 링크를 공유하는 문서입니다. 
