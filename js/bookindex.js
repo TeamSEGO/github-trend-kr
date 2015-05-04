@@ -342,5 +342,32 @@ var menus = [
   ,{"name":"012-23_awesome-sysadmin.md"}
   ,{"name":"012-24_fontmin.md"}
   ,{"name":"012-25_llilc.md"}
+]},{"volume":{"name":"201505-1","path":"013_201505-weekly"} , "articles":[
+   {"name":"README.md"}
+  ,{"name":"013-01_thefuck.md"}
+  ,{"name":"013-02_sprint.md"}
+  ,{"name":"013-03_elevatorjs.md"}
+  ,{"name":"013-04_datasharing.md"}
+  ,{"name":"013-05_dragula.md"}
+  ,{"name":"013-06_ProgrammingAssignment2.md"}
+  ,{"name":"013-07_awesome-public-datasets.md"}
+  ,{"name":"013-08_electron.md"}
+  ,{"name":"013-09_layzrjs.md"}
+  ,{"name":"013-10_rodeo.md"}
+  ,{"name":"013-11_app-launch-guide.md"}
+  ,{"name":"013-12_materialize.md"}
+  ,{"name":"013-13_free-for-dev.md"}
+  ,{"name":"013-14_godebug.md"}
+  ,{"name":"013-15_awesome-java.md"}
+  ,{"name":"013-16_BooJS.md"}
+  ,{"name":"013-17_eggjs.md"}
+  ,{"name":"013-18_journey.md"}
+  ,{"name":"013-19_WWDC.md"}
+  ,{"name":"013-20_ctajs.md"}
+  ,{"name":"013-21_react.md"}
+  ,{"name":"013-22_react-native.md"}
+  ,{"name":"013-23_keywhiz.md"}
+  ,{"name":"013-24_postcss.md"}
+  ,{"name":"013-25_UITableView-FDTemplateLayoutCell"}
 ]}
 ];
