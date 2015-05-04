@@ -1,6 +1,9 @@
 # dragula
 
 - 페이지 링크: [dragula](https://github.com/bevacqua/dragula)
+- 사용언어 : javascript 
+
+2주 연속으로 출현하는 드라귤라입니다. 
 
 ![이미지](https://github.com/bevacqua/dragula/raw/master/resources/demo.png)
 

@@ -1,48 +1,23 @@
-# 주간 깃헙 트렌드(4월호, 4주차)
+# 주간 깃헙 트렌드(5월호, 1주차)
 
 안녕하세요.
 
-4월의 네 번째 주 트렌드 발간을 맡은 TeamSEGO의 Russell & Depa 입니다.
+5월의 첫 번째 주 트렌드 발간을 맡은 TeamSEGO의 caley & chris 입니다.
 
+근로자의 날 부터 어린이날까지 이어지는 5월 연휴 잘 쉬셨는지요?
+남들 다 쉴때도 TeamSEGO의 깃헙 트렌드는 쉬지 않습니다!!
 
-# 지난호 목차
+그럼 이번 주 트렌드를 간략히 살펴 보시죠. 
+이번주에도 React-native 가 11번째로 순위에 올라 인기를 반영하고 있구요. 
+비슷한 맥락의 Electron 프로젝트(`웹기술로 데스크톱 어플리케이션을 만들어주는 프레임웍`)가 순위에 올라왔습니다. 
+이런걸 보면 이제 Javascript 같은 웹 기술만 알고 있으면 어디서든 응용할 수 있는 날이 오지 않을까
+조심스레 예상해 봅니다. 
 
-* [2월호, 1주차](http://teamsego.github.io/github-trend-kr/#/201502-1)
-* [2월호, 2주차](http://teamsego.github.io/github-trend-kr/#/201502-2)
-* [2월호, 3주차](http://teamsego.github.io/github-trend-kr/#/201502-3)
-* [2월호, 4주차](http://teamsego.github.io/github-trend-kr/#/201502-4)
-* [3월호, 1주차](http://teamsego.github.io/github-trend-kr/#/201503-1)
-* [3월호, 2주차](http://teamsego.github.io/github-trend-kr/#/201503-2)
-* [3월호, 3주차](http://teamsego.github.io/github-trend-kr/#/201503-3)
-* [3월호, 4주차](http://teamsego.github.io/github-trend-kr/#/201503-4)
-* [4월호, 1주차](http://teamsego.github.io/github-trend-kr/#/201504-1)
-* [4월호, 2주차](http://teamsego.github.io/github-trend-kr/#/201504-2)
-* [4월호, 3주차](http://teamsego.github.io/github-trend-kr/#/201504-3)
+그리고 한동안 순위권에서 밀려있던 React가 다시 등장했고, Drag and Drop javascript라이브러리인
+Dragular가 2주 연속 등장했습니다. 아무래도 사용자가 많아서 인지 트렌드 내에 javascript 
+프로젝트가 인기가 많은거 같습니다. 
 
-# 이번주 목차
+그럼 자세한 내용은 기사에서 확인하시기 바랍니다. 
+연휴 이후 수(월)요병이 오더라도 새로운 맘으로 힘차게 한주 시작하시기 바랍니다. 
 
-1. [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) 
-2. [ResearchKit](https://github.com/ResearchKit/ResearchKit) 
-3. [boltons](https://github.com/mahmoud/boltons) 
-4. [lumen](https://github.com/laravel/lumen) 
-5. [free-for-dev](https://github.com/ripienaar/free-for-dev)
-6. [WobbleView](https://github.com/inFullMobile/WobbleView) 
-7. [angular2-education](https://github.com/timjacobi/angular2-education)
-8. [datasharing](https://github.com/jtleek/datasharing) 
-9. [Kingfisher](https://github.com/onevcat/Kingfisher) 
-10. [shireframe](https://github.com/tsx/shireframe)
-11. [dragula](https://github.com/bevacqua/dragula) 
-12. [git-style-guide](https://github.com/agis-/git-style-guide) 
-13. [markdownify](https://github.com/tibastral/markdownify)
-14. [samurai-native](https://github.com/hackers-painters/samurai-native) 
-15. [Helium](https://github.com/JadenGeller/Helium)
-16. [react-native](https://github.com/facebook/react-native) 
-17. [git-lfs](https://github.com/github/git-lfs) 
-18. [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
-19. [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco)
-20. [javascript](https://github.com/airbnb/javascript) 
-21. [Sync](https://github.com/hyperoslo/Sync) 
-22. [botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything)
-23. [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) 
-24. [fontmin](https://github.com/ecomfe/fontmin) 
-25. [llilc](https://github.com/dotnet/llilc) 
+아참. 이번 깃헙 트렌드 페이지에는 이번주 트렌드에 속해있는 ElevatorJs와 EggJs가 적용되어 있습니다. 
