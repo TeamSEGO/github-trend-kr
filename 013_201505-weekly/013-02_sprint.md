@@ -1,5 +1,5 @@
 # sprint.js
-- 페이지 링크: [elevator.js](https://github.com/bendc/sprint)
+- 페이지 링크: [sprint.js](https://github.com/bendc/sprint)
 
 겁나 작고 겁나 빠른 Dom 라이브러리입니다. 
 Jquery를 대신할 수 있는(`대체하는건 아니라고`) 것이라고 하며, 성능을 저하하지 않으면서
