@@ -28,7 +28,7 @@ https://github.com/TeamSEGO/github-trend-kr/tree/master/script
 
 이런 식으로 출력이 될 거고(중복이라고 쓰인 부분은 무시하세요~!)
 
-ls를 하시면 아래와 같이 md파일들이 주욱 생성될 겁니다.
+ls를 하시면 생성된 md파일들이 보이실겁니다..
 
 돌리시기 전에
 
