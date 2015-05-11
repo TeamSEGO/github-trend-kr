@@ -8,11 +8,21 @@ last_file.each_line do |line|
 end
 last_file.close
 
-page = Nokogiri::HTML(open("https://github.com/trending?since=weekly"))
+page = Nokogiri::HTML(open("https://github.com/trending?since=monthly"))
+index = 1
+
 page.css(".repo-list-item").each do |li|
-  prj = li.css(".repo-list-name>a")[0]["href"]
-  url = "https://github.com" + prj
-  desc = li.css(".repo-list-description").text.strip
-  dup = last_prj_list.include?(prj) ? "중복" : ""
-  puts "#{prj};#{url};#{desc};#{dup}"
+	prj = li.css(".repo-list-name>a")[0]["href"]
+	url = "https://github.com" + prj
+	desc = li.css(".repo-list-description").text.strip
+	dup = last_prj_list.include?(prj) ? "중복" : ""
+	puts "#{prj};#{desc};#{url};#{dup}"
+  
+	name = prj.split("/")  
+	file_index = "%02d" % index
+	index = index + 1
+	f = File.open("014-" + file_index + "_" + name[1] + ".md","w+")
+	f.puts "# " + name[1]
+	f.puts "- 페이지링크: [" + name[1] + "](" + url + ")"
+	f.close()
 end
