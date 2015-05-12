@@ -8,7 +8,7 @@ last_file.each_line do |line|
 end
 last_file.close
 
-page = Nokogiri::HTML(open("https://github.com/trending?since=monthly"))
+page = Nokogiri::HTML(open("https://github.com/trending?since=weekly"))
 index = 1
 
 page.css(".repo-list-item").each do |li|
