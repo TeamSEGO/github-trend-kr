@@ -21,8 +21,8 @@ page.css(".repo-list-item").each do |li|
 	name = prj.split("/")  
 	file_index = "%02d" % index
 	index = index + 1
-	f = File.open("014-" + file_index + "_" + name[1] + ".md","w+")
-	f.puts "# " + name[1]
-	f.puts "- 페이지링크: [" + name[1] + "](" + url + ")"
+	f = File.open("014-" + file_index + "_" + name[2] + ".md","w+")
+	f.puts "# " + name[2]
+	f.puts "- 페이지링크: [" + name[2] + "](" + url + ")"
 	f.close()
 end
