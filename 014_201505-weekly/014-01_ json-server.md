@@ -1,2 +1,2 @@
 # json-server
-- 페이지링크: [typicode](https://github.com/typicode/json-server)
+- 페이지링크: [json-server](https://github.com/typicode/json-server)

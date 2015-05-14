@@ -1,2 +1,2 @@
 # datasharing
-- 페이지링크: [jtleek](https://github.com/jtleek/datasharing)
+- 페이지링크: [datasharing](https://github.com/jtleek/datasharing)

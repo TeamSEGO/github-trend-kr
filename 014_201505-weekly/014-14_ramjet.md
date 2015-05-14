@@ -1,2 +1,2 @@
 # ramjet
-- 페이지링크: [Rich-Harris](https://github.com/Rich-Harris/ramjet)
+- 페이지링크: [ramjet](https://github.com/Rich-Harris/ramjet)
