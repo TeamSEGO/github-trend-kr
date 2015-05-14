@@ -6,7 +6,7 @@
 
 설치 및 사용방법 역시 아주 간단하네요.
 우선 [homebrew-cask](http://caskroom.io/)를 설치하시고,  
-이 링크 ([Download the latest version here](https://github.com/mortenjust/androidtool-mac/releases/))로 들어가셔서 최신 Android tool for MAC을 받습니다. zip파일 압축을 풀고 나오는 파일을 실행하면 패널이 나오는데 여기서 안드로이드 장비를 연결하면 아래의 화면처럼 직관적인 패널로 바뀝니다. 패널안의 버튼 보면 느낌 딱 오시죠?
+이 링크 ([Download the latest version here](https://github.com/mortenjust/androidtool-mac/releases/))로 들어가셔서 최신 Android tool for MAC을 받습니다. zip파일 압축을 풀고 나오는 파일을 실행하면 패널이 나오는데 여기서 안드로이드 장비를 연결하면 아래의 화면처럼 장비가 연결된 패널로 바뀝니다. 패널안의 버튼 보면 느낌 딱 오시죠?
 
 <img src="https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/plugging%20in.gif" width=300>
 
