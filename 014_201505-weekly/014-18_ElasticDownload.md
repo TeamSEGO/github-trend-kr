@@ -1,2 +1,2 @@
 # ElasticDownload
-- 페이지링크: [Tibolte](https://github.com/Tibolte/ElasticDownload)
+- 페이지링크: [ElasticDownload](https://github.com/Tibolte/ElasticDownload)

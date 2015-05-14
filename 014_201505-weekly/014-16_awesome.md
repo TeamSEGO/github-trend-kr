@@ -1,2 +1,2 @@
 # awesome
-- 페이지링크: [sindresorhus](https://github.com/sindresorhus/awesome)
+- 페이지링크: [awesome](https://github.com/sindresorhus/awesome)

@@ -1,4 +1,5 @@
 # Clusterize.js
+<<<<<<< HEAD
 - 페이지링크: [NeXTs](https://github.com/NeXTs/Clusterize.js)
 
 
@@ -71,3 +72,6 @@ for 문으로 만들 데이터가 잘 표현되네요.
 ![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-3)
 
 이상 Clusterize 소개였습니다.
+=======
+- 페이지링크: [Clusterize.js](https://github.com/NeXTs/Clusterize.js)
+>>>>>>> 5421e4ae82f7acacaa99284b8bf859a6e688dd35
