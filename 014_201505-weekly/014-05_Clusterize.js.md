@@ -1,5 +1,5 @@
 # Clusterize.js
-<<<<<<< HEAD
+
 - 페이지링크: [NeXTs](https://github.com/NeXTs/Clusterize.js)
 
 
@@ -56,22 +56,20 @@ Clusterize.js 대량의 데이터를 화면에 쉽게 보여주는  JS plugin �
 
 위의 for 문을 통해  contentArea 에  10000 개의 데이터를  넣었습니다.
 한번 브라우저로 열어보도록하겠습니다.
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-1)
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-1.png)
 
 for 문으로 만들 데이터가 잘 표현되네요.
 
 그럼 요소 검사로 div 영역을 확인해보겠습니다.
  한번 브라우저로 열어보도록하겠습니다.
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-2)
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-2.png)
 
 헐.. 전 분명 10000 개의 데이터를 넣었는데 200 개까지 안보여지네요.
 
 스크롤을 한번 내려보도록하겠습니다.
 
-다시 div 영역이 바뀌는 것을 볼수있습니다.
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-3)
+다시 div 영역이 바뀌는 것을 볼 수 있습니다.
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_NeXTs-Clusterize-3.png)
 
 이상 Clusterize 소개였습니다.
-=======
-- 페이지링크: [Clusterize.js](https://github.com/NeXTs/Clusterize.js)
->>>>>>> 5421e4ae82f7acacaa99284b8bf859a6e688dd35
+
