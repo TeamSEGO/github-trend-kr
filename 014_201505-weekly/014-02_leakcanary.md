@@ -2,7 +2,7 @@
 - 페이지링크: [leakcanary](https://github.com/square/leakcanary)
 
 안드로이드와 자바를 위한 메모리누수방지 라이브러리라고 합니다.
-leaknary는 메모리 누수현상이 발생했을 때, 빌드할 때 Exception을 발생시켜 경고창을 띄워줍니다.
+leaknary는 메모리 누수현상이 발생함하면 빌드할 때 Exception을 발생시켜 경고창을 띄워줍니다.
 
 ![screenshot.png](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-02-01.png)
 
