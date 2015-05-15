@@ -369,5 +369,32 @@ var menus = [
   ,{"name":"013-23_keywhiz.md"}
   ,{"name":"013-24_postcss.md"}
   ,{"name":"013-25_UITableView-FDTemplateLayoutCell.md"}
-]}
+]},{"volume":{"name":"201505-2","path":"014_201505-weekly"} , "articles":[
+	{"name":"README.md"}
+	,{"name":"014-01_json-server.md"}
+	,{"name":"014-02_leakcanary.md"}
+  ,{"name":"014-03_PathPicker.md"}
+  ,{"name":"014-04_zoom.js.md"}
+  ,{"name":"014-05_Clusterize.js.md"}
+  ,{"name":"014-06_MaterialViewPager.md"}
+  ,{"name":"014-07_usbkill.md"}
+  ,{"name":"014-08_datasharing.md"}
+  ,{"name":"014-09_ccat.md"}
+  ,{"name":"014-10_electron.md"}
+  ,{"name":"014-11_ijkplayer.md"}
+  ,{"name":"014-12_go-bootstrap.md"}
+  ,{"name":"014-13_ExData_Plotting1.md"}
+  ,{"name":"014-14_ramjet.md"}
+  ,{"name":"014-15_GoBooks.md"}
+  ,{"name":"014-16_awesome.md"}
+  ,{"name":"014-17_DanmakuFlameMaster.md"}
+  ,{"name":"014-18_ElasticDownload.md"}
+  ,{"name":"014-19_androidtool-mac.md"}
+  ,{"name":"014-20_free-programming-books.md"}
+  ,{"name":"014-21_neon.md"}
+  ,{"name":"014-22_awesome-electron.md"}
+  ,{"name":"014-23_sky_sdk.md"}
+  ,{"name":"014-24_gonix.md"}
+  ,{"name":"014-25_rtop.md"}
+]},
 ];
