@@ -21,9 +21,9 @@ usbkill은 다음과 같은 특징들이 있습니다.
 - BSD, OS X, 리눅스와 호환이 가능합니다. 
 - usb 활동이 있을 때 컴퓨터를 shutdown 시킵니다. 
 - 커스터마이징이 가능합니다. shutdown 직전에 실행될 명령어를 정의할 수 있습니다. 
-- USB 디바이스에 whitelist를 가능하게 함
-- check interval 변경 가능(default: 250ms)
-- shut down 전 프로그램 melt 가능
-- sleep mode에서도 동작
-- 낮은 메모리 점유율
-- 파이썬 2/3 을 제외하고 종속성이 없음
+- USB 디바이스에 whitelist를 가능하게 합니다.
+- check interval 변경 가능합니다.(default: 250ms)
+- shut down 전 프로그램 melt 가능합니다.
+- sleep mode에서도 정상 동작합니다.
+- 메모리 점유율이 낮습니다.
+- 파이썬 2/3 을 제외하고 종속성이 없습니다.
