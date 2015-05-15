@@ -3,7 +3,7 @@
 
 - 당신이 [awesome](https://github.com/sindresorhus/awesome)에 감동받았다면 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)도 좋아할거 같습니다.
 
-## 응용프로그램 예제 
+### 응용프로그램 예제 
 
 좋은 응용프로그램은 전자로 작성되어 있어요. 
 
@@ -40,13 +40,13 @@
 - [Fireball](http://fireball-x.com/en) - 모바일 및 HTML5 게임을 만들기위한 게임 에디터
 
 
-## Boilerplates
+### Boilerplates
 
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) (by sindresorhus) - Boilerplate를 이용하여 앱을 만들 수 있음
 - [generator-electron](https://github.com/sindresorhus/generator-electron) -boilerplate 앱생성 
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) (by szwacz) - 종합적인 boilerplate. 앱도 만들고 생성까지 해줌 
 
-## Tools
+### Tools
 
 - [electron-packager](https://github.com/maxogden/electron-packager) - Electron app for OS X, Linux and Windows (.app, .exe, etc)의 패키지와 분배 
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - command-line과   npm사용을 위한 prebuilt Electron binaries 설치  
@@ -54,7 +54,7 @@
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - GitHub의 자동 업데이트
 - [electron-download](https://github.com/maxogden/electron-download) - 특정 아키텍처와 플랫폼을 위한 zip파일 다운로드 
 
-## Components
+### Components
 
 - [titlebar](https://github.com/kapetan/titlebar) - OS X 윈도우 제목 표시 줄 에뮬레이트.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - 탭처럼 크롬 사용하기 
@@ -62,20 +62,20 @@
 - [cookies](https://github.com/hstove/electron-cookies) - `document.cookie`에 대한 지원을 추가
 
 
-## Tutorials
+### Tutorials
 
 - [Quick Start](https://github.com/atom/electron/blob/master/docs/tutorial/quick-start.md)
 - [Official docs](https://github.com/atom/electron/tree/master/docs)
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
 
 
-## Videos
+### Videos
 
 - [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
 
 
-## Community
+### Community
 
 - [Discussion forum](https://discuss.atom.io/c/electron)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/atom-shell)
@@ -83,12 +83,12 @@
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 
 
-## Contribute
+### Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-## License
+### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -1,9 +1,9 @@
 # sky_sdk
 - 페이지링크: [sky_sdk](https://github.com/domokit/sky_sdk)
-
+	
 - [sky_sdk](https://github.com/domokit/sky_sdk) 는  [deploy_sdk.py](https://github.com/domokit/mojo/blob/master/sky/tools/deploy_sdk.py)을 사용하여 [mojo repository](https://github.com/domokit/mojo)에 있습니다. 
-정적파일은 (README.md 포함) [sky/sdk](https://github.com/domokit/mojo/tree/master/sky/sdk)에 있으니 
-pull requests 와 issue reports 를 통해 [mojo repository](https://github.com/domokit/mojo)에서 받으세요!
+
+- 정적파일은 (README.md 포함) [sky/sdk](https://github.com/domokit/mojo/tree/master/sky/sdk)에 있으니 pull requests 와 issue reports 를 통해 [mojo repository](https://github.com/domokit/mojo)에서 받으세요!
 
 - Sky는 모바일 응용프로그램을 위한 실험적이고 고성능 UI 프레임 워크입니다. Sky로 120Hz에서 원활하게 실행할 수 있으며 아름다운 사용자 인터페이스와 고품질의 인터랙티브 디자인 응용프로그램을 만들 수 있습니다.
 
