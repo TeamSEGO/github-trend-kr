@@ -1,9 +1,10 @@
 # ExData_Plotting1
+- 페이지링크: [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
 가정용 에너지 사용량을 토대로 R로 Plot을 잘 표현할 수 있습니다. 
 
 ---------------------------------------------------------------------------
-- 페이지링크: [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+
 
 - 이 과제는 [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/],할당은)의 데이터로 머신러닝으로 유명한 저장소입니다. 정확히 말하면 "가계당 소비 전력 데이터 세트"를 사용합니다.
 
