@@ -49,17 +49,17 @@
 
 ### Plot 1
 
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_unnamed-chunk-1.png)
+![image](../img/014-05_unnamed-chunk-1.png)
 
 ### Plot 2
 
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_unnamed-chunk-2.png)
+![image](../img/014-05_unnamed-chunk-2.png)
 
 ### Plot 3
 
-![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_unnamed-chunk-3.png)
+![image](../img/014-05_unnamed-chunk-3.png)
 
 
 ### Plot 4
 
-![plot of chunk unname![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_unnamed-chunk-4.png)
+![plot of chunk unname![image](../img/014-05_unnamed-chunk-4.png)
