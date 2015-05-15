@@ -6,7 +6,7 @@ ffplay 기반의 비디오 플레이어입니다.
 
 - Common
  - 잘 쓰이지 않는 ffmpeg 컴포넌트들을 삭제하여, 바이너리 크기를 줄입니다.
- - 일부 온라인 비디오 버그에 대한 해결책 
+ - 일부 온라인 비디오 버그에 대한 해결책을 제공합니다. 
 - Android
  - platform: API 9~22
  - cpu: ARMv7a, x86, ARMv5 (not tested on real devices)
