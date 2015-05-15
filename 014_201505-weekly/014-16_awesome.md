@@ -4,7 +4,7 @@
 Awesome한 플랫폼, 개발 언어, Front-end, Back-end, 컴퓨터과학, 빅데이터, 이론, 책, 기타 등등을 
 소개 했습니다. 트렌드라고 하니 습득하고 갈고 닦아 봅시다. 
 
-#### 플랫폼
+### 플랫폼
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -14,7 +14,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, 컴퓨터과학, 빅�
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 
 
-#### 프로그래밍 언어
+### 프로그래밍 언어
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
@@ -46,7 +46,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, 컴퓨터과학, 빅�
 - [PHP](https://github.com/ziadoz/awesome-php)
 
 
-#### Front-end 개발
+### Front-end 개발
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
@@ -68,7 +68,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, 컴퓨터과학, 빅�
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 
 
-#### Back-end 개발
+### Back-end 개발
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
@@ -79,7 +79,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, 컴퓨터과학, 빅�
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 
 
-#### 컴퓨터과학
+### 컴퓨터과학
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
