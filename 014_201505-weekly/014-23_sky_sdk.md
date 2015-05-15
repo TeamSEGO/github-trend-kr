@@ -14,4 +14,4 @@ pull requests 와 issue reports 를 통해 [mojo repository](https://github.com/
 2.The Sky framework: 뼈대에 해당하는 이것은 버튼과 리스트, 애니메이션을 사용하여 친숙한 UI를 제공합니다. 이로써 응용프로그램을 구축하기가 쉬워집니다. 특히 상단의  다트를 사용하여 유연한 크로스 플랫폼을 개발할 수 있습니다. 이러한 확장 구성 요소는 [React](http://facebook.github.io/react/)로 부터 영감을 받았습니다. 
 
 - 실행결과 
-![image](../img/014-05_sky_sdk_1.png)
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/014-05_sky_sdk_1.png)

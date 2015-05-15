@@ -1,9 +1,10 @@
 # awesome
 - 페이지링크: [awesome](https://github.com/sindresorhus/awesome)
 
-Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big data, Theory, Books, 기타 등등 
+Awesome한 플랫폼, 개발 언어, Front-end, Back-end, 컴퓨터과학, 빅데이터, 이론, 책, 기타 등등을 
+소개 했습니다. 트렌드라고 하니 습득하고 갈고 닦아 봅시다. 
 
-## Platforms
+## 플랫폼
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -13,7 +14,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 
 
-## Programming languages
+## 프로그래밍 언어
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
@@ -45,7 +46,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [PHP](https://github.com/ziadoz/awesome-php)
 
 
-## Front-end development
+## Front-end 개발
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
@@ -67,7 +68,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 
 
-## Back-end development
+## Back-end 개발
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
@@ -78,7 +79,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 
 
-## Computer science
+## 컴퓨터과학
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
@@ -89,14 +90,14 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 
-## Big data
+## 빅데이터
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 
 
-## Theory
+## 이론
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
@@ -106,14 +107,14 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 
 
-## Books
+## 책
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [GoBooks](https://github.com/dariubs/GoBooks)
 
 
-## Miscellaneous
+## 기타 등등
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
@@ -169,7 +170,7 @@ Awesome한 플랫폼, 개발 언어, Front-end, Back-end, Computer science, Big 
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 
-## License
+## 라이선스
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

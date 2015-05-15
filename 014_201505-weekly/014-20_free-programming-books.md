@@ -32,4 +32,4 @@ George Stocker에 의해 최초 리스팅 되었고, 자료들이 점차 많아�
 
 프로그램 공부 또 번역에 관심있다면 같이 해보시죠.
 
-![이미지](../img/003-05.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/003-05.png)
