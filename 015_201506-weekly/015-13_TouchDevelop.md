@@ -29,9 +29,9 @@ Jump(English Name)의 말에 따르면 MIT에서 만든 [Scratch](http://ko.wiki
 세번째는 동영상등으로 설명을 단계별로 만들어 놓고, Step By Step으로 개발을 진행하기 때문에 쉽게
 따라할 수 있다는 점이다.
 
-그러나 동영상등에서는 한국인이 음성녹음을 하여서 좋은 점도 있지만...한글은 번역기 수준으로 올려
-놓은 것도 종종 볼 수 있었다. 그래서 인지....아래와 같이 contribute 외에... translate도 지원
-요청을 하고 있다.
+그러나 동영상등에서는 한국인이 음성녹음을 하여서 좋은 점도 있지만,
+한글은 번역기 수준으로 올려 놓은 것도 종종 볼 수 있었다.
+그래서 인지 아래와 같이 contribute 외에 translate도 지원 요청을 하고 있다.
 
 
 There are many ways to [contribute](https://github.com/Microsoft/TouchDevelop/blob/master/CONTRIBUTING.md) to TouchDevelop.
@@ -48,8 +48,8 @@ If you're not a developer but still would like to help, we've got more tasks for
 
 In order to build TouchDevelop, ensure that you have [Git](http://git-scm.com/downloads) and [Node.js](http://nodejs.org/) installed.
 
-보이는가... Git과 Node는 깔고 있어야한단다. 허걱.. 난 다 깔려있지롱! 하고 쉽게 생각했으나..
-산너머 산이었다.
+ Git과 Node는 깔고 있어야한단다. 난 다 깔려있지롱! 하고 쉽게 생각했으나..산너머 산이었다.
+설명이 쉽게 되어 있어서 따라해보기로 했다.
 
 먼저 아래 명령으로 Clone을 한다.
 
@@ -57,21 +57,24 @@ In order to build TouchDevelop, ensure that you have [Git](http://git-scm.com/do
 git clone https://github.com/Microsoft/TouchDevelop.git
 ````
 
-당연한 설명...해당 directory로 들어간다.
+해당 directory로 들어간다.
 
 ````
 cd TouchDevelop
 ````
 
-npm을 이용해서 dependency들을 install한다... 여기서 부터 막히더라..
-jake는 빌드를 위해서..
-tsd는 TypeScript install하기 위한 manager라고 한다. 그럼 npm같은 녀석인가?
+npm을 이용해서 dependency들을 install한다.
+여기서 부터 막히더라..
 
+jake는 빌드를 위해서 설치하다.
+
+tsd는 TypeScript install하기 위한 manager라고 한다.
 혹시 TypeScript가 궁금하시다면 아래 링크를 확인해보시길 바랍니다.
 * http://www.iamday.net/apps/article/talk/1758/view.iamday
 * http://www.typescriptlang.org/
 
-여튼 tsd를 reinstall 하는 순간 proxy 문제로 더 이상 진행이 되지 않는다.
+여기서 부터 문제가 발생한다.
+tsd를 reinstall 하는 순간 proxy 문제로 더 이상 진행이 되지 않는다.
 그래서 한참을 찾았다..
 
 ````
@@ -83,13 +86,19 @@ npm install
 
 프로젝트 내에 보면 .tsdrc라는 파일이 있다. 해당 파일에
 
+````
 "proxy" :"http://ip:port/",
 "https-proxy" :"http://ip:port/",
 "strict-ssl": false
+````
 
-위와 같은 설정을 추가 했더니.. 잘된다. 마지막으로 남아있는 project dependency install...
+위와 같은 설정을 추가 했더니 잘된다.
 
-아 또 안된다.. 뭐지??? 여기서 포기하고 다른 방법이 있으니 아래 방법으로 해보자
+마지막으로 남아있는 project dependency install...
+
+아 또 안된다.. 뭐지???
+
+여기서 포기하고 다른 방법이 있으니 아래 방법으로 해보자
 
 ### Quick windows setup
 
