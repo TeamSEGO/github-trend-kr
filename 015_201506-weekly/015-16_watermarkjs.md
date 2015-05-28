@@ -55,7 +55,7 @@ git clone https://github.com/brianium/watermarkjs.git
 
 깃 클론후 위의 빌드와 실행과정을 진행하면 로컬에서 아래와 같은 화면을 볼 수 있습니다.
 깃헙에서 제공하는 샘플에서는 watermarkjs를 적용한 예제들을 볼 수 있습니다.
-![image]https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/015-16.PNG
+![image](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/015-16.PNG)
 [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
 .
 
@@ -66,5 +66,6 @@ git clone https://github.com/brianium/watermarkjs.git
 * 자바스크립트는 훌륭합니다. - ES6을 사용하면 더 그렇습니다.
 
 watermart.js는 워터마크를 하기 위한 소스로써 파일의 입력을 받아들일 수 있습니다.  미리보기, 워터마크, 업로드를 쉽게 만들어 줍니다. 아래 데모페이지에서 확인해보세요.
- [uploading](http://brianium.github.io/watermarkjs/uploading.html) 
+ 
+[uploading] http://brianium.github.io/watermarkjs/uploading.html
 
