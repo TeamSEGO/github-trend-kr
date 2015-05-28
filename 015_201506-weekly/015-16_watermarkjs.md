@@ -45,7 +45,7 @@ npm run build
 
 ##실행
 
-서버를 작동시키면 예제와 문서를 볼 수 있습니다.
+실행
 
 ```
 $ npm run server
@@ -65,11 +65,6 @@ git clone https://github.com/brianium/watermarkjs.git
 * 모든 서버는 효율적인 업로드를 위한 믿을수 있는 실행 라이브러리를 가지고 있지 않습니다.
 * 자바스크립트는 훌륭합니다. - ES6을 사용하면 더 그렇습니다.
 
+watermart.js는 워터마크를 하기 위한 소스로써 파일의 입력을 받아들일 수 있습니다.  미리보기, 워터마크, 업로드를 쉽게 만들어 줍니다. 아래 데모페이지에서 확인해보세요.
+ [uploading](http://brianium.github.io/watermarkjs/uploading.html) 
 
-클라이언트단에서 워터마크를 찍는 것은 url이나 on-page
-Clearly watermarking on the client has some limitations when watermarking urls and on-page elements. The curious can find urls for non-watermarked images, but it is likely that most average users won't go down this path - keeping this soft barrier useful. However!...
-
-watermark.js has the ability to accept file inputs as a source for watermarking. This makes it easy to preview, watermark, and upload without the non-watermarked image ever becoming public. Check out the [uploading](http://brianium.github.io/watermarkjs/uploading.html) demo to see this in action.
-
-This tool certainly shines in admin or CMS environments where you want to generate watermarks and upload them asynchronously where it would not be possible or preferable on the server. One less thing the server has to do can be a good thing :)
-watermartjs는 워터마크를 생성하거나 권한이나 CMS(Content Management System)환경
