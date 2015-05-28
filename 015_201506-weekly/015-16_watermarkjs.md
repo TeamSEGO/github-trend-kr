@@ -34,36 +34,17 @@ $ bower install watermarkjs
 
 ##빌드
 
-Before building or testing, install all the deps:
-
+설치
 ```
 npm i
 ```
 
-빌드시키는 명령어입니다.:
-
+빌드
 ```
 npm run build
 ```
 
-Or to kick off the file watcher and build as you make changes, run the start task:
-
-```
-$ npm start
-```
-
-##Testing
-
-There is an npm script for that too!:
-
-```
-$ npm test
-```
-
-This library uses the [Jest](https://facebook.github.io/jest/) testing framework. Due to some current
-issues with Jest, Node 0.10.x is required to run the tests.
-
-##Examples
+##실행
 
 서버를 작동시키면 예제와 문서를 볼 수 있습니다.
 
@@ -71,9 +52,11 @@ issues with Jest, Node 0.10.x is required to run the tests.
 $ npm run server
 ```
 
-The examples demonstrate using watermark images and text, as well as a demonstration
-of uploading a watermarked image to Amazon S3. It is the same content hosted at
-[http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/).
+git clone https://github.com/brianium/watermarkjs.git
+깃 클론후 위의 빌드와 실행과정을 진행하면 로컬에서 아래와 같은 화면을 볼 수 있습니다.
+깃헙에서 제공하는 샘플에서는 watermarkjs를 적용한 예제들을 볼 수 있습니다.
+[http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
+.
 
 ##Motivation
 
