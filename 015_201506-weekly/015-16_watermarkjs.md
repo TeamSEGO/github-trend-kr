@@ -14,12 +14,11 @@
 
 ##watermark.js vs watermark-polyfill.js
 
-In order to use some of the ES6 features like promises, Babel provides a polyfill to enable functionality in current browsers. If you are using multiple Babel compiled projects and include
-a single polyfill, then use `dist/watermark.js` or `dist/watermark.min.js`.
+ES6을 사용하기 위해서, Babel은 현재 브라우저에서 동작할 수 있게 하는 pollyfill을 제공합니다.
 
-If you are unsure or know you are not using any other ES6 libraries, then you should use `dist/watermark-polyfill.js` or `dist/watermark-polyfill.min.js`. This file includes the polyfill
-and is ready to be dropped in.
+프로젝트에 컴파일된 여러개의 Babel을 사용하고 하나의 polyfill을 사용한다면, `dist/watermark.js`나 `dist/watermark.min.js`를 사용하세요.
 
+ES6라이브러리를 사용할수 없다면, `dist/watermark-polyfill.js`나 `dist/watermark-polyfill.min.js`를 사용할 수 있습니다. 
 ##설치
 
 watermark.js는 npm이나 bower를 사용해서 설치할 수 있습니다.:
@@ -53,20 +52,24 @@ $ npm run server
 ```
 
 git clone https://github.com/brianium/watermarkjs.git
+
 깃 클론후 위의 빌드와 실행과정을 진행하면 로컬에서 아래와 같은 화면을 볼 수 있습니다.
 깃헙에서 제공하는 샘플에서는 watermarkjs를 적용한 예제들을 볼 수 있습니다.
+![image]https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/015-16.PNG
 [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
 .
 
 ##Motivation
 
-* Not every server has image libraries (shared hosting anyone?)
-* Not every server has reliable concurrency libs for efficient uploading (shared hosting anyone?)
-* JavaScript is fun and cool - more so with ES6
+* 모든 서버는 이미지 라이브러리를 가지고 있지 않습니다.
+* 모든 서버는 효율적인 업로드를 위한 믿을수 있는 실행 라이브러리를 가지고 있지 않습니다.
+* 자바스크립트는 훌륭합니다. - ES6을 사용하면 더 그렇습니다.
 
+
+클라이언트단에서 워터마크를 찍는 것은 url이나 on-page
 Clearly watermarking on the client has some limitations when watermarking urls and on-page elements. The curious can find urls for non-watermarked images, but it is likely that most average users won't go down this path - keeping this soft barrier useful. However!...
 
 watermark.js has the ability to accept file inputs as a source for watermarking. This makes it easy to preview, watermark, and upload without the non-watermarked image ever becoming public. Check out the [uploading](http://brianium.github.io/watermarkjs/uploading.html) demo to see this in action.
 
 This tool certainly shines in admin or CMS environments where you want to generate watermarks and upload them asynchronously where it would not be possible or preferable on the server. One less thing the server has to do can be a good thing :)
-
+watermartjs는 워터마크를 생성하거나 권한이나 CMS(Content Management System)환경
