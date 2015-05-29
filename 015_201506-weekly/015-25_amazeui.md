@@ -9,3 +9,4 @@ Amaze UI는 20개 정도의 css, 10개정도의 js, 17개의 웹 components로 �
 쏟았다며 "가벼우면서 강력하다(ligth yet powerful)"고 주장하고 있습니다. 
 
 가장 큰 단점은 document page가 중국어로만(...) 제공되고 있습니다. GitHub 소스상의 docs나 공식홈페이지(http://amazeui.org/) 에서 제공한다고 하는데 모두 중국어만 있네요.. 아쉬운 부분입니다. 저라면 그냥 document가 영어로 제공되는 걸 사용할 것 같네요.
+ 
