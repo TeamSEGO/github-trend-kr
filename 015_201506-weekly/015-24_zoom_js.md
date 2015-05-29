@@ -25,3 +25,4 @@ zoom.js 는 이미지를 확대해서 볼 수 있는 jQuery plugin인데요.
 어떻게 동작하는지 확인해보고 싶으신 분들은 아래 Demo에서 테스트 해보시기 바랍니다.
 
 ### [Demo](http://fat.github.io/zoom.js/)
+ 
