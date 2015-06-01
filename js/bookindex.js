@@ -404,7 +404,7 @@ var menus = [
   ,{"name":"015-04_SpaceEngineers.md"}
   ,{"name":"015-05_datasharing.md"}
   ,{"name":"015-06_node.md"}
-  ,{"name":"015-07_JHChainableAnimat"}
+  ,{"name":"015-07_JHChainableAnimat.md"}
   ,{"name":"015-08_waifu2x.md"}
   ,{"name":"015-09_snake.md"}
   ,{"name":"015-10_kore.md"}
