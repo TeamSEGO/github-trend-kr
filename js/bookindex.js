@@ -396,5 +396,32 @@ var menus = [
   ,{"name":"014-23_sky_sdk.md"}
   ,{"name":"014-24_gonix.md"}
   ,{"name":"014-25_rtop.md"}
-]},
+]},{"volume":{"name":"201506-1","path":"015_201506-weekly"} , "articles":[
+  {"name":"README.md"}
+  ,{"name":"015-01_awesome.md"}
+  ,{"name":"015-02_json-server.md"}
+  ,{"name":"015-03_wego.md"}
+  ,{"name":"015-04_SpaceEngineers.md"}
+  ,{"name":"015-05_datasharing.md"}
+  ,{"name":"015-06_node.md"}
+  ,{"name":"015-07_JHChainableAnimat"}
+  ,{"name":"015-08_waifu2x.md"}
+  ,{"name":"015-09_snake.md"}
+  ,{"name":"015-10_kore.md"}
+  ,{"name":"015-11_leakcanary.md"}
+  ,{"name":"015-12_rust.md"}
+  ,{"name":"015-13_TouchDevelop.md"}
+  ,{"name":"015-14_node.md"}
+  ,{"name":"015-15_h2o.md"}
+  ,{"name":"015-16_watermarkjs.md"}
+  ,{"name":"015-17_deku.md"}
+  ,{"name":"015-18_justice.md"}
+  ,{"name":"015-19_ephemeral2.md"}
+  ,{"name":"015-20_keras.md"}
+  ,{"name":"015-21_ionic.md"}
+  ,{"name":"015-22_electron.md"}
+  ,{"name":"015-23_bootstrap.md"}
+  ,{"name":"015-24_zoom_js.md"}
+  ,{"name":"015-25_amazeui.md"}
+]}
 ];
