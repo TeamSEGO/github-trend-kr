@@ -1,7 +1,6 @@
+# [TouchDevelop](https://github.com/Microsoft/TouchDevelop)
 
 ![015-13_touchDev.png](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/015-13_touchDev.png)
-
-# [TouchDevelop](https://github.com/Microsoft/TouchDevelop)
 
 TouchDevelop는 Touch에 친화적이고 cross-platform이고, 모바일에서도 개발이 가능한
 프로그램이라고 설명하고 있다. 실제 모바일에서 아래 link들을 들어갔을때 PC 브라우져와도
