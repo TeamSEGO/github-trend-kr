@@ -1,7 +1,6 @@
+#justice
+
 페이지 링크 - https://github.com/okor/justice
-
-
-# [justice](https://github.com/okor/justice)
 
 
 justice 는 웹페이지 성능 metrics 를 보여주는 아주 아주 아주 가벼운  Embeddable script입니다. 
