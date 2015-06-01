@@ -1,4 +1,6 @@
-# [Ephemeral P2P](https://github.com/losvedir/ephemeral2)
+#Ephemeral P2P
+
+- 페이지 링크 : https://github.com/losvedir/ephemeral2
 
 Ephemeral은 임시라는 말이다. 말 그대로 이 프로젝트는 임시로 사이트를 개설했다가 내릴수 있는
 프로그램이다. 다소 필자에게는 생소한 erlang으로 되어 있으며, node도 일구 소스코드에 있는 것 같다.
