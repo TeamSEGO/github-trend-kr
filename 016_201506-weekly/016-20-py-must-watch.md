@@ -2,7 +2,7 @@
 
  - 페이지 링크: https://github.com/s16h/py-must-watch
 
- 스타 9300개 가량을 받은 [js-must-watch](https://github.com/bolshchikov/js-must-watch)에 영감을 받아 만들어진,
+스타 9300개 가량을 받은 [js-must-watch](https://github.com/bolshchikov/js-must-watch)에 영감을 받아 만들어진,
 **PYTHON MUST-WATCH** 시리즈 입니다.
 
 파이썬 개발하시던 분이나, 새로 배우기 시작한 분들 모두에게 도움이 될만한 자료 같습니다. 지속적으로 pull request가 들어오고 있는거로 보아 유용한 링크들은 계속 추가될 전망입니다.
