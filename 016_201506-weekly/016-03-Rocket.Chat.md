@@ -1,6 +1,6 @@
 # Rocket.Chat
 
-![rocket.PNG](C:\Users\SDS\Pictures\rocket.PNG)
+![rocket.PNG](http://snag.gy/7mDzz.jpg)
 
 * 프로젝트 페이지: https://github.com/RocketChat/Rocket.Chat
 
