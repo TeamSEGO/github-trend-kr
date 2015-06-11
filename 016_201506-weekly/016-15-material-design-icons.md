@@ -13,6 +13,6 @@
 
   [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons)
 
- 지난호에 소개해 드렸던 Materialize 를 보면 자세한 내용을 확인 하실 수 있습니다. 
- 
+ Material Design에 관한 내용은 지난호에 소개해 드렸던 Materialize 를 보면 확인 하실 수 있습니다. 
+
   [Materialize](https://github.com/TeamSEGO/github-trend-kr/blob/d06030c4a3e1819a2a8d49c760a97080f7298840/013_201505-weekly/013-12_materialize.md)
