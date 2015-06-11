@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="segoApp">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TEAM SEGO - super Team</title>
+
+  <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+  <!-- Custom CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/freelancer.css" rel="stylesheet">
+  <link href="css/trend.css" rel="stylesheet" type="text/css">
+  <!-- Custom Fonts -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="https://cdn.rawgit.com/mikeflynn/egg.js/master/egg.min.js"></script>
+  <script type="text/javascript" src="js/elevator.js"></script>
+  <link rel="stylesheet" href="./css/materialize.css">
+
+  <!--[if lte IE 7]>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+  <![endif]-->
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <meta property="og:title" content="TEAM SEGO - super Team" />
+  <meta property="og:site_name" content="Sego team 의 깃헙 트렌드 한글판"/>
+  <meta property="og:url" content="http://teamsego.github.io/github-trend-kr/" />
+  <meta property="og:description" content="Sego team 의 깃헙 트렌드 한글판"/>
+  <meta property="article:publisher" content="https://www.facebook.com/teamsego" />
+  <style type="text/css">
+     #egggif{
+      z-index:10000;position: fixed;top: 264px;left: 60px; display:none;
+     }
+     .navbar-fixed-top {
+        padding: 2px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+      }
+      .side-nav {
+        z-index: 1230;
+      }
+      .scroll-top .btn {
+        padding-left: 17px;
+        padding-top: 8px;
+        background-color: #2c3e50;
+      }
+      header,hr.star-light:after,section.success{
+        background-color: #ee6e73;
+      }
+      a {
+        color: #2C3E50;
+      }
+  </style>
+</head>
+<body id="page-top" class="index" ng-controller="segoCtrl">
+  <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header page-scroll">
+              <a href="#" data-activates="nav-mobile" class="button-collapse top-nav waves-effect waves-light circle">
+                <i class="mdi-navigation-menu"></i>
+              </a>
+              <a class="navbar-brand" href="#page-top" style="padding-left:70px">TEAM S!E!G!O!</a>
+          </div>
+      </div>
+  </nav>
+  <header>
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <logo></logo>
+                <div class="intro-text">
+                    <span class="name">TEAM S!E!G!O!</span>
+                    <hr class="star-light">
+                    <span class="skills">Special TEAM</span>
+                    <br>
+                    <p>
+                    <a id="download-button" href="https://github.com/TeamSEGO/github-trend-kr" class="btn btn-large">Fork on GitHub</a>
+                    </p>
+                    <span class="skills">
+                      <div class="fb-like" data-href="http://teamsego.github.io/github-trend-kr/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                    </span>
+                </div>
+            </div>
+        </div>
+      </div>
+      <ul id="nav-mobile" class="side-nav show-on-large" style="left: 0px;">
+        <li class="logo"><a id="logo-container" href="/" class="brand-logo"><logo></logo></a></li>
+        <li class="bold"><a href="about.html" class="waves-effect waves-teal">About</a></li>
+        <li class="no-padding">
+          <ul class="collapsible collapsible-accordion">
+            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">지난 호 보기</a>
+              <div class="collapsible-body" style="">
+                <ul>
+                  <li class="hidden"><a href="#page-top"></a></li>
+                  <li><a href="#/201506-1">15년6월 1호</a></li>
+                  <li><a href="#/201505-2">15년5월 2호</a></li>
+                  <li><a href="#/201505-1">15년5월 1호</a></li>
+                  <li><a href="#/201504-4">15년4월 4호</a></li>
+                  <li><a href="#/201504-3">15년4월 3호</a></li>
+                  <li><a href="#/201504-2">15년4월 2호</a></li>
+                  <li><a href="#/201504-1">15년4월 1호</a></li>
+                  <li><a href="#/201503-4">15년3월 4호</a></li>
+                  <li><a href="#/201503-3">15년3월 3호</a></li>
+                  <li><a href="https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-00.md ">특집! ReactJS</a></li>
+                  <li><a href="#/201503-2">15년3월 2호</a></li>
+                  <li><a href="#/201503-1">15년3월 1호</a></li>
+                  <li><a href="#/201502-4">15년2월 4호</a></li>
+                  <li><a href="#/201502-3">15년2월 3호</a></li>
+                  <li><a href="#/201502-2">15년2월 2호</a></li>
+                  <li><a href="#/201502-1">15년2월 1호</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </header>
+    <div ng-view></div>
+    <!-- Footer -->
+    <footer class="text-center">
+      <div class="footer-below">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="fb-comments" data-href="http://teamsego.github.io/github-trend-kr" data-width="100%" data-numposts="5" data-colorscheme="dark"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)
+    <div class="scroll-top page-scroll visible-xs visble-sm">-->
+    <div class="scroll-top ">
+        <a class="btn btn-primary elevator">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/async.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/freelancer.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular-route.min.js"></script>
+    <!--script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script-->
+    <script src="js/marked.js"></script>
+    <script src="js/bookindex.js"></script>
+    <script src="js/Segobook.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/js/materialize.min.js"></script>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '348359068682841',
+          xfbml      : true,
+          version    : 'v2.2'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+       var egg = new Egg("b,e,a,t", function() {
+          document.getElementById('egggif').setAttribute("style", "display: block;");
+          window.setTimeout(function() { document.getElementById('egggif').setAttribute("style", "display: none;"); }, 6300);
+       }).listen();
+       $(".button-collapse").sideNav({closeOnClick: true});
+        var elevator = new Elevator({
+         element: document.querySelector('.elevator'),
+         endAudio:  './music/ding.mp3',
+         duration: 3000 // milliseconds
+       });
+    </script>
+</body>
+</html>
