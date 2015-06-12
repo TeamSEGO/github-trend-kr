@@ -370,9 +370,9 @@ var menus = [
   ,{"name":"013-24_postcss.md"}
   ,{"name":"013-25_UITableView-FDTemplateLayoutCell.md"}
 ]},{"volume":{"name":"201505-2","path":"014_201505-weekly"} , "articles":[
-	{"name":"README.md"}
-	,{"name":"014-01_json-server.md"}
-	,{"name":"014-02_leakcanary.md"}
+   {"name":"README.md"}
+  ,{"name":"014-01_json-server.md"}
+  ,{"name":"014-02_leakcanary.md"}
   ,{"name":"014-03_PathPicker.md"}
   ,{"name":"014-04_zoom.js.md"}
   ,{"name":"014-05_Clusterize.js.md"}
@@ -423,6 +423,28 @@ var menus = [
   ,{"name":"015-23_bootstrap.md"}
   ,{"name":"015-24_zoom_js.md"}
   ,{"name":"015-25_amazeui.md"}
-]},
-//Alex add
+]},{"volume":{"name":"201506-2","path":"016_201506-weekly"}, "articles":[
+   {"name":"README.md"}
+  ,{"name":"016-01-cheesesquare.md"}
+  ,{"name":"016-02-pdfmake.md"}
+  ,{"name":"016-03-Rocket.Chat.md"}
+  ,{"name":"016-04-GitTorrent.md"}
+  ,{"name":"016-05-FlyRefresh.md"}
+  ,{"name":"016-06-vibrant.js.md"}
+  ,{"name":"016-07-polymer.md"}
+  ,{"name":"016-08-Knwl.js.md"}
+  ,{"name":"016-09-antimony.md"}
+  ,{"name":"016-10-ios_top_1000.md"}
+  ,{"name":"016-11-woofmark.md"}
+  ,{"name":"016-12-picoc.md"}
+  ,{"name":"016-13-jsblocks.md"}
+  ,{"name":"016-14-polymer-starter-kit.md"}
+  ,{"name":"016-15-material-design-icons.md"}
+  ,{"name":"016-16-TremulaJS.md"}
+  ,{"name":"016-17-Ghost.py.md"}
+  ,{"name":"016-18-agar.io-clone.md"}
+  ,{"name":"016-20-py-must-watch.md"}
+  ,{"name":"016-21-ioweb2015.md"}
+  ,{"name":"016-22-Arc-theme.md"}
+]}
 ];
