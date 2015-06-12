@@ -32,6 +32,6 @@
 
  결과는 다음과 같이 Awesome 한데! 한글이 안 찍혔네요
 
- ![image](../img/016-02.png)
+ ![image](http://teamsego.github.io/github-trend-kr/img/016-02.png)
 
  인코딩 문제인 거 같은데 이 문제는 어떻게 풀어야 할 지 모르겠네요. 

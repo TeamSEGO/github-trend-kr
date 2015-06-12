@@ -6,7 +6,7 @@
 
  peer2peer 연결로 받아주는 일을 합니다. 실제로 qgis를 받아보겠습니다.
 
- ![image](../img/016-04.png)
+ ![image](http://teamsego.github.io/github-trend-kr/img/016-04.png)
 
  다운로드 받다가 하루가 다 가게 생겼습니다.
 
