@@ -423,5 +423,6 @@ var menus = [
   ,{"name":"015-23_bootstrap.md"}
   ,{"name":"015-24_zoom_js.md"}
   ,{"name":"015-25_amazeui.md"}
-]}
+]},
+//Alex add
 ];
