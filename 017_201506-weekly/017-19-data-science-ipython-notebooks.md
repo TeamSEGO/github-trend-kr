@@ -55,7 +55,8 @@
 	pip install readline
 	```
 	- 파이썬 확장 라이브러리들 모음 사이트 : http://www.lfd.uci.edu/~gohlke/pythonlibs/
-	-"ipython notebook"을 실행하면 웹 브라우저가 열림
+
+	- "ipython notebook"을 실행하면 웹 브라우저가 열림
 
  ##### 최근 ipython notebook => jupyther로 업그레이드 되었습니다.(파이썬2 뿐만 아니라 파이썬3도 지원) 
    업그레이드 방법 : pip install --upgrade ipython / pip install jsonschema 실행 후 "ipython notebook" 재실행
