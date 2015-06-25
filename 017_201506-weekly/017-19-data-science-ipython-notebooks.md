@@ -16,6 +16,7 @@
 
  2. 환경변수에 파이썬 추가하기
  	- cmd창에 아래의 명령어를 입력한 후 "path"를 실행하여 정상적으로 추가되었는지 확인
+
  	 ```
 	 setx PATH "C:\Python27;C:\Python27\Scripts;C:\Python27\Lib\site-packages"
 	 ```
@@ -24,6 +25,7 @@
  3. 패키지 관리 도구 설치하기
  	- get-pip.py 다운로드 : https://raw.githubusercontent.com/pypa/pip/master/contrib/get-pip.py
  	- cmd창에 아래의 명령어를 입력
+
  	  ```
 	  python get-pip.py
 	  ```
@@ -55,7 +57,7 @@
 	- 파이썬 확장 라이브러리들 모음 사이트 : http://www.lfd.uci.edu/~gohlke/pythonlibs/
 	-"ipython notebook"을 실행하면 웹 브라우저가 열림
 
- * 최근 ipython notebook => jupyther로 업그레이드 되었습니다.(파이썬2 뿐만 아니라 파이썬3도 지원) 
+ ##### 최근 ipython notebook => jupyther로 업그레이드 되었습니다.(파이썬2 뿐만 아니라 파이썬3도 지원) 
    업그레이드 방법 : pip install --upgrade ipython
 					 pip install jsonschema 실행 후 
 					 ipython notebook 재실행
@@ -69,20 +71,21 @@
  ![image](../img/017-19-03.png)
 
  3. 메뉴 소개
+ untitled3을 클릭하여 파일명 변경 가능
  ![image](../img/017-19-04.png) 
- - untitled3을 클릭하여 파일명 변경 가능
+ 
  ![image](../img/017-19-05.png)
- - 실행 : Ctrl + Enter
- - New Code line : Alt + Enter
+ 실행 : Ctrl + Enter
+ New Code line : Alt + Enter
 
  4. Example
  ![image](../img/017-19-06.png)
  ![image](../img/017-19-07.png)
- - jupyther notebook에서는 매직 커맨드를 통해 단순히 파이썬 코드를 실행시키는 것 이외에도 다양한 작업을 수행할 수 있도록 도와줍니다. 예를 들어 %%html을 첫 줄에 작성하고, 아래부터는 html코드를 작성하면 html 코드를 직접 결과 블록에 삽입할 수도 있습니다.  
+ jupyther notebook에서는 매직 커맨드를 통해 단순히 파이썬 코드를 실행시키는 것 이외에도 다양한 작업을 수행할 수 있도록 도와줍니다. 예를 들어 %%html을 첫 줄에 작성하고, 아래부터는 html코드를 작성하면 html 코드를 직접 결과 블록에 삽입할 수도 있습니다.  
  ![image](../img/017-19-08.png)
 
- - 아래는 matplotlib를 이용하여 함수 그래프를 표현해 보았습니다.
+ 아래는 matplotlib를 이용하여 함수 그래프를 표현해 보았습니다.
  ![image](../img/017-19-09.png)
 
 
-* ipython-notebook을 직접 사용해보니 소스와 결과를 바로 바로 볼 수 있고, 웹 어플리케이션이니 여러 사람이 함께 공유할 수 있어서 좋은 것 같네요. 추천!!
+##### ipython-notebook을 직접 사용해보니 소스와 결과를 바로 바로 볼 수 있고, 웹 어플리케이션이니 여러 사람이 함께 공유할 수 있어서 좋은 것 같네요. 추천!!
