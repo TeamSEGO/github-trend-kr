@@ -58,9 +58,7 @@
 	-"ipython notebook"을 실행하면 웹 브라우저가 열림
 
  ##### 최근 ipython notebook => jupyther로 업그레이드 되었습니다.(파이썬2 뿐만 아니라 파이썬3도 지원) 
-   업그레이드 방법 : pip install --upgrade ipython
-					 pip install jsonschema 실행 후 
-					 ipython notebook 재실행
+   업그레이드 방법 : pip install --upgrade ipython / pip install jsonschema 실행 후 "ipython notebook" 재실행
 
 ## 사용방법
  1. 첫번째 로컬호스트 로딩 화면
@@ -70,8 +68,7 @@
  ![image](../img/017-19-02.png) 
  ![image](../img/017-19-03.png)
 
- 3. 메뉴 소개
- untitled3을 클릭하여 파일명 변경 가능
+ 3. 메뉴 : untitled3을 클릭하여 파일명 변경 가능
  ![image](../img/017-19-04.png) 
  
  ![image](../img/017-19-05.png)
@@ -88,4 +85,4 @@
  ![image](../img/017-19-09.png)
 
 
-##### ipython-notebook을 직접 사용해보니 소스와 결과를 바로 바로 볼 수 있고, 웹 어플리케이션이니 여러 사람이 함께 공유할 수 있어서 좋은 것 같네요. 추천!!
+#### ipython-notebook을 직접 사용해보니 소스와 결과를 바로 바로 볼 수 있고, 웹 어플리케이션이니 여러 사람이 함께 공유할 수 있어서 좋은 것 같네요. 추천!!
