@@ -7,7 +7,7 @@
 ![alt text](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB/blob/master/output/run_02_screenshot.png?raw=true "Chart output")
 
 
-What's New
+새로운 것
 ===
 8 Jun 2015
 - PEP8 표준을 준수했습니다.
@@ -24,6 +24,6 @@ What's New
 사용하는 방법
 ===
 - *classes* 폴더에는 필요한 클래스 파일들이 있습니다.
-- *models* 폴더에는 단순한 거래 모델이 있습니다.
+- *models* 폴더에는 주식 거래 모델이 있습니다.
 - *params* 폴더에는 다양한 변수들을 세팅하는 파일이 있습니다.
 - **main.py** 를 실행시키면 모델이 나타납니다.
