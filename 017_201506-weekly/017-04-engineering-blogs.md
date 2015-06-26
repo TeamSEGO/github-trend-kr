@@ -2,7 +2,6 @@
 
 - 페이지 링크: https://github.com/kilimchoi/engineering-blogs
 
-![이미](../img/017-01-01.png)
 
 이번에 소개드릴 내용은 소프트웨어 엔지니어링 블로그 모음입니다.
 
