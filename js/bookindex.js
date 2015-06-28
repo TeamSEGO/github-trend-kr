@@ -446,5 +446,32 @@ var menus = [
   ,{"name":"016-20-py-must-watch.md"}
   ,{"name":"016-21-ioweb2015.md"}
   ,{"name":"016-22-Arc-theme.md"}
+]},{"volume":{"name":"201506-3","path":"017_201506-weekly"}, "articles":[
+   {"name":"README.md"}
+  ,{"name":"017-01-infer.md"}
+  ,{"name":"017-02-purifycss.md"}
+  ,{"name":"017-03-docker-jumpstart.md"}
+  ,{"name":"017-04-engineering-blogs.md"}
+  ,{"name":"017-05-AppIntro.md"}
+  ,{"name":"017-06-exercises.md"}
+  ,{"name":"017-07-Knwl.js.md"}
+  ,{"name":"017-08-whatiscode.md"}
+  ,{"name":"017-09-xhyve.md"}
+  ,{"name":"017-10-datasharing.md"}
+  ,{"name":"017-11-trine.md"}
+  ,{"name":"017-12-awesome.md"}
+  ,{"name":"017-13-Onboard.md"}
+  ,{"name":"017-14-High-Frequency-Trading-Model-with-IB.md"}
+  ,{"name":"017-15-WWDC.md"}
+  ,{"name":"017-16-UniversalPauseButton.md"}
+  ,{"name":"017-17-awesome-swift.md"}
+  ,{"name":"017-18-pinot.md"}
+  ,{"name":"017-19-data-science-ipython-notebooks.md"}
+  ,{"name":"017-20-grace.md"}
+  ,{"name":"017-21-awesome-ios.md"}
+  ,{"name":"017-22-aerosolve.md"}
+  ,{"name":"017-23-ProductTour.md"}
+  ,{"name":"017-24-bottomsheet.md"}
+  ,{"name":"017-25-material-theme.md"}
 ]}
 ];
