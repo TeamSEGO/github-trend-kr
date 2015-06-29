@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="segoApp">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Sego team 의 깃헙 트렌드 한글판">
+    <meta name="author" content="Team SEGO">
+
+    <title>TEAM SEGO - super Team</title>
+
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/trend.css" rel="stylesheet" type="text/css">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://cdn.rawgit.com/mikeflynn/egg.js/master/egg.min.js"></script>
+    <script type="text/javascript" src="js/elevator.js"></script>
+    <!--[if lte IE 7]>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+    <![endif]-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <meta property="og:title" content="TEAM SEGO - super Team" />
+    <meta property="og:site_name" content="Sego team 의 깃헙 트렌드 한글판"/>
+    <meta property="og:url" content="http://teamsego.github.io/github-trend-kr/" />
+    <meta property="og:description" content="Sego team 의 깃헙 트렌드 한글판"/>
+    <meta property="article:publisher" content="https://www.facebook.com/teamsego" />
+    <script type="text/javascript">
+        var egg = new Egg("b,e,a,t", function() {
+           document.getElementById('egggif').setAttribute("style", "display: block;");
+           window.setTimeout(function() { document.getElementById('egggif').setAttribute("style", "display: none;"); }, 6300);
+        }).listen();
+        window.onload = function() {
+          var elevator = new Elevator({
+            element: document.querySelector('.elevator'),
+            endAudio:  './music/ding.mp3',
+            duration: 3000 // milliseconds
+          });
+        }
+    </script>
+    <style type="text/css">
+       #egggif{ 
+        z-index:10000;position: fixed;top: 264px;left: 60px; display:none;
+       }
+    </style>
+</head>
+
+<body id="page-top" class="index" ng-controller="segoCtrl">
+    <embed id="egggif" allowscriptaccess="never" type="application/x-shockwave-flash" width="270" height="180" src="http://player.bgmstore.net/ieSSr" allowfullscreen="true" allownetworking="internal" style="">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#page-top">TEAM S!E!G!O!</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!--<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li >
+                        <a href="#/201504-4">15년4월 4호</a>
+                    </li>
+                    <li >
+                        <a href="#/201504-3">15년4월 3호</a>
+                    </li>
+                    <li >
+                        <a href="#/201504-2">15년4월 2호</a>
+                    </li>
+                    <li >
+                        <a href="#/201504-1">15년4월 1호</a>
+                    </li>
+                    <li >
+                        <a href="#/201503-4">15년3월 4호</a>
+                    </li>
+                    <li >
+                        <a href="#/201503-3">15년3월 3호</a>
+                    </li>
+                    <li >
+                        <a href="https://github.com/TeamSEGO/github-trend-kr/blob/master/special/deep-dive-reactJs-00.md ">특집! ReactJS</a>
+                    </li>
+                    <li >
+                        <a href="#/201503-2">15년3월 2호</a>
+                    </li>
+                    <li >
+                        <a href="#/201503-1">15년3월 1호</a>
+                    </li>
+                    <li >
+                        <a href="#/201502-4">15년2월 4호</a>
+                    </li>
+                    <li>
+                        <a href="#/201502-3">15년2월 3호</a>
+                    </li>
+                    <li >
+                        <a href="#/201502-2">15년2월 2호</a>
+                    </li>
+                    <li >
+                        <a href="#/201502-1">15년2월 1호</a>
+                    </li>
+                </ul>
+            </div> -->
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <logo></logo>
+                    <div class="intro-text">
+                        <span class="name">TEAM S!E!G!O!</span>
+                        <hr class="star-light">
+                        <span class="skills">Special TEAM</span>
+                        <br>
+                        <p>
+                        <a href="https://github.com/TeamSEGO/github-trend-kr" class="btn btn-primary">Fork on GitHub</a>
+                        </p>
+                        <span class="skills">
+                          <div class="fb-like" data-href="http://teamsego.github.io/github-trend-kr/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div ng-view></div>
+
+    <!-- Footer -->
+    <footer class="text-center">
+      <div class="footer-below">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="fb-comments" data-href="http://teamsego.github.io/github-trend-kr" data-width="100%" data-numposts="5" data-colorscheme="dark"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) 
+    <div class="scroll-top page-scroll visible-xs visble-sm">-->
+    <div class="scroll-top ">    
+        <a class="btn btn-primary elevator">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/async.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/freelancer.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular-route.min.js"></script>
+    <!--script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script-->
+    <script src="js/marked.js"></script>
+    <script src="js/bookindex.js"></script>
+    <script src="js/Segobook.js"></script>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '348359068682841',
+          xfbml      : true,
+          version    : 'v2.2'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+</body>
+
+</html>
