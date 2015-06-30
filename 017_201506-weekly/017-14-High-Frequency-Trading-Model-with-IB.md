@@ -4,7 +4,7 @@
 목적
 ====================================
 계속해서 번화하는 데이터를 처리하는 간단한 주식거래 모델입니다.
-![alt text](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB/blob/master/output/run_02_screenshot.png?raw=true "Chart output")
+![alt text](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/017-14.png)
 
 
 새로운 것
