@@ -14,11 +14,23 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
 
 혹시 심층 분석을 원하시는 내용이 있으시면 issue에 남겨주세요.
 
+## 2015년 7월    
+  1호 : http://teamsego.github.io/github-trend-kr/#/201507-1  
+
+
 ## 2015년 6월
 
   1호 : http://teamsego.github.io/github-trend-kr/#/201506-1
   
   (작성 : nemo, pilsner)
+  
+  2호 : http://teamsego.github.io/github-trend-kr/#/201506-2
+  
+  (작성 : Keen, Alex)   
+  
+  2호 : http://teamsego.github.io/github-trend-kr/#/201506-3     
+  
+  (작성 : Depa)
 
 
 ## 2015년 5월
