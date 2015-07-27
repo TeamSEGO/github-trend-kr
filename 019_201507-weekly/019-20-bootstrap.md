@@ -12,7 +12,7 @@ Material Design Lite 출시 당일, [tutorialzine](http://tutorialzine.com/)에�
 
 그만큼 사람들의 관심이 뜨겁다는 것이겠지요?
 
-부트스트랩은 과연 앞으로 어떤 변화를 하게 될 지.. 점점 흥미진진하네요 :)
+부트스트랩은 과연 앞으로 어떤 변화를 하게 될 지.. 점점 흥미진진 하네요 :)
 
 bootstrap의 README 한글화 페이지를 보고 싶다면, 지난 깃헙트렌드를 참조하세요.
 - https://github.com/TeamSEGO/github-trend-kr/blob/master/005_201503-weekly/005-22_bootstrap.md

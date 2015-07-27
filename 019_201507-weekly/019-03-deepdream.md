@@ -22,4 +22,4 @@ IpythonNoteBook 에서 볼 수 있게 작업이 진행되고 있습니다.
 
 다행히 [깃헙페이지](https://github.com/google/deepdream/blob/master/dream.ipynb) 에서
 볼 수 있도록 제공하고 있는데요. 몇가지 명령어를 통해 하늘과 구름 이미지가 재미있게 변화하는 모습을 보실 수
-있으실 거 같습니다.
+있으실 것 같습니다.
