@@ -8,13 +8,13 @@
 
 React가 몇가지 Killer 아키텍쳐를 개발자들에게 있는데 그 중에 Virtual DOM 이라는 녀석이 있습니다.
 
-[React Virtual DOM](https://facebook.github.io/react/docs/glossary.html)
+### [React Virtual DOM](https://facebook.github.io/react/docs/glossary.html)
 
 지금 소개해 드리는 것은 Incremental-DOM 은 Virtual DOM을 더 좋게 보완하면서
 
 Angular처럼 Template을 쓸 수 있도록 해 주는 것을 목표로(예, 아직 In-Progress) 하고 있습니다.
 
-[Incremental-DOM 소개](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)
+### [Incremental-DOM 소개](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)
 
 위의 내용을 요약하면 두가지 측면에서 Virtual DOM보다 Incremental-DOM 이 좋다는 것인데,
 
