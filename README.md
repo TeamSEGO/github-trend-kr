@@ -18,6 +18,10 @@ special 심층분석 내용들도 업데이트 하고 있습니다.
   1호 : http://teamsego.github.io/github-trend-kr/#/201507-1       
   
   (작성 : caley, nemo)
+  
+  2호 : http://teamsego.github.io/github-trend-kr/#/201507-2
+  
+  (작성 : claire, tim)
 
 
 ## 2015년 6월
