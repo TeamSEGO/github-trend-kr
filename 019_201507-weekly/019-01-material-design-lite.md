@@ -2,7 +2,7 @@
 
 - 페이지 링크: https://github.com/google/material-design-lite
 
-모바일 웹, 앱 디자인을 위해 Material Design을 제시했던 구글에서 드디어  [Material Design Lite](http://www.getmdl.io/)라는 UI라이브버리를 내놨습니다.
+모바일 웹, 앱 디자인을 위해 Material Design을 제시했던 구글에서 드디어  [Material Design Lite](http://www.getmdl.io/)라는 UI라이브러리를 내놨습니다.
 나오자 마자 11,000 여 개의 Star를 받으며 깃헙트랜드 1위로 올랐습니다.  
 
 ![이미지](../img/019-01-01.png)
