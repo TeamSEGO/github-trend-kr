@@ -2,14 +2,14 @@
 
 - 페이지 링크: https://github.com/google/material-design-lite
 
-모바일 웹, 앱 디자인을 위해 Material Design을 제시했던 구글에서 드디어  [Material Design Lite](http://www.getmdl.io/)라는 UI라이브버리를 내놨습니다.
+모바일 웹, 앱 디자인을 위해 Material Design을 제시했던 구글에서 드디어  [Material Design Lite](http://www.getmdl.io/)라는 UI라이브러리를 내놨습니다.
 나오자 마자 11,000 여 개의 Star를 받으며 깃헙트랜드 1위로 올랐습니다.  
 
 ![이미지](../img/019-01-01.png)
 
 지원해주는 브라우져는 위 그림과 같고, 의외로 IE에서 사용할 수 있을 것이라 기대됩니다.
 
-저는 간단한 웹사이트를 만들때 주로 [bootstrap](www.getbootstrap.com/) 이나 지난 13호에 소개해 드렸던 [Materialize](http://materializecss.com/) 를 주로 사용했습니다. 실제로 github trend kr 작성을 위한  [github-trend-kr-starter](http://teamsego.github.io/github-trend-kr-starter/)를 만들기 위해 Materialize를 이용해 만들고 있던 도중, material-design-lite가 나와서 이걸로 바꿔서 제작을 해봤습니다.
+저는 간단한 웹사이트를 만들때 주로 [bootstrap](http://getbootstrap.com/) 이나 지난 13호에 소개해 드렸던 [Materialize](http://materializecss.com/) 를 주로 사용했습니다. 실제로 github trend kr 작성을 위한  [github-trend-kr-starter](http://teamsego.github.io/github-trend-kr-starter/)를 만들기 위해 Materialize를 이용해 만들고 있던 도중, material-design-lite가 나와서 이걸로 바꿔서 제작을 해봤습니다.
 
 간단하게 이용해봐서 그런지 기존에 사용했던 것들과 큰 차이는 없는 것 같습니다.
 
