@@ -3,7 +3,8 @@
 
 ZomboDB는 Elasticsearch의 index를 이용하여 만든 full-text search를 지원하는 postgres extension입니다.
 겉으로 보기에 ZomboDB의 index는 Postgres와 전혀 다르지 않고 INSERT, UPDATE, DELETE, COPY, VACUUM 모두 지원합니다.
-설치를 위해서는 아래와 같은 프로그램들이 필요합니다.
+설치를 위해서는 아래와 같은 프로그램들이 필요합니다.    
+
 ![alt text](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/20-13-1.PNG)
 
 참고사항으로 Linux와 OS X에서 테스트는 됐지만 window에서 서포트가 될지는 확실히 않다고 합니다.
