@@ -4,7 +4,7 @@
 
 ![image](https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif)
 
-작년 11월 [Dribble](https://dribbble.com/shots/1797373-Pull-Down-To-Refresh)에 한유저가 화면 리프레쉬를 고안해냈는데 역시 능력 개발자가 이것을 Base로 구현을 해놓았습니다.(역시...-_-)=b)
+작년 11월 [Dribble](https://dribbble.com/shots/1797373-Pull-Down-To-Refresh)에 한 유저가 화면 리프레쉬를 디자인했는데 역시 능력 개발자가 이것을 Base로 구현을 해놓았습니다.(역시...-_-)=b)
 
 사용법 역시 간단합니다.
 레이아웃에 아래처럼 설정해주시고
