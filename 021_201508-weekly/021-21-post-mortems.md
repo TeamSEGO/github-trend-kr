@@ -31,7 +31,7 @@ Post-mortems의 카테고리는 다음과 같습니다.
 **[Other lists of postmortems](https://github.com/danluu/post-mortems/blob/master/README.md#other-lists-of-postmortems)**
 
 
-※ 추가적으로 **Post-Mortem**이라는 단어의 의미를 찾다가 우연히 발견한 페이지도 공유합니다 :)
+※ 추가적으로 **Post-Mortems** 를 검색하다 우연히 발견한 페이지도 공유합니다 :)
 
 [135 Startup Failure Post-Mortems (135개의 스타트업 실패 사례분석)- AUGUST 17, 2015](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 
