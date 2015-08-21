@@ -2,9 +2,11 @@
 
 - 페이지 링크: https://github.com/danluu/post-mortems
 
+
+
 이번에 소개해드릴 트렌드는 **Post-mortem** 모음집 입니다.
 
-Post-mortem 을 우리말로 번역하자면 **사후검토, 사후분석** 쯤으로 생각하시면 되겠네요.
+본래 Post-mortem의 사전적 의미는 **해부/부검** 인데, **사후검토, 사후분석** 쯤으로 생각하시면 되겠네요.
 
 여러 기업들이 자신들의 실수 혹은 실패 등을 통해 분석한 Article을 모아놓은 것이라고 볼 수 있습니다.
 
@@ -29,8 +31,8 @@ Post-mortems의 카테고리는 다음과 같습니다.
 **[Other lists of postmortems](https://github.com/danluu/post-mortems/blob/master/README.md#other-lists-of-postmortems)**
 
 
-ps. postmortem이라는 단어의 의미를 찾다가 우연히 발견한 페이지도 공유합니다 :)
+※ 추가적으로 **Post-Mortem**이라는 단어의 의미를 찾다가 우연히 발견한 페이지도 공유합니다 :)
 
 [135 Startup Failure Post-Mortems (135개의 스타트업 실패 사례분석)- AUGUST 17, 2015](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 
-전부 영어입니다. 하하하하...  굉장히 좋은 내용들인 것 같은데 술술 읽히진 않네요  :(
+[![post-mertems](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2014/01/1-freehand.png)](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
