@@ -39,4 +39,4 @@ LIVE WATCHING이 가능하여 서로 다른 장소에 있는 유저가 동시에
 
 
 ## LIVE WATCHING
-![image4](http://i.imgur.com/ISPeD8A.gif)
+![image4](../img/021-09-02.gif)
