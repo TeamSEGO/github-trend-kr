@@ -554,5 +554,32 @@ var menus = [
   ,{"name":"020-23-iron-node.md"}
   ,{"name":"020-24-wopr.md"}
   ,{"name":"020-25-show-me-the-react.md"}
+]},{"volume":{"name":"201508-2","path":"021_201508-weekly"}, "articles":[
+   {"name":"README.md"}
+  ,{"name":"021-01-WinObjC.md"}
+  ,{"name":"021-02-JAWS.md"}
+  ,{"name":"021-03-freecodecamp.md"}
+  ,{"name":"021-04-awesome-selfhosted.md"}
+  ,{"name":"021-05-data-science-blogs.md"}
+  ,{"name":"021-06-fast-ruby.md"}
+  ,{"name":"021-07-tufte-css.md"}
+  ,{"name":"021-08-atom-pair.md"}
+  ,{"name":"021-09-streama.md"}
+  ,{"name":"021-10-ExData_Plotting1.md"}
+  ,{"name":"021-11-awesome.md"}
+  ,{"name":"021-12-whosthere.md"}
+  ,{"name":"021-13-webglstudio.js.md"}
+  ,{"name":"021-14-ImagePlay.md"}
+  ,{"name":"021-15-the-swift-programming-language-in-chinese.md"}
+  ,{"name":"021-16-Tomorrow.md"}
+  ,{"name":"021-17-datasharing.md"}
+  ,{"name":"021-18-PINRemoteImage.md"}
+  ,{"name":"021-19-WaveSwipeRefreshLayout.md"}
+  ,{"name":"021-20-minigrid.md"}
+  ,{"name":"021-21-post-mortems.md"}
+  ,{"name":"021-22-mycli.md"}
+  ,{"name":"021-23-redux.md"}
+  ,{"name":"021-24-material-design-lite.md"}
+  ,{"name":"021-25-shotcut.md"}
 ]}
 ];
