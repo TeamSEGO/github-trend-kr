@@ -4,7 +4,7 @@
 
 이번주에도 순위권이네요! 7월 첫째주부터 5회 연속 순위권에 오른 freecodecamp 입니다.
 
-
+[ 지난 회차 다시보기 ]
 
 ([7월 1호](http://teamsego.github.io/github-trend-kr/#/201507-1) 내용)
 
