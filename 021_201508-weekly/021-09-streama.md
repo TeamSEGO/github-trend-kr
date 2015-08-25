@@ -12,7 +12,7 @@
 
 아래처럼 본인이 가지고있는 동영상을 페이지에 정리할 수 있습니다.
 
-![image1](../img/021-09-01.png)
+![image1](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/021-09-01.png)
 
 CONTINUE WATCHING 부분은 끝까지 보지 않은 영상의 경우 이어보기를 하도록 정리하고 있는 것을 볼 수 있습니다.
 
@@ -39,4 +39,4 @@ LIVE WATCHING이 가능하여 서로 다른 장소에 있는 유저가 동시에
 
 
 ## LIVE WATCHING
-![image4](../img/021-09-02.gif)
+![image4](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/021-09-02.gif)
