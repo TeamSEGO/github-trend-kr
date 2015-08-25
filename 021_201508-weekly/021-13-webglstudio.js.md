@@ -27,5 +27,5 @@ Path 의  변경이 필요하면 config.json 파일을 변경하시면됩니다.
 실행하면 아래 그림처럼 아주 멋있는 3D그래프를 에디터를 보실 수 있습니다.
 
 
-![이미지](../img/021-12-1.PNG)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/20-13-1.PNG)
 
