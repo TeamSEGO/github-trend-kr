@@ -2,9 +2,6 @@
 
 - 페이지 링크: https://github.com/jagenjo/webglstudio.js
 
-#WebGLStudio.js
-
-
 WebGLStudio.js 는 브라우저 안에서  full 3D graphics suite 를 구현하는 수 있는 오픈소스입니다.
 이젠 브러우저에서도 3D그래프를 만들수 있네요  
 또한  scene, the materials, code behaviours, design effects, shaders 을 수정 할 수도 있고  이것을 공유할 수도 있습니다,
