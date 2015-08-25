@@ -21,7 +21,7 @@ simple, with well-set typography, extensive sidenotes, and tight integration of 
 그럼 일단 도대체 Tufte CSS 이 몬지 잠시 볼까요?
 http://www.daveliepmann.com/tufte-css/  페이지에서 볼수 있는데요.
 
-![이미지](../img/021-07-1.png)
+![이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/021-07-1.png)
 
 
 보니 사람의 손편지 글씨체 같네요.
