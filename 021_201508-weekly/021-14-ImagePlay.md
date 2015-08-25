@@ -10,4 +10,4 @@ rapid prototyping 툴입니다.
 
 재미있는 것은 내가 이미지 프로세싱을 설계를 하고 그것을 플레이 해 볼 수 있다는 점이 흥미롭습니다.
 
-![참조 이미지](../img/imageplay.png)
+![참조 이미지](https://raw.githubusercontent.com/TeamSEGO/github-trend-kr/master/img/imageplay.png)
